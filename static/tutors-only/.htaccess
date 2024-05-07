@@ -1,0 +1,4 @@
+AuthName "Inloggning krävs"
+AuthType Basic
+AuthUserFile /it/www/htdocs/it/education/course/homepage/introdat/ht23/.htpasswd
+Require valid-user
