@@ -100,3 +100,13 @@ This will update `mod.go` with referenses to the latest version of each module.
 Read more
 [here](https://gohugo.io/hugo-modules/use-modules/#make-and-test-changes-in-a-module)
 about how to update a specific module and more options. 
+
+## Build subsites
+
+```
+hugo server --config=year/2024/hugo.toml
+```
+
+```
+hugo server --config=year/2024-eng/hugo.toml
+```
