@@ -44,6 +44,15 @@ title = 'My New Hugo Site'
     # Relearn Theme
     # These options are specific to the Relearn theme.
 
+    # Avoid new asset URLs on build.
+    # Default: false
+    # By default JavaScript-files and CSS-files get a unique ID on each rebuild.
+    # This makes sure, the user always has the latest version and not some stale
+    # copy of his browser cache. Anyways, it can be desireable to turn this
+    # off in certain circumstances. For example if you have Hugo's dev server
+    # running. Also some proxies dislike this optimization.
+    disableAssetsBusting = true
+
     # Filename suffix for variant files.
     # Default: not set
     # The theme modifies the variant stylesheets during build and tries to store
