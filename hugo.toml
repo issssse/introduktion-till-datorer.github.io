@@ -37,7 +37,6 @@ title = 'My New Hugo Site'
 
 [params]
     title = "Introduktion till datorer"
-    year = 2024
 
     stylesheets = ["custom.css"]
 
