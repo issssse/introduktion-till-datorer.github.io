@@ -9,7 +9,7 @@ title: Introduction to IT systems 2023
 
 Autumn {{< year >}}, Introduction to computers is part of a number of
 introductory courses at the in [Faculty of science and Technology][teknat] at
-[Uppsala University][uu]. This is english version of Introduction to IT systems for the following two
+[Uppsala University][uu]. This is the english version of Introduction to IT systems for the following two
 introductory courses at [Campus Gotland][got].
 
 
