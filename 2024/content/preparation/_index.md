@@ -28,8 +28,7 @@ Lägerhyddsvägen 1 och hit tar du enkelt [buss][ul-polacksbacken] eller
 ## Campus Gotland
 
 [Campus Gotland][campus-gotland] ligger mellan stranden och ringmuren i Visbys
-inre hamn. Addressen är Cramérgatan 3. Läs mer här om [hur du hittar till Campus
-Gotland][campus-gotland-hitta-hit]. På kartan nedan ser du de olika byggnaderna som utgör Campus Gotland. [Receptionen][campus-gotland-reception]
+inre hamn. Addressen är [Cramérgatan 3][campus-gotland-google-maps]. På kartan nedan ser du de olika byggnaderna som utgör Campus Gotland. [Receptionen][campus-gotland-reception]
 hittar du vid huvudentrén.
 
 ![](/images/preparation/map-of-campus-gotland.jpg)
@@ -37,7 +36,8 @@ hittar du vid huvudentrén.
 [campus-gotland]: https://www.campusgotland.uu.se/
 [campus-gotland-reception]: https://www.campusgotland.uu.se/student/reception/
 
-[campus-gotland-hitta-hit]: https://www.campusgotland.uu.se/om/hittahit/
+[campus-gotland-google-maps]:
+    https://www.google.com/maps/place/Huvudentr%C3%A9,+Cram%C3%A9rgatan+3,+621+57+Visby/@57.6394469,18.2861954,17z/data=!3m1!4b1!4m6!3m5!1s0x46f7aed6047df557:0x3c467d3a14fe45d6!8m2!3d57.6394441!4d18.2887703!16s%2Fg%2F12hqvp73_?entry=ttu
 
 ## Studentkonto
 

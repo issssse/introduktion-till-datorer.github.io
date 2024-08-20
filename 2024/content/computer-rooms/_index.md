@@ -27,9 +27,6 @@ På campus Ångströmlaboratoriet finns följande datorsalar med Windows.
 [10K1201]: https://use.mazemap.com/#v=1&config=uu&zlevel=-1&center=17.646815,59.839653&zoom=18&campusid=49&sharepoitype=poi&sharepoi=1000824213
 [10K1203]: https://use.mazemap.com/#v=1&config=uu&zlevel=-1&center=17.646815,59.839653&zoom=18&campusid=49&sharepoitype=poi&sharepoi=1000824267
 
-Läs mer om datorsalarna [här][ångström]. 
-
-[ångström]: https://www.angstrom.uu.se/service/lokaler/#anchor-768232
 
 ## Campus Gotland
 
@@ -39,9 +36,13 @@ På campus Gotland finns följande datorsal.
 |-------------------------|---------------|
 | [Sal B36][b36]          | 24            |
 
-Läs mer om datorsalen [här][gotland]. 
+## Mer om datasalarna
+
+Läs mer om datorsalarna på Campus Ångströmlaboratoriet och Campus Gotland
+[här][datorsalar].
 
 
-[b36]: https://www.campusgotland.uu.se/om/lokaler/husb/#article_component_7_2
+[datorsalar]: https://www.uu.se/student/it-for-studenter/datorsalar
 
-[gotland]: https://www.campusgotland.uu.se/student/it/datorsal/
+[b36]: https://use.mazemap.com/#v=1&campusid=100
+
