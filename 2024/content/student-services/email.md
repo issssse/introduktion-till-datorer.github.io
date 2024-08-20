@@ -7,12 +7,30 @@ Förutom att du via Studium kan skicka och läsa
 [meddelanden](../studium#meddelanden) har du som student en e-post-address som
 är kopplad till Outlook.
 
+## Aktivera multifaktorautentisering (MFA)
+
+För att komma åt din epost behöver du först aktivera Multifaktorautentisering
+([MFA][mfa]). Du kan aktivera MFA på två olika sätt: 
+
+- Aktivera MFA med [mobiltelefon][mfa-mobile]
+- Aktivera MFA med [webbläsare][mfa-browser]
+
+[mfa]:
+    https://www.uu.se/student/it-for-studenter/microsoft-365-education/multifaktorautentisering
+
+[mfa-mobile]:
+    https://www.uu.se/student/it-for-studenter/microsoft-365-education/multifaktorautentisering/aktivera-mfa-med-mobiltelefon
+
+[mfa-browser]: https://www.uu.se/student/it-for-studenter/microsoft-365-education/multifaktorautentisering/aktivera-mfa-med-webblasare
+
 ## Hitta till din epost
 
 Du hittar din epost bland annat från student-ingången https://www.uu.se/student (1) 
-vid Uppsala universitet och menyn i Studium (2).
+vid Uppsala universitet och menyn i [Studium][studium] (2).
 
 ![](/images/studenttjanster/schedule/studium-menu-uu-student.png?width=222px)
+
+[studium]: https://studium.uu.se/
 
 [uu-student]: https://www2.uu.se/student/
 
@@ -22,6 +40,9 @@ vid Uppsala universitet.
 [uu-student]: https://www2.uu.se/student/
 
 ![](/images/studenttjanster/schedule/uu-student-login.png?width=666px)
+
+
+## Inkorgen 
 
 Efter att du loggat in (3) skrollar du ner tills du ser en ruta med ditt namn
 (till exempel Anna Andersson) högst upp (4). 
@@ -33,6 +54,20 @@ Klicka på [E-post][email] (5) för att komma till din inkorg.
 
 
 [email]: https://outlook.com/student.uu.se
+
+## Logga in med MFA
+
+Du kan nu behöva logga in en gång till med MFA för att komma åt din epost. 
+När du loggar in med MFA skall du ange den sexsiffriga engångskoden som du hittar i
+Microsoft Authenticator-appen på din mobiltelefon. 
+
+
+![](/images/studenttjanster/email/mfa-step-1.png?width=333px)
+
+## Din inkorg
+
+Efter att du loggat in kommer du till din inkorg. 
+
 
 ![](/images/studenttjanster/email/inbox.gif)
 
@@ -77,7 +112,7 @@ måste du skriva vilken kurs det gäller samt vilket år och termin du gick kurs
 En fortsättning på vårt exempel skulle kunna se ut så här. 
 
 ``` text
-Jag heter Anna Andersson och läste kursen 1DT051 hösten 2020. 
+Jag heter Anna Andersson och läste kursen 1DT051 hösten 2024. 
 ```
 
 ### Var kortfattad och tydlig
@@ -98,6 +133,6 @@ Anna Andersson
 
 Ditt e-postkonto är en del av [Office 365 Education][office-365] som du som
 student får tillgång till under din studietid. Förutom e-post ingår även alla
-Office-paketets program samt 1 TB lagringsuttrymme på OneDrive.
+Office-paketets program samt 100 GB lagringsuttrymme på OneDrive.
 
-[office-365]: https://www2.uu.se/student/it-for-studenter/office-365-education
+[office-365]: https://www.uu.se/student/it-for-studenter/microsoft-365-education
