@@ -3,8 +3,7 @@ title: Studium
 weight: 5
 ---
 
-[Studium][studium] är den [lärplattform][lärplattform-uu] som har ersatt den
-tidigare plattformen [Studentportalen][studentportalen] vid Uppsala universitet.
+[Studium][studium] är den lärplattform som används vid Uppsala universitet.
 I Studium hittar du kurshemsidor där lärare lägger upp kursinformation och 
 föreläsningsmaterial. I Studium kan du som student även  lämna in uppgifter och se
 delresultat på olika kursmoment. Bland andra praktiska funktioner finns det i
