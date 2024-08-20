@@ -33,7 +33,7 @@ introduktionskurs sida i Studium.
 
 [f-studium]: https://uppsala.instructure.com/courses/48542
 
-[i-studium]: https://uppsala.instructure.com/courses/48333
+[i-studium]: https://uppsala.instructure.com/courses/98114
 
 [it-dv-studium]: https://uppsala.instructure.com/courses/48011
 
