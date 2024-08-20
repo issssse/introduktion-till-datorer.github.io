@@ -78,9 +78,7 @@ Quiz:
 
     D)
 
-Survey 1:
-
-Survey 2:
+Survey:
 
 ```
 
@@ -100,7 +98,7 @@ This is extremely important as information from
 Uppsala University is only sent to your student address, for example information
 about canceled lectures, upcoming exams and important information from teachers.
 
-- Follow the instructions for [how to set up email forwaring](../email/#forwarding).
+- Follow the instructions for [how to set up email forwarding](../email/#forwarding).
 
 - Copy the address of the web page where you set up email forwarding. The
 address shouls start with `https://outlook.office.com/`.
@@ -165,19 +163,21 @@ text document.
 
 </ol>
 
-### Part 5: Survey 1
+### Part 5: Survey 
 
-Open the [New student - Survey 2023][survey-1]. The survey consist of a number of
+Open the [New student - Survey 2024][survey-1]. The survey consist of a number of
 sections. The first section is named **1. Personal data**.
 
 - Take the survey. 
 - Append the name of the last section of the survey after `Survey: ` in your
   text document. 
 
-[survey-1]: https://doit.medfarm.uu.se/bin/kurt3/kurt/95632
+[survey-1]: https://doit.medfarm.uu.se/bin/kurt3/kurt/8870465
 
 It is voluntary to submit the survey, but it is important for the university
 that that as many new students as possible participate. 
+
+<!-- 
 
 ### Part 6: Survery 2
 
@@ -193,7 +193,7 @@ that that as many new students as possible participate.
 
 [survey-2]: https://doit.medfarm.uu.se/bin/kurt3/kurt/95879
 
-
+-->
 
 ### Final text document
 

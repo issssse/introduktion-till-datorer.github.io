@@ -81,9 +81,7 @@ Quiz:
 
     D)
 
-Enkät 1:
-
-Enkät 2:
+Enkät:
 
 ```
 
@@ -186,11 +184,11 @@ Om du läser KandLedarskap (distans) så ska du hoppa över denna fråga.
 
 {{% /notice %}}
  
-Öppna [nybörjarenkäten](https://doit.medfarm.uu.se/bin/kurt3/kurt/95629). 
+Öppna [nybörjarenkäten](https://doit.medfarm.uu.se/bin/kurt3/kurt/8870464).
 
 - Enkäten är uppdelad i olika avsnitt.
 - Det första avsnittet heter **1. Personuppgifter**.
-- Fyll i enkäten och skriv **namnet** på det **sista avsnittet**, avsnitt 6 (sex) efter `Enkät 1:` i textdokumentet.
+- Fyll i enkäten och skriv **namnet** på det **sista avsnittet**, avsnitt 6 (sex) efter `Enkät:` i textdokumentet.
 
 {{% notice title="Enkäten är frivillig" %}}
 
@@ -199,6 +197,7 @@ lämnar in enkäten är dock till stor hjälp för Uppsala universitet.
 
 {{% /notice %}}
 
+<!--
 ### Del 6: En enkät till 
 
 Öppna [Broadening Participation in Computing Education study](https://doit.medfarm.uu.se/bin/kurt3/kurt/95879).
@@ -206,6 +205,8 @@ lämnar in enkäten är dock till stor hjälp för Uppsala universitet.
 - Det är frivilligt men värdefullt för universitetet om du tar dig tid att fylla i och skicka in även denna enkät. 
 - Namnet till trots så riktar sig inte denna enkät enbart till de som studerar data/it. Svar från studenter på olika progam är viktiga.
 - Hur många frågor består denna enkät av? Skriv svaret efter `Enkät 2: ` i textdokumentet.
+
+-->
 
 ### Slutgiltigt dokument
 
