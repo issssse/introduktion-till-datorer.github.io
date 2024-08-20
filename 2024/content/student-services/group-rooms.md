@@ -14,7 +14,7 @@ Här hittar du som studerar vid [Campus Ångströmlaboratoriet][ångström]
 och [Campus Gotland][gotland] information om grupprum och hur du bokar dessa.
 
 
-- [Grupprum][pol-group-rooms] på [Campus Ångströmlaboratoriet][ångström].
+- [Grupprum][ang-group-rooms] på [Campus Ångströmlaboratoriet][ångström].
 - [Grupprum][got-group-rooms] på [Campus Gotland][gotland].
 - [Grupprum][slu-group-rooms] på [SLU][slu].
 
@@ -22,14 +22,13 @@ och [Campus Gotland][gotland] information om grupprum och hur du bokar dessa.
 
 [slu-group-rooms]: https://internt.slu.se/stod-service/utbildning/grund--och-avancerad-utbildning/stod/stod-till-studenter/boka-grupprum-i-timeedit/
 
-[pol-group-rooms]: https://www.polacksbacken.uu.se/service/lokaler/#anchor-768260
-[got-group-rooms]: https://www.campusgotland.uu.se/student/reception/bokarum/
+[ang-group-rooms]: https://www.uu.se/student/campus/angstromlaboratoriet/vara-lokaler#h-Grupprum
+[got-group-rooms]: https://www.uu.se/student/campus/gotland/bokarum
 
 ## Bokning
 
 Bokning görs genom TimeEdit, dvs samma system som hanterar schemat. 
 Detta görs med hjälp av TimeEdit, på denna
-[länk](https://cloud.timeedit.net/uu/web/wr_student/). Gränssnittet är lite
 klurigt:
 
 1. Logga in med ditt studentkonto.
