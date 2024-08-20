@@ -1,6 +1,5 @@
 ---
 title: Assignment
-pre: <i class="far fa-keyboard"></i>
 assignment: mandatory
 ---
 
@@ -38,7 +37,7 @@ In this assignment you will create a chart. Start by entering your student
 account username (similar to abcd1234) in cell `A1`. Next, enter the following
 data in the range `B1:D11`.
 
-<pre>
+``` text
 x	Fib	2^x
 1	1	2
 2	1	4
@@ -50,8 +49,7 @@ x	Fib	2^x
 8	21	256
 9	34	512
 10	55	1024
-</pre>
-
+```
 
 Now you are ready to create a **Scatter Plot** chart with the `x` values on the
 horizontal axis and the `Fib` and `2^x` values on the vertical axis. The chart

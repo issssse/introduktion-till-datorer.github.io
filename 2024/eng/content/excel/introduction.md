@@ -104,7 +104,7 @@ formula. Arguments to functions must be inside parentheses.
 In the following example, we choose to place a formula in cell  `A12`. Click on
 the cell `A12` and enter the following inside the cell, then press `Enter`.
 
-```
+``` text
 =SUM(A1:B11)
 ```
 

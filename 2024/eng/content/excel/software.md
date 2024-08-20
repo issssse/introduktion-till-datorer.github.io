@@ -34,7 +34,7 @@ The most wildly used spreadsheet software includes:
          Education][365-student] account (free of charge) including Microsoft’s
          Office package, calendar and email service.
 
-[365-student]: https://www2.uu.se/en/students/it-for-students/office-365-education
+[365-student]: https://www.uu.se/en/students/it-for-students/microsoft-365-education
 
 ## Microsoft Excel
 

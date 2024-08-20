@@ -44,7 +44,7 @@ University employees may sometimes use this email address to contact you. Learn 
 
 If you don't plan to check the university email frequently it is strongly
 recommended to forward your student email to another of your email addresses. 
-Click on the settings cog at the to right to configure email forwarding.
+Click on the settings cog at the top right to configure email forwarding.
 
 ## Email etiquette 
 
