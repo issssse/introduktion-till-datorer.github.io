@@ -9,7 +9,6 @@ skall du i första hand ansluta dig till Eduoroam. Vid behov kan dock studenter
 
 ## Eduroam
 
-
 [Eduroam][eduroam-wp] är en internationell tjänst som tillhandahåller trådlöst
 nätverk (Wi-Fi) till studenter. Eduoroam [finns ofta](https://www.eduroam.org/where/)
 på andra universitet och bl.a. på vissa flygplatser.
@@ -21,12 +20,30 @@ på andra universitet och bl.a. på vissa flygplatser.
 För att ansluta till Eduroam behöver du ha [aktiverat ditt
  studentkonto](/preparation#studentkonto).
 
-### Lösenord B
+### Skapa lösenord B
 
-Vid anslutning till Eduroam använder du användarnamnet till ditt Studentkonto
-och **lösenord B**. Du hanterar dina lösenord
-[här](https://konto.weblogin.uu.se/).
+För att få tillgång till Eduroam måste du först skapa ett lösenord B. Notera att detta lösenord endast används till Eduroam.
 
+1. Gå till sidan för [kontohantering][konto].
+2. Välj Gemensam webbinloggning. 
+3. Logga in med ditt användarnamn och **lösenord A**.
+4. Skapa ett **lösenord B**.
+
+[konto]: http://www.uu.se/konto
+
+### Anslut till Eduroam
+
+Gör så här för att ansluta till Eduroam.
+
+1. Välj Eduroam bland de trådlösa nätverken.
+2. Ange ditt användarnamn följt av `@user.uu.se`, till exempel `abdc1290@user.uu.se`.
+3. Ange ditt **lösenord B**.
+4. Klicka på **Connect**.
+
+Efter att du anslutit till Eduroam första gången kommer din enhet (dator eller
+mobiltelefon)ansluta till nätverket helt automatiskt i framtiden då det finns tillgängligt.
+
+<!--
 ### Installera Eduroam
 
 Du behöver [installera Eduroam][install] på varje enhet (dator eller
@@ -43,6 +60,11 @@ För att ansluta till Eduroam loggar du in med användarnamnet
 
 - När du väl har ställt in Eduroam kommer din enhet (dator eller mobiltelefon)
   ansluta till nätverket helt automatiskt.
+
+[uu-eduroam]:
+    https://www.uu.se/student/it-for-studenter/tradlost-natverk#h-Ansluttilldettradlosanatverketeduroam
+
+-->
 
 <!--
 
@@ -68,4 +90,5 @@ nätverket UU-Guest med sitt användarnamn och **Lösenord A**.
 Läs mer om nätverket UU-Guest [här][uu-guest]. 
 
 
-[uu-guest]: https://mp.uu.se/sv/web/info/stod/it-telefoni/anvandarguider/network/uu-guest
+[uu-guest]:
+    https://www.uu.se/medarbetare/stod-och-verktyg/it/it-tjanster/natverk-och-vpn#h-UUGuesttradlostWiFinatverk
