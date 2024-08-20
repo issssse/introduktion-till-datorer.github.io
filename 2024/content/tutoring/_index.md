@@ -42,7 +42,7 @@ handledarna. och dina kurskamrater.
   Introduktion till datorer kan du ställa frågor och diskutera med handledare
   och andra studenter i forumet på din kurs i Studium. 
  
- 
+<!--  
 ## Handledare
 
 
@@ -80,3 +80,5 @@ handledarna. och dina kurskamrater.
 
 [female]: /images/tutors/female-user-icon.jpeg?classes=tutor
 [male]: /images/tutors/male-user-icon.jpeg?classes=tutor
+
+-->
