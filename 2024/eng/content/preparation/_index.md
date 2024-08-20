@@ -12,24 +12,24 @@ things you should fix as soon as possible.
 
 
 [Campus Gotland][campus-gotland] is located between the beach and the ring wall in Visby's inner
-harbour. The address is Cramérgatan 3. Read more here about [how to get to Campus
-Gotland][campus-gotland-hitta-hit]. On the map below you can see the various buildings that make up Campus
+harbour. The address is [Cramérgatan 3][google-maps]. On the map below you can see the various buildings that make up Campus
 Gotland. You will find the [reception][campus-gotland-reception] at the main entrance.
 
 
 <img src="/images/preparation/eng-map-of-campus-gotland.jpeg" />
 
+[google-maps]:
+    https://www.google.com/maps/place/Huvudentr%C3%A9,+Cram%C3%A9rgatan+3,+621+57+Visby/@57.6394441,18.2887703,17z/data=!3m1!4b1!4m6!3m5!1s0x46f7aed6047df557:0x3c467d3a14fe45d6!8m2!3d57.6394441!4d18.2887703!16s%2Fg%2F12hqvp73_?entry=ttu
 
-[campus-gotland]: https://www.campusgotland.uu.se/?languageId=3
+[campus-gotland]: https://www.uu.se/en/campus/gotland?languageId=3
 [campus-gotland-reception]: https://www.campusgotland.uu.se/students/reception/
-[campus-gotland-hitta-hit]: https://www.campusgotland.uu.se/about/maps/
 
 ## Student account
 
 As a student at Uppsala University, you need a student account. With your
 student account, you get, among other things:
 
-- your own e-mail address in the form 'firstname.surname.1234@student.uu.se'
+- your own e-mail address in the form `firstname.surname.1234@student.uu.se`
 - a user identity of the form `abcd1234` used to log in to most systems
 - access to the university's wireless network
 - access to the university's computer system
@@ -43,7 +43,7 @@ You also need a Student Account to:
 - register for written exams.
 
 
-[studium]: https://login.studium.uu.se/
+[studium]: https://www.uu.se/system/log-in-to-studium
 
 The student account has two different passwords.
 
@@ -119,27 +119,19 @@ problems when entering using your campus card, the easiest way is to visit
 
 ## Zoom 
 
-During the [Covid-19 pandemic][covid-19], Uppsala University switched to
-distance learning. Although we hope that the pandemic has subsided and that we
-can return to physical education on campus, it may happen that certain elements
-will be carried out remotely in the future as well. At Uppsala University, an
-important tool for distance learning, collaboration and examination is Zoom. On
-some courses, Zoom is also used for certain forms of ongoing examination, even
-when there is no pandemic.
+Zoom is a tool for online, real-time meetings, widely used on many courses at
+Uppsala University. You can attend lectures and take part in seminar
+discussions. You could be invited to online workshops, where your class is
+divided into smaller groups. It is also possible to record a Zoom meeting.
 
 ![](/images/preparation/zoom-screenshot.png)
-
-With the help of Zoom, you can follow along when teachers stream lectures, ask
-questions verbally or as text (chat) to teachers during lectures, and share your
-computer screen with teachers and other students. Using Zoom, students can also
-work remotely in smaller groups.
-
-[covid-19]: https://www2.uu.se/en/students/recommendations-on-covid-19
 
 ### Activate your Zoom account
 
 Before you start using Zoom at Uppsala University, you must [activate your Zoom
 account][activate-zoom], which is linked to your [Student account](#student-account).
+
+[uu-zoom]: https://www.uu.se/en/students/it-for-students/software/zoom
 
 [zoom]: https://zoom.us/
 [activate-zoom]: https://www2.uu.se/en/students/it-for-students/zoom-for-students

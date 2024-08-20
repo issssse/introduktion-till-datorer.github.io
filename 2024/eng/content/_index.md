@@ -14,7 +14,7 @@ Introduction to IT systems is part of the following courses.
 
 [ångström]: https://angstrom.uu.se/
 [ångström]: https://www.polacksbacken.uu.se/
-[got]: https://www.campusgotland.uu.se/
+[got]: https://www.uu.se/en/campus/gotland
 [slu]: https://www.slu.se/
 
 

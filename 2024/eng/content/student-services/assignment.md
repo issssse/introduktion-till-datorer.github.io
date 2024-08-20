@@ -27,18 +27,17 @@ To do this assignment you need:
 
 ## Preparations
 
-Before you start with the assignment, you should make the following
-preparations. 
+Before you start with the assignment, you should make the following preparations. 
 
 ### Information about student services 
 
 To the left of this page you see the following menu. 
 
-<img src="/images/studenttjanster/assignment/eng-student-services-menu.png" style="width: 333px"/>
+<img src="/images/studenttjanster/eng_studenttjanster_index.png" style="width: 333px"/>
 
 Open the [Student services](../student-services) main page in a new browser window or in
-a new tab. If you haven't done so already, read all the pages marked with
-&#9432;. Consult these pages when you work on the assignment. 
+a new tab. If you haven't done so already, read all but the last page (this very
+page) marked with {{% assignmentIcon mandatory %}}. Consult these pages when you work on the assignment. 
 
 ### Prepare document for submission
 

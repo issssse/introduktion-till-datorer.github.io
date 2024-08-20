@@ -38,10 +38,10 @@ paper).
 Your scanned exams are accessed via the [My Exams][my-exams] TekNat service. Scanned exams
 remain on the server for two years.
 
-[my-exams]: https://mintentateknat.kvk.uu.se/myexam/Language/Set?lang=en
+[my-exams]: https://mintentateknat.kvk.uu.se/myexam/
 
 ## More about exams
 
 Read more about exams [here][more]. 
 
-[more]: https://www.campusgotland.uu.se/students/exams/
+[more]: https://www.uu.se/en/students/your-rights/examination/exams

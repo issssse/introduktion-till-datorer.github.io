@@ -18,7 +18,7 @@ To access to Studium, you need an [activated student account][student-account].
 Visit [studium.uu.se][studium] to log in to Studium with your student account
 (abcd1234) and password A. 
 
-[studium]: https://login.studium.uu.se/?languageId=1
+[studium]: https://www.uu.se/system/log-in-to-studium?languageId=1
 
 ## Your courses in Studium
 

@@ -11,4 +11,4 @@ support during your time at Uppsala University.
 - [Support for disabilities][support]
 
 [councelling]: https://www.campusgotland.uu.se/students/counselling/
-[support]: https://www.campusgotland.uu.se/students/disabilities/
+[support]: https://www.uu.se/en/students/support-and-services/disabilities
