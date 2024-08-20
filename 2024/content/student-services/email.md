@@ -9,12 +9,8 @@ Förutom att du via Studium kan skicka och läsa
 
 ## Hitta till din epost
 
-Du hittar din epost bland annat från [student-ingången][uu-student]
-vid Uppsala universitet som du i sin tur hittar både från [www.uu.se](http://www.uu.se) (1), 
-
-![](/images/studenttjanster/schedule/uu-se-student.png?width=777px)
-
-, och menyn i Studium (2).
+Du hittar din epost bland annat från student-ingången https://www.uu.se/student (1) 
+vid Uppsala universitet och menyn i Studium (2).
 
 ![](/images/studenttjanster/schedule/studium-menu-uu-student.png?width=222px)
 
