@@ -14,13 +14,13 @@ Rättning av kompletteringar kommer ske under följande omgångar:
 
 | Omgång | År   | Startdatum | Slutdatum |
 |:------:|:----:|:----------:|:---------:|
-| 1      | 2022 | 1/11       | 8/11      |
-| 2      | 2022 | 1/12       | 8/12      |
-| 3      | 2023 | 14/1       | 20/1      |
-| 4      | 2023 | 23/2       | 1/3       |
+| 1      | 2024 | TBA       | TBA     |
+| 2      | 2024 | TBA       | TBA      |
+| 3      | 2025 | TBA       | TBA      |
+| 4      | 2025 | TBA       | TBA       |
 
 
-<!-- **TBA:** Exakta datum för omgång 4 är ännu inte fastställda. --> 
+**TBA:** Exakta datum för omgång 4 är ännu inte fastställda. 
 
 
 Om du lämnar in en komplettering i början av en kompletteringsomgång kan du
