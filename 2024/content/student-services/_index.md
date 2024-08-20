@@ -46,6 +46,5 @@ Till vänster ser du följande undermeny.
 
 ![](/images/studenttjanster/studenttjanster_index.png?width=333px)
 
-Börja med att läsa igenom sidorna markerade med &#9432; (information). Öppna
-sedan sidan med obligatoriska [uppgifter](./assignment) markerad med <i
-class="far fa-keyboard"></i> (tangentbord) i en ny tabb eller i ett nytt fönster.
+Börja med att läsa igenom de inledande sidorna. Öppna
+sedan sidan med obligatoriska [uppgifter](./assignment) markerad med {{% assignmentIcon mandatory %}} i en ny tabb eller i ett nytt fönster.
