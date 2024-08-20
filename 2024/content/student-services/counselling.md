@@ -18,17 +18,19 @@ Gotland][gotland].
 
 | Campus Ångströmlaboratoriet              | Campus Gotland                                   |
 |:----------------------------------------:|:------------------------------------------------:|
-| [Studievägledning][pol-councelling]      | [Studievägledning][got-councelling]              |
+| [Studievägledning][ang-councelling]      | [Studievägledning][got-councelling]              |
 | [Riktat pedagogiskt stöd][ångström-funk] | [Studera med funktionsnedsättning][gotland-funk] |
 
 [ångström]: https://angstrom.uu.se 
 [ångström-funk]: https://www2.uu.se/student/fakultet/teknisk-naturvetenskapliga/riktat-pedagogiskt-stod
 
-[gotland-funk]: https://www.campusgotland.uu.se/student/funktionsnedsattning/
+[gotland-funk]: https://www.uu.se/student/stod-och-service/funktionsnedsattning
 
 [gotland]: https://www.campusgotland.uu.se/
 
-[pol-councelling]: https://www.teknat.uu.se/utbildning/student/stod-och-service/studie-karriarvagledning/
+[ang-councelling]:
+    https://www.uu.se/student/fakultet/teknisk-naturvetenskapliga/vagledning
+
 [pol-disabilites]: https://www.teknat.uu.se/utbildning/student/stod-och-service/sarskilt-stod/
 
 [got-councelling]: https://www.campusgotland.uu.se/student/vagledning/
