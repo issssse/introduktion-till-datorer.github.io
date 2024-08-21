@@ -60,5 +60,22 @@ En **Prompt** är en eller flera symboler som används för att markera att ett
 REPL är redo att ta emot ett nytt kommando. I VS code används:
 
 - `$` som prompt i **terminalen**.
-- `>>>` som prompt i ```Python REPL```.
+- `>>>` som prompt i **Python REPL**.
 
+En **operator** är inom matematiken en symbol eller funktion som representerar en
+matematisk operation.
+
+En **operand** är inom matematiken ett av invärdena (argumenten) till en
+operator. Till exempel i beräkningen `3 + 6` är `+` operatorn och `3` och `6` operanderna.
+
+En operator som tar två operander kallas **binär operator**. Några exempel på
+binära aritmetiska operatorer är `+`, `-`, `*` och `/` som står för att två element
+skall adderas, subtraheras, multipliceras respektive divideras.
+
+Ett **uttryck** är i matematik meningsfull sammanställning av tecken, det vill
+säga tecken ordnade så att de går att tolka matematiskt. Inom programmering
+avser man med ett uttryck något som kan beräknas till ett värde. 
+
+Av programmerare brukar text som omslutes av enkla eller dubbla citattecken
+kallas för en **sträng**. Exempel på strängar: `"Hej på dig!"`, `'Tack skall du
+ha'`.
