@@ -160,7 +160,7 @@ print("Hello!")
 print('Hello!')
 ```
 
-När du kör programmet skrivs följande ut i terminalen. 
+När du kör programmet ovan skrivs följande ut i terminalen. 
 
 ``` text
 5
