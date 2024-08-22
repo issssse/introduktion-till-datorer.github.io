@@ -6,7 +6,8 @@ weight: 1003
 På kurser längre fram i din utbildning kommer du få lära dig
 programmeringsspråket [Python][wp-python]. I denna modul kommer du få testa på att:
 
--  använda Python som en miniräknare
+-  använda Python som en interaktiv miniräknare (Python REPL)
+-  skapa och köra ett enklare Python program
 -  rita grafer med Python, NumPy och Matplotlib.
 
 [wp-python]: https://sv.wikipedia.org/wiki/Python_(programspr%C3%A5k)
@@ -62,8 +63,17 @@ REPL är redo att ta emot ett nytt kommando. I VS code används:
 - `$` som prompt i **terminalen**.
 - `>>>` som prompt i **Python REPL**.
 
+En **textredigerare** eller **editor** är ett datorprogram för att redigera
+oformaterad text, i den meningen att filen inte innehåller dolda koder för
+textstorlek, typsnitt och liknande.
+
+Visual Studio Code (VS Code) är ett exempel på en **Integrated Development
+Environment (IDE)**. En IDE är ett program som innehåller en samling funktioner
+avsedda att underlätta vid programmering. VS Code innehåller bland annat en
+editor, terminal och Python REPL. 
+
 En **operator** är inom matematiken en symbol eller funktion som representerar en
-matematisk operation.
+matematisk operation. 
 
 En **operand** är inom matematiken ett av invärdena (argumenten) till en
 operator. Till exempel i beräkningen `3 + 6` är `+` operatorn och `3` och `6` operanderna.
