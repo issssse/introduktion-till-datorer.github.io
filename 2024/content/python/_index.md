@@ -15,11 +15,11 @@ programmeringsspråket [Python][wp-python]. I denna modul kommer du få testa p�
 
 ## VS Code
 
-Vi kommer använda oss av [VS Code][wp-vs-code] för testa på Python. 
+Vi kommer använda oss av [VS Code][wp-vs-code] för att testa på Python. 
 
 - På universitetets datorer finns Python och VS Code redan installerat. 
 - För att vara förberedd inför kommande kurser är det starkt rekommenderat
-  att du försöker installera Python och VS Code på din egen dator. 
+  att du försöker [installera Python och VS Code](private-computer) på din egen dator. 
 
 [wp-vs-code]: https://sv.wikipedia.org/wiki/Visual_Studio_Code
 

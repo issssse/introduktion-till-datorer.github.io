@@ -3,6 +3,9 @@ title: Python som miniräknare
 weight: 30
 ---
 
+Du skall nu får lära dig mer om Python REPL genom att använda det som en
+miniräknare.
+
 ## Starta VS Code
 
 Starta VS Code. 
