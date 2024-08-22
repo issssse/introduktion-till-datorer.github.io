@@ -7,6 +7,7 @@ title = 'Introduktion till datorer 2024'
 
 publishDir = 'public/2024'
 
+# https://stackoverflow.com/questions/61574702/images-from-hugo-not-displayed-on-github-pages
 canonifyURLs = true
 
 [params]
