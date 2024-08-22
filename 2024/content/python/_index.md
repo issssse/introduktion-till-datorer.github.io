@@ -27,8 +27,6 @@ Vi kommer använda oss av [VS Code][wp-vs-code] för testa på Python.
 ## NumPy
 
 [NumPy][numpy] är ett bibliotek som används för numeriska beräkningar i Python. 
-is an open source project that enables numerical computing with Python.
-NumPy is an open source project that enables numerical computing with Python.
 
 [numpy]: https://numpy.org/
 

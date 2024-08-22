@@ -6,6 +6,13 @@ weight: 40
 Efter att ha testat att utföra enklare beräkningar i Python REPL är det nu dags
 att skapa ditt första Pythonprogram. 
 
+
+## Starta VS Code
+
+Starta VS Code. 
+
+![](/images/python/vscode/vscode-start.png?width=600px)
+
 ## Explorer
 
 Klicka på **Explorer** (1) i VS Code.
@@ -26,8 +33,12 @@ under Explorer (3).
 
 ## Lägg till fil
 
-När du för musen över **Python** visas några nya ikoner. Tryck på **New file**
-(4).
+När du för musen över **PYTHON** visas några nya ikoner. Den första av dessa
+ikoner ser ut så här och kallas för **New File**. 
+
+![](/images/python/vscode/new-file-icon.png)
+
+Tryck på **New file** (4).
 
 ![](/images/python/hello/new-file.png?width=600px)
 
@@ -40,7 +51,7 @@ innehåller Pythonprogram.
 {{% /notice %}}
 
 I Explorer dyker nu den nya filen upp (5) och
-du en ny fliken med namnet `hello.py` dyker upp till höger (6).
+du en ny flik med namnet `hello.py` dyker upp till höger (6).
 
 ![](/images/python/hello/hello-py.png?width=600px)
 
