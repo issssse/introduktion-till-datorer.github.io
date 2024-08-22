@@ -20,4 +20,8 @@ Hello!
 
 ![](/images/linux/hus-10-pc.jpg)
 
+![](/images/python/assignment/final-diagram.png)
+
+
+
 
