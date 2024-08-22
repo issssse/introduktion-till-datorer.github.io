@@ -7,6 +7,8 @@ title = 'Introduktion till datorer 2024'
 
 publishDir = 'public/2024'
 
+canonifyURLs = true
+
 [params]
     title = "Introduktion till datorer"
     year = 2024
