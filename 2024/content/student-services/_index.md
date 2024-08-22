@@ -14,8 +14,6 @@ tillsammans med ditt antagningsbesked.
 Om du har blivit antagen för studier vid Uppsala universitet men ännu inte
 aktiverat ditt studentkonto kan du göra det
 [här](https://konto.weblogin.uu.se/).
-Det finns ett [antal sätt](http://akka.uadm.uu.se/engangskod/) att logga in på
-aktiveringssidan.
 
 {{% /notice %}}
 

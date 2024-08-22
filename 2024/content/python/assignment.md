@@ -5,11 +5,12 @@ assignment: mandatory
 ---
 
 I denna uppgift skall du skriva ett Pythonprogram som med hjälp av
-[NumPy](../numpy) och [Matplotlib](../matplotlib) generar följande diagram. I
-titeln på diagrammet skall du byta ut `abcd1234` mot namnet på ditt
-studentkonto. 
+[NumPy](../numpy) och [Matplotlib](../matplotlib) generar följande diagram. 
 
 ![](/images/python/assignment/final-diagram.png)
+
+I titeln på diagrammet skall du byta ut `abcd1234` mot namnet på ditt
+[studentkonto](/preparation/#studentkonto). 
 
 ## Skapa ett nytt program
 
@@ -42,7 +43,7 @@ När du kör programmet genereras följande diagram.
 
 ![](/images/python/assignment/skeleton-diagram.png)
 
-## Uppgifter
+## Uppgift
 
 Din uppgift är nu att lägga till:
 
@@ -54,8 +55,10 @@ Din uppgift är nu att lägga till:
 - Förklaringar (labels) för de olika kurvorna.
 - Ändra titeln till namnet på ditt studentkonto på formen `abcd1234`
   
+## Det färdiga diagrammet 
+
 När du är klar skall diagrammet se ut så här fast du bytt ut `abcd1234` mot
-namnet på ditt studentkonto. 
+namnet på ditt [studentkonto](/preparation/#studentkonto). 
 
 ![](/images/python/assignment/final-diagram.png)
 

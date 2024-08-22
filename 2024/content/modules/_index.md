@@ -60,7 +60,7 @@ just din utbildning framgår av tabellen nedan.
 <td><i class="fas fa-check"></i></td>
 </tr>
 
-<td><a href="../matlab">Matlab</a></td>
+<td><a href="../python">Python</a></td>
 <td><i class="fas fa-check"></i></td>
 <td><i class="fas fa-check"></i></td>
 <td><i class="fas fa-check"></i></td>
