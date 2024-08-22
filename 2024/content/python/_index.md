@@ -40,14 +40,19 @@ diagram.
 
 ## Viktiga begrepp
 
-Förkortningen **REPL** står för Read Evaluate Print Loop och används för
+Förkortningen [REPL][repl] står för Read Evaluate Print Loop och används för
 textbaserade system där man kan mata in kommandon av olika slag vilket i sin tur
 resulterar i någon form av textbaserat svar tillbaka. 
 
-Ett svenskt namn för REPL är **kommandotolk**.
+[repl]: https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
+Ett svenskt namn för REPL är [kommandotolk][kommandotolk].
 
-En **terminal** är ett texbaserat gränssnitt som låter dig ge kommandon till
+[kommandotolk]: https://sv.wikipedia.org/wiki/Kommandotolk
+
+En [terminal][terminal] är ett texbaserat gränssnitt som låter dig ge kommandon till
 operativsystemet. En terminal är en sorts REPL. 
+
+[terminal]: https://sv.wikipedia.org/wiki/Terminalemulator
 
 Ett **Pythonprogram** lagras i en fil på din dator. Du kan sedan låta Python
 köra programmet från början till slut. 
@@ -61,28 +66,41 @@ REPL är redo att ta emot ett nytt kommando. I VS code används:
 - `$` som prompt i **terminalen**.
 - `>>>` som prompt i **Python REPL**.
 
-En **textredigerare** eller **editor** är ett datorprogram för att redigera
+En [textredigerare][textredigerare] eller **editor** är ett datorprogram för att redigera
 oformaterad text, i den meningen att filen inte innehåller dolda koder för
 textstorlek, typsnitt och liknande.
 
-Visual Studio Code (VS Code) är ett exempel på en **Integrated Development
-Environment (IDE)**. En IDE är ett program som innehåller en samling funktioner
+[textredigerare]: https://sv.wikipedia.org/wiki/Textredigerare
+
+Visual Studio Code (VS Code) är ett exempel på en [Integrated Development
+Environment (IDE)][ide]. En IDE är ett program som innehåller en samling funktioner
 avsedda att underlätta vid programmering. VS Code innehåller bland annat en
 editor, terminal och Python REPL. 
 
-En **operator** är inom matematiken en symbol eller funktion som representerar en
+[ide]: https://sv.wikipedia.org/wiki/Integrerad_utvecklingsmilj%C3%B6
+
+En [operator][operator] är inom matematiken en symbol eller funktion som representerar en
 matematisk operation. 
 
-En **operand** är inom matematiken ett av invärdena (argumenten) till en
-operator. Till exempel i beräkningen `3 + 6` är `+` operatorn och `3` och `6` operanderna.
+[operator]: https://sv.wikipedia.org/wiki/Operator
 
-En operator som tar två operander kallas **binär operator**. Några exempel på
+En [operand][operand] är inom matematiken ett av invärdena (argumenten) till en
+operator. Till exempel i beräkningen `3 + 6` är `+` operatorn och `3` och `6`
+operanderna.
+
+[operand]: https://sv.wikipedia.org/wiki/Operand
+
+En operator som tar två operander kallas [binär operator][binär-operator]. Några exempel på
 binära aritmetiska operatorer är `+`, `-`, `*` och `/` som står för att två element
 skall adderas, subtraheras, multipliceras respektive divideras.
 
-Ett **uttryck** är i matematik meningsfull sammanställning av tecken, det vill
+[binär-operator]: https://sv.wikipedia.org/wiki/Bin%C3%A4r_operator
+
+Ett [uttryck][uttryck] är i matematik meningsfull sammanställning av tecken, det vill
 säga tecken ordnade så att de går att tolka matematiskt. Inom programmering
 avser man med ett uttryck något som kan beräknas till ett värde. 
+
+[uttryck]: https://sv.wikipedia.org/wiki/Matematiskt_uttryck
 
 Av programmerare brukar text som omslutes av enkla eller dubbla citattecken
 kallas för en **sträng**. Exempel på strängar: `"Hej på dig!"`, `'Tack skall du
