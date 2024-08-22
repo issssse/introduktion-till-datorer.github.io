@@ -9,4 +9,15 @@ här inom kort.
 
 [ångström]: https://angstrom.uu.se/
 
+Hello!
+
+{{< figure 
+    width="555px" 
+    src="/images/linux/hus-10-pc.jpg" 
+    title="Arbetsplats med dator som kör Windows." 
+>}}
+
+
+![](/images/linux/hus-10-pc.jpg)
+
 
