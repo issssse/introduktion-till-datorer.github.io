@@ -96,7 +96,8 @@ Parenteser kan användas för att gruppera.
 Värdet av en beräkning kan lagras i en variabel. I exemplet nedan lagras värdet
 `5` i variabeln `a` och värdet `2` i variabeln `b`. Variablerna `a` och `b` kan
 sedan användas i nya beräkningar. 
-``
+
+
 ``` text
 >>> a = 5
 >>> b = 2
