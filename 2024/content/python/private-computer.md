@@ -92,6 +92,8 @@ Om du redan har detta tillägg installerat kommer du se en knapp för att
 avinstallera (3) och annars kommer du på samma plats att se en knapp för att
 installera. 
 
+Om tillägget inte är installerat behöver du installera det. 
+
 ## Kontrollera om du har NumPy installerat
 
 Från VS Code, tryck `Ctrl+Shift+P` (Windows och Linux) eller `Cmd+Shift+P`
@@ -101,9 +103,6 @@ Från VS Code, tryck `Ctrl+Shift+P` (Windows och Linux) eller `Cmd+Shift+P`
 ![](/images/python/vscode/start-repl.png?width=600px)
 
 I den nedre halvan av VS Code öppnas nu en terminal, med ett Python REPL.
-Förkortningen REPL står för Read Evaluate Print Loop och används för
-textbaserade system där man kan mata in kommandon av olika slag vilket i sin tur
-resulterar i någon form av textbaserat svar tillbaka. 
 
 ![](/images/python/vscode/python-repl.png?width=600px)
 
