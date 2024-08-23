@@ -192,9 +192,7 @@ Klicka på **New File** i explorer.
 
 ![](/images/python/university/new-file.png?width=200px)
 
-Ge den nya filen namnet `test.py`. 
-
-Klistra in följande kod i filen `test.py`.
+Ge den nya filen namnet `test.py` och klistra in följande kod.
 
 ``` python
 import matplotlib.pyplot as plt
@@ -207,11 +205,11 @@ plt.grid()
 plt.show()
 ```
 
-Klicka sedan på **Run Python File (Play)**. 
+Klicka på **Run Python File (Play)**. 
 
 ![](/images/python/university/run-test-py.png?width=600px)
 
-I terminalen skall du nu se värdet av `π`.
+I terminalen skall du nu värdet av `π` skrivas ut.
 
 ![](/images/python/university/test-py-terminal-result.png?width=600px)
 
