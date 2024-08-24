@@ -13,15 +13,21 @@ programmeringsspråket [Python][wp-python]. I denna modul kommer du få testa p�
 [wp-python]: https://sv.wikipedia.org/wiki/Python_(programspr%C3%A5k)
 
 
-## VS Code
+## Anaconda och Spyder
 
-Vi kommer använda oss av [VS Code][wp-vs-code] för att testa på Python. 
+Vi kommer använda oss av [Anaconda][anaconda] och [Spyder][spyder] för att testa på Python. 
 
-- På universitetets datorer finns Python och VS Code redan installerat. 
+- På universitetets datorer finns Anaconda och Spyder tillgängliga.
 - För att vara förberedd inför kommande kurser är det starkt rekommenderat
-  att du försöker [installera Python och VS Code](private-computer) på din egen dator. 
+  att du försöker [installera Anaconda][download-anaconda] på din egen
+  dator. 
+  
+[download-anaconda]: https://www.anaconda.com/download/
 
-[wp-vs-code]: https://sv.wikipedia.org/wiki/Visual_Studio_Code
+[anaconda]: https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)
+
+[spyder]: https://en.wikipedia.org/wiki/Spyder_(software) 
+
 
   
 ## NumPy
@@ -51,6 +57,7 @@ Ett svenskt namn för REPL är [kommandotolk][kommandotolk].
 
 En [terminal][terminal] är ett texbaserat gränssnitt som låter dig ge kommandon till
 operativsystemet. En terminal är en sorts REPL. 
+ 
 
 [terminal]: https://sv.wikipedia.org/wiki/Terminalemulator
 
@@ -61,23 +68,26 @@ Med hjälp av ett **Python REPL** kan du skriva in Pythonkod en rad i taget för
 att steg för steg testa dig fram.
 
 En **Prompt** är en eller flera symboler som används för att markera att ett
-REPL är redo att ta emot ett nytt kommando. I VS code används:
+REPL är redo att ta emot ett nytt kommando. Vanligt är att: 
 
-- `$` som prompt i **terminalen**.
-- `>>>` som prompt i **Python REPL**.
+- `$` används som prompt i **terminalen**.
+- `>>>` används som prompt i **Python REPL**.
 
-En [textredigerare][textredigerare] eller **editor** är ett datorprogram för att redigera
+En [textredigerare][textredigerare] eller **editor** eller **kodeditor** är ett datorprogram för att redigera
 oformaterad text, i den meningen att filen inte innehåller dolda koder för
 textstorlek, typsnitt och liknande.
 
 [textredigerare]: https://sv.wikipedia.org/wiki/Textredigerare
 
-Visual Studio Code (VS Code) är ett exempel på en [Integrated Development
-Environment (IDE)][ide]. En IDE är ett program som innehåller en samling funktioner
-avsedda att underlätta vid programmering. VS Code innehåller bland annat en
-editor, terminal och Python REPL. 
+En [Integrated Development Environment (IDE)][ide] är ett program som innehåller en samling funktioner
+avsedda att underlätta vid programmering. 
 
 [ide]: https://sv.wikipedia.org/wiki/Integrerad_utvecklingsmilj%C3%B6
+
+[Spyder][spyder] är ett program som kombinerar en **kodeditor**, ett **Python
+REPL** som då kallas **Python Console** och funktioner för att visa grafik.
+Spyder är ett exempel på en IDE. 
+
 
 En [operator][operator] är inom matematiken en symbol eller funktion som representerar en
 matematisk operation. 
