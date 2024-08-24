@@ -3,38 +3,65 @@ title: Python som miniräknare
 weight: 30
 ---
 
-Du skall nu får lära dig mer om Python REPL genom att använda det som en
+Du skall nu får lära dig mer om Python Console (REPL) genom att använda det som en
 miniräknare.
 
-## Starta VS Code
+## Starta Spyder
 
-Starta VS Code. 
+Starta [Spyder](../spyder) om du inte redan gjort det. 
 
-![](/images/python/vscode/vscode-start.png?width=600px)
+## Python Console och prompten
 
+Nere till höger i Spyder hittar du **Python Console** vilket är ett Python REPL. 
 
-## Öppna ett Python REPL
+![](/images/python/spyder/python-console.png)
 
-Använd `Ctrl+Shift+P` (Windows och Linux) eller `Cmd+Shift+P`
-(macOS) för att öppna kommandopaletten. Skriv `Start REPL` i sökrutan och välj
-`Python: Start REPL`.
+## Förenklad prompt 
 
-![](/images/python/vscode/start-repl.png?width=600px)
+I alla kommande exempel kommer den förenklade prompten `>>>` användas och
+resultatprefixet kommer utelämnas. Följande exempel i Python Console:
 
-I den nedre halvan av VS Code öppnas nu en terminal, med ett Python REPL.
+``` text
+In [1]: 1+1
+Out[1]: 2
 
-![](/images/python/vscode/python-repl.png?width=600px)
+In [2]: 
+```
+
+, kommer i alla kommande exempel att se ut så här: 
+
+``` text
+>>> 1+1
+2
+>>> 
+```
+
+Den första raden: 
+
+``` text
+>>> 1+1
+```
+
+, betyder inte att du skall skriva skriva in `>>> 1+1` i Python Console. Det
+betyder att du skall skriva in `1+1` efter prompten i Python Console. 
+
+En rad med endast `>>>`: 
+
+``` text 
+>>>
+```` 
+
+, betyder att en ny prompt kommer visas här i Python Console. 
 
 ## Addition
 
-Skriv in följande vid prompten `>>>` och tryck enter. 
+Skriv in `1+1` efter prompten och tryck enter. 
 
 ``` text
 >>> 1 + 1
 ```
 
-Svaret på denna beräknings skriv nu ut på en egen rad följt av en ny prompt
-`>>>`.
+Svaret på denna beräknings skriv nu ut på en egen rad följt av en ny prompt.
 
 ```text 
 >>> 1 + 1
@@ -150,7 +177,7 @@ Några exempel till.
 >>> 
 ```
 
-Vad beräknas med hjälp av operatorn `%`? 
+Kan du klura ut vad beräknas med hjälp av operatorn `%`? 
 
 ## Mer matematik
 

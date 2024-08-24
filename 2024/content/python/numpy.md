@@ -8,32 +8,61 @@ beräkningar.
 
 [numpy]: https://numpy.org/
 
+## Starta Spyder
 
-## Starta VS Code
+Starta [Spyder](../spyder) om du inte redan gjort det. 
 
-Starta VS Code. 
+## Python Console och prompten
 
-![](/images/python/vscode/vscode-start.png?width=600px)
+Nere till höger i Spyder hittar du **Python Console** vilket är ett Python REPL. 
 
+![](/images/python/spyder/python-console.png)
 
-## Öppna ett Python REPL
+## Förenklad prompt 
 
-Använd `Ctrl+Shift+P` (Windows och Linux) eller `Cmd+Shift+P`
-(macOS) för att öppna kommandopaletten. Skriv `Start REPL` i sökrutan och välj
-`Python: Start REPL`.
+I alla kommande exempel kommer den förenklade prompten `>>>` användas och
+resultatprefixet kommer utelämnas. Följande exempel i Python Console:
 
-![](/images/python/vscode/start-repl.png?width=600px)
+``` text
+In [1]: 1+1
+Out[1]: 2
 
-I den nedre halvan av VS Code öppnas nu en terminal, med ett Python REPL.
+In [2]: 
+```
 
-![](/images/python/vscode/python-repl.png?width=600px)
+, kommer i alla kommande exempel att se ut så här: 
+
+``` text
+>>> 1+1
+2
+>>> 
+```
+
+Den första raden: 
+
+``` text
+>>> 1+1
+```
+
+, betyder inte att du skall skriva skriva in `>>> 1+1` i Python Console. Det
+betyder att du skall skriva in `1+1` efter prompten i Python Console. 
+
+En rad med endast `>>>`: 
+
+``` text 
+>>>
+```` 
+
+, betyder att en ny prompt kommer visas här i Python Console. 
 
 ## Importera NumPy
 
-För att använda dig av NumPy behöver du först importera NumPy. Skriv in följande vid prompten `>>>` och tryck enter. 
+För att använda dig av NumPy behöver du först importera NumPy. Skriv in följande
+vid prompten i Python Console och tryck enter. 
 
-``` text
->>> import numpy as np
+
+``` python
+import numpy as np
 ```
 
 Alla funktioner i NumPy finns nu tillgängliga under det kortare namnet `np`. 
@@ -48,15 +77,15 @@ I denna korta introduktion kommer vi endast kika på 1-dimensionella arrayer
 (vektorer).I fortsättningen kommer vi kort och gått kalla en 1-dimensionell array (vektor)
 för array. 
 
-Skriv in följande i Python REPL för att skapa en array med elementen `1`, `3`
-och `7`.
+Skriv in följande i Python Console för att skapa en array med elementen `1`, `3`
+och `7`. Glöm inte att avsluta med enter. 
 
 ``` python
->>> np.array([1, 3, 7])
+np.array([1, 3, 7])
 ```
 
 När du trycker på enter skapas arrayen och visas på nästa rad och sedan skrivs
-en ny prompt `>>>` ut. 
+en ny prompt ut. 
 
 ``` python
 >>> np.array([1, 3, 7])
@@ -68,7 +97,6 @@ Det går att lagra arrayer i variabler.
 
 ``` python
 >>> a = np.array([1, 3, 7])
->>>
 ```
 
 Denna gång visas inte arrayen efter att den skapats. För att visa arrayen
@@ -135,9 +163,9 @@ array([ 1.,  2.,  3.,  4.,  5.,  6.,  7.,  8.,  9., 10.])
 >>> 
 ```
 
-## Pi
+## Talet π 
 
-Talet `pi` finns tillgängligt som `np.pi`.
+När du använder NumPy finns talet `pi` tillgängligt som `np.pi`.
 
 ``` python
 >>> np.pi

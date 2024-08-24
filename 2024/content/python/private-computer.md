@@ -1,6 +1,7 @@
 ---
 title: Python och VS Code på din egen dator
 weight: 20
+draft: true
 ---
 
 För att vara förberedd inför kommande kurser är det starkt rekommenderat att du

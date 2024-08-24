@@ -63,6 +63,34 @@ På campus Ångströmlaboratoriet finns följande datorsalar med Windows.
 
 [biblioteket]: https://use.mazemap.com/#v=1&config=uu&campusid=49&zlevel=1&center=17.647191,59.839849&zoom=18&sharepoitype=poi&sharepoi=1000824424
 
+### Logga in på dator i datorsal på Campus Ångström
+
+I alla datorsalar för studenter på campus [Ångströmlaboratiet][ångström] finns det datorer
+med Windows. 
+
+[ångström]: https://angstrom.uu.se/
+
+{{< figure 
+    width="555px" 
+    src="/images/computer-rooms/hus-10-pc.jpg" 
+    title="Arbetsplats med dator som kör Windows." 
+>}}
+
+Om datorn är på lyser power-knappen nere i skärmens högra hörn. Väck upp datorn
+genom att röra på mussen eller trycka på någon av tangenterna på tangentbordet.
+
+![](/images/computer-rooms/power-button.png)
+
+Om power-knappen inte lyser måste du trycka på power-knappen för
+att slå på datorn. 
+
+För att logga in i Windows anger du användarnamnet för ditt
+[studentkonto][studentkonto] på formen `abcd1234` och **Lösenord A**.
+
+[studentkonto]: preparation/#studentkonto
+
+![](/images/linux/windows-10-login.jpg?width=444px)
+
 ## Campus Gotland
 
 På campus Gotland finns följande datorsal. 

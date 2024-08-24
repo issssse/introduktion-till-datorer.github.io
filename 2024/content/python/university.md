@@ -1,6 +1,7 @@
 ---
 title: Python och VS Code på universitetets datorer
 weight: 10
+draft: true
 ---
 
 
@@ -18,7 +19,7 @@ med Windows.
 Om datorn är på lyser power-knappen nere i skärmens högra hörn. Väck upp datorn genom att röra på mussen eller trycka på någon av tangenterna på
 tangentbordet. Om power-knappen inte lyser måste du trycka på power-knappen för
 att slå på datorn. 
-
+c
 ## Logga in i Windows
 
 För att logga in i Windows anger du användarnamnet för ditt **studentkonto** på

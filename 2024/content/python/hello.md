@@ -3,115 +3,101 @@ title: Ett första program
 weight: 40
 ---
 
-Efter att ha testat att utföra enklare beräkningar i Python REPL är det nu dags
+Efter att ha testat att utföra enklare beräkningar i Python Console (REPL) är det nu dags
 att skapa ditt första Pythonprogram. 
 
+## Starta Spyder
 
-## Starta VS Code
+Starta [Spyder](../spyder) om du inte redan gjort det. 
 
-Starta VS Code. 
+## Editor
 
-![](/images/python/vscode/vscode-start.png?width=600px)
+Till vänster i Spyder hittar du en **kodeditor**.
 
-## Explorer
+![](/images/python/spyder/editor.png)
 
-Klicka på **Explorer** (1) i VS Code.
+## New file hello.py
 
-![](/images/python/hello/explorer.png?width=600px)
+Tryck på ikonen **New File** och skapa en fil med namnet `hello.py`.
 
-## Öppna katalog 
+![](/images/python/spyder/new-file.png)
 
-Klicka på **Open folder** (2).
+En ny flik med den nya filen `hello.py` visas nu i editorn. 
 
-![](/images/python/hello/open-folder.png?width=600px)
+![](/images/python/spyder/hello-created.png)
 
-Sök dig fram till en katalog där du vill spara ditt Pythonprogram eller skapa en
-ny katalog. I exemplet nedan öppnades en katalog med namn `python` vilket du ser
-under Explorer (3).
+Raderna 1 - 6 utgörs av kommentarer som Spyder lagt till när du skapade filen.
+Du kan ta bort dessa kommentarer om du vill. 
 
-![](/images/python/hello/python-folder.png?width=600px)
+## Strängar
 
-## Lägg till fil
+Av programmerare brukar text som omslutes av enkla eller dubbla citattecken
+kallas för en **sträng**. Exempel på strängar: `"Hej på dig!"`, `'Tack skall du
+ha'`.
 
-När du för musen över **PYTHON** visas några nya ikoner. Den första av dessa
-ikoner ser ut så här och kallas för **New File**. 
+## Print Hello!
 
-![](/images/python/vscode/new-file-icon.png)
+I Python används funktionen `print` för att skriva ut till till Python Console. 
+Skriv in `print("Hello!")` i filen `hello.py` för att skriva ut strängen
+`"Hello!"` till Python Console. 
 
-Tryck på **New file** (4).
-
-![](/images/python/hello/new-file.png?width=600px)
-
-Ge den nya file namnet `hello.py`. 
-
-{{% notice style="warning" title="Suffixet .py" %}}
-
-Det är viktigt att filnamnet avslutat med suffixet `.py` för alla filer som
-innehåller Pythonprogram. 
-{{% /notice %}}
-
-I Explorer dyker nu den nya filen upp (5) och
-du en ny flik med namnet `hello.py` dyker upp till höger (6).
-
-![](/images/python/hello/hello-py.png?width=600px)
-
-Det är under fliken `hello.py` (6) som du redigerar innehållet i filen
-`hello.py`. Längst ut till vänster visas radnumret för varje rad. För tillfället
-finns endast en tom rad med radnummer `1`.
-
-## Lägg till kod
-
-Lägg till följande rader kod. 
-
-``` Python
-a = 1
-b = 4
-c = a + b
-```
+![](/images/python/spyder/hello-py-1.png)
 
 ## Kör programmet
 
-Tryck på **play-knappen** (7) för att köra programmet. 
+Tryck på **Run** (play). 
 
-![](/images/python/hello/play.png?width=600px)
+![](/images/python/spyder/run-button.png)
 
-Nu öppnas en ny terminal längst ner (8).
+## Run settings
 
-![](/images/python/hello/result-1.png?width=600px)
+Första gången du kör programmet får du upp följande ruta. 
 
-Namnet `hello.py` på programmet som körts skrivs ut och sedan en ny
-terminalprompt `$`.
+![](/images/python/spyder/run-hello-settings.png)
 
-## Lägg till utskrift
+Du behöver inte ändra på något utan kan trycka direkt på **Run**. 
 
-När du arbetar i Python REPL skriver du in en rad kod i taget och resultatet (om
+## Resultat av körning i Python Console
+
+I Python Console ser du nu resultatet av körningen. 
+
+![](/images/python/spyder/hello-py-1-output.png)
+
+I detta fall blir resultatet att texten `Hello!` skriv ut på en egen rad. 
+
+
+## Lägg till kod
+
+Lägg till `1+1` på en egen rad. 
+
+``` Python
+print("Hello!")
+
+1+1
+```
+
+Tryck på **play-knappen** för att köra programmet. I Python Console ser du
+återigen utskriften `Hello!`. Resultatet `2`av `1+1` skrivs dock inte ute. 
+
+När du arbetar i Python Console (REPL) skriver du in en rad kod i taget och resultatet (om
 det finns något) skrivs sedan automatiskt ut på nästa rad. 
 
 När du kör ett Pythonprogram utförs programmet rad för rad, uppifrån och ner.
 Men, inga automatiska utskrifter sker. 
 
-Om du vill se resultat måste du själv skriva ut med hjälp av funktionen `print`.
+## Lägg till utskrift av 1 + 1 
 
-Lägg till följande rad sist i programmet. 
+Om du vill se resultat av `1+1` måste du själv skriva ut det med hjälp av
+funktionen `print`. Ändra så att programmet ser ut så här. 
 
-``` python
-print(c)
+``` Python
+print("Hello!")
+
+print(1+1)
 ```
 
-Hela programmet skall nu se ut så här. 
-
-``` python
-a = 1
-b = 4
-c = a + b
-
-print(c)
-```
-
-Kör programmet igen genom att klicka på **Play** (9). Den här gånger skrivs
-värdet `5`på variablen `c` ut i terminalen (10).
-
-![](/images/python/hello/play-2-result.png?width=600px)
+Kör programmet igen genom att klicka på **Play**. Den här gånger skrivs
+värdet först `Hello!` ut och sedan skrivs även `2` ut. 
 
 ## Lägg till kommentarer
 
@@ -121,9 +107,13 @@ kommentarer. Det är vanligt att programmerare lägger till kommentarer i sina
 program för att förklara eller förtydliga för sig själv och andra vad
 programmet gör. 
 
-Pröva att lägga till några kommentarer till progammet, till exempel så här. 
+Vi bygger ut vårt exempel så det ser ut så här. 
 
 ``` python
+print("Hello!")
+
+print(1+1)
+
 # Three variables.
 a = 1
 b = 4
@@ -133,51 +123,34 @@ c = a + b
 print(c)
 ```
 
-Pröva sedan att köra programmet igen. Testa nu att lägga till tecknet `#` längst
-till vänster på sista raden med `print(c)`.
+Vid körning sker nu följande utskrifter till Python Console.
+
+``` text 
+Hello!
+
+2
+
+5
+```
+
+Först skrivs strängen `"Hello!"` ut. Sedan skrivs värdet av beräkning `1+1` ut,
+dvs `2` skrivs ut. Slutligen skrivs värdet av variabeln `c` ut, dvs `5` skrivs
+ut.  
+
+Testa att lägga till tecknet `#` längst till vänster på sista raden med `print(c)`.
 
 ``` python
+print("Hello!")
+
+print(1+1)
+
 # Three variables.
 a = 1
 b = 4
 c = a + b
 
 # Print the value of variable c.
-# print(c)
+#print(c)
 ```
 
 Vad tror du händer när du kör programmet igen?
-
-## Skriv ut strängar (text)
-
-Av programmerare brukar text som omslutes av enkla eller dubbla citattecken
-kallas för en **sträng**. Exempel på strängar: `"Hej på dig!"`, `'Tack skall du
-ha'`.
-
-I Python kan du använda `print` för att skriva ut strängar. Pröva att lägga till
-utskrift av några stängar, till exempel så här. 
-
-```python
-# Three variables.
-a = 1
-b = 4
-c = a + b
-
-# Print the value of variable c.
-print(c)
-
-# Print strings.
-print("Hello!")
-print('Hello!')
-```
-
-När du kör programmet ovan skrivs följande ut i terminalen. 
-
-``` text
-5
-Hello!
-Hello!
-```
-
-
-
