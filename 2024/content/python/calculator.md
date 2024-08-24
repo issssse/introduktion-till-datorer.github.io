@@ -151,3 +151,131 @@ Några exempel till.
 ```
 
 Vad beräknas med hjälp av operatorn `%`? 
+
+## Mer matematik
+
+För att få tillgång till mer avancerade matematiska funktioner behöver du importera
+biblioteket `math`.
+
+``` text
+>>> import math
+```
+
+## Talet π
+
+Efter import av biblioteket `math` finns talet `π` nu tillgängligt som `math.pi`.
+
+``` text
+>>> math.pi
+3.141592653589793
+```
+
+Datorer kan inte representera decimaltal med oändligt många decimaler. I detta
+fall får vi nöja oss med att `π` approximeras till `3.141592653589793`. 
+
+## Sinus
+
+I intervallet `0` till `2π` ser sinusfunktionen ut så här.
+
+![](/images/python/numpy/sinus.png?width=600px)
+
+Efter import av biblioteket `math` finns funktionen sinus tillgänglig som
+`math.sin`. Testa att beräkna `sin(0)`.
+
+``` text
+>>> math.sin(0)
+0.0
+```
+
+Testa att beräkna `sin(π/4)`.
+
+``` text
+>>> math.sin(math.pi/4)
+0.7071067811865475
+```
+
+Testa att beräkna `sin(π/2)`.
+
+``` text
+>>> math.sin(math.pi/2)
+1.0
+```
+
+Testa att beräkna `sin(3π/4)`.
+
+``` text
+>>> math.sin(3*math.pi/4)
+0.7071067811865476
+```
+
+Testa att beräkna `sin(π)`.
+
+``` text
+>>> math.sin(math.pi)
+1.2246467991473532e-16
+```
+
+Notera att `sin(π)` inte blir exakt `0` utan att det
+beräknas till `1.2246467991473532e-16` vilket är mycket, mycket nära `0`. Detta
+beror på att datorer inte kan representera decimaltal, till exempel `π`,  med oändligt många
+decimaler.
+
+## Cosinus
+
+I intervallet `0` till `2π` ser cosinusfunktionen ut så här.
+
+![](/images/python/numpy/cosinus.png?width=600px)
+
+Efter import av biblioteket `math` finns funktionen sinus tillgänglig som
+`math.cos`. Testa att beräkna `cos(0)`.
+
+``` text
+>>> math.cos(0)
+1.0
+```
+
+Pröva att på egen hand beräkna cosinus för `π/4`, `π/2`, `3π/4` och `π`.
+
+## Den naturliga logaritmen
+
+Talet `e` utgör basen för den naturliga logaritmen. Efter import att biblioteket
+`math` finns talet `e` tillgängligt som `math.e`.
+
+``` text
+>>> math.e
+2.718281828459045
+```
+
+Funktionen för det naturliga logaritmen `ln` finns tillgänglig som `math.log`.
+Vi beräknar `ln(7)`.
+
+``` text
+>>> math.log(7)
+1.9459101490553132
+```
+
+För att beräkna  e<sup>x</sup> används `math.exp(x)`. Vi prövar att beräkna e<sup>2</sup>.
+
+``` text
+>>> math.exp(2)
+7.38905609893065
+```
+
+Per definition skall e<sup>ln(x)</sup> = x. Vi testar om det stämmer. 
+
+``` text
+>>> math.exp(math.log(7))
+6.999999999999999
+```
+
+I detta fall blir resultat inte exakt `7` utan
+`6.999999999999999`. Detta beror återigen på att datorer inte kan representera
+decimaltal, till exempel talet `e`, med oändligt många decimaler. 
+
+##  Lär dig mer
+
+Om du vill kan lära dig med om vilka konstanter och funktioner som finns
+tillgängliga i biblioteket `math` [här][math].
+
+[math]: https://www.w3schools.com/python/module_math.asp
+
