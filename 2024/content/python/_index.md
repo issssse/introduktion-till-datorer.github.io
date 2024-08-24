@@ -65,7 +65,9 @@ Ett **Pythonprogram** lagras i en fil på din dator. Du kan sedan låta Python
 köra programmet från början till slut. 
 
 Med hjälp av ett **Python REPL** kan du skriva in Pythonkod en rad i taget för
-att steg för steg testa dig fram.
+att steg för steg testa dig fram. Efter varje rad (kommando) du matar in skrivs
+resultatet (om det finns något) ut automatiskt innan du kan mata in nästa
+kommando. 
 
 En **Prompt** är en eller flera symboler som används för att markera att ett
 REPL är redo att ta emot ett nytt kommando. Vanligt är att: 
