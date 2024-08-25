@@ -140,19 +140,19 @@ utförs från vänster till höger.
 
 Hur beräknas `5 - 2 + 3`? Reglerna innebär att subtraktionen skall utföras först.
 
-``` python 
+``` text 
 5 - 2 + 3 = (5 - 2) + 3 = 6
 ````
 
 Enligt reglerna är det fel att beräkna additionen först.
 
-``` python
+``` text
 5 - 2 + 3 = 5 - (2 + 3) = 0
 ```
 
 Vi testar och ser hur Python beräknar `5 - 2 + 3`.
 
-``` python
+``` text
 >>> 5-2+3
 6
 ```
@@ -162,19 +162,19 @@ Python följer reglerna och utför subraktionen `5 - 2` först.
 Hur beräknas `3 + 2 * 6`? Enligt reglerna gäller att multiplikationen `2 * 6` skall
 utföras först. 
 
-``` python
+``` text
 3 + 2 * 6 = 3 + (2 * 6) = 3 + 12 = 15
 ```
 
 Enligt reglerna är det fel att beräkna additionen först. 
 
-``` python 
+``` text
 3 + 2 * 6 = (3 + 2) * 6 = 5 * 6 = 30
 ```
 
 Vi testar och ser hur Python beräknar `3 + 2 * 6`.
 
-``` python
+``` text
 >>> 3+2*6
 15
 ```
@@ -185,7 +185,7 @@ Python följer de vanliga reglerna för operatorprioritet från matematiken. Är
 osäker på hur något kommer beräknas kan du alltid lägga till parenteser för att
 göra det tydligare. 
 
-``` python
+``` text
 >>> 3+(2*6)
 15
 ```
