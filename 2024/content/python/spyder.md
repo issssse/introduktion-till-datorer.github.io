@@ -4,7 +4,7 @@ weight: 10
 ---
 
 Ett enkelt sätt att komma igång med Python är att använda [Anaconda][anaconda]
-och [Spyder][spyder] vilka redan finns tillgängliga på datorer i datorsalarna på Campus
+och [Spyder][spyder] vilka redan finns tillgängliga på datorer i [datorsalarna][computer-rooms] på Campus
 [Ångströmlaboratiet][ångström]. 
 
 Det är starkt rekommenderat att du [installerar Anaconda][download] som
@@ -15,6 +15,7 @@ i datorsal på Campus Ångström. Om du installerar och kör Anaconda på din eg
 dator bör du kunna följa alla instruktioner utom de som rör hur du startar
 Anaconda och Spyder.
 
+[computer-rooms]: computer-rooms/#campus-ångströmlaboratoriet
 [ångström]: https://angstrom.uu.se/
 [anaconda]: https://www.anaconda.com/
 [spyder]: https://www.spyder-ide.org/
