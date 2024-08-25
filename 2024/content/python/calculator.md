@@ -118,6 +118,84 @@ Parenteser kan användas för att gruppera.
 >>>
 ```
 
+## Operatorprioritet 
+
+[Operatorprioritet][operatorprioritet] eller prioriteringsregler för operatorer
+är ett begrepp inom bland annat matematik och programmering. Operatorprioriteten används för att
+avgöra i vilken ordning operationer (räknesätt) utförs. Behovet kommer från att
+vissa uttryck, exempelvis `1 + 2 * 3` har olika värden beroende på om man först
+adderar `1 + 2` (då uttrycket har värdet `9`) eller först multiplicerar `2 * 3` (då
+uttrycket har värdet `7`).
+
+De prioriteringsregler som används i matematik kan sammanfattas med följande:
+
+- Först beräknas parenteser.
+- Sedan potenser.
+- Därefter utförs multiplikation och division i valfri ordning. 
+- Sist utförs addition och subtraktion i valfri ordning.
+
+Reglerna ovan kan leda till tvetydighet. Därför är ordningen för addition och
+subtraktion liksom för multiplikation och division att operationerna i allmänhet
+utförs från vänster till höger. 
+
+Hur beräknas `5 - 2 + 3`? Reglerna innebär att subtraktionen skall utföras först.
+
+``` python 
+5 - 2 + 3 = (5 - 2) + 3 = 6
+````
+
+Enligt reglerna är det fel att beräkna additionen först.
+
+``` python
+5 - 2 + 3 = 5 - (2 + 3) = 0
+```
+
+Vi testar och ser hur Python beräknar `5 - 2 + 3`.
+
+``` python
+>>> 5-2+3
+6
+```
+
+Python följer reglerna och utför subraktionen `5 - 2` först. 
+
+Hur beräknas `3 + 2 * 6`? Enligt reglerna gäller att multiplikationen `2 * 6` skall
+utföras först. 
+
+``` python
+3 + 2 * 6 = 3 + (2 * 6) = 3 + 12 = 15
+```
+
+Enligt reglerna är det fel att beräkna additionen först. 
+
+``` python 
+3 + 2 * 6 = (3 + 2) * 6 = 5 * 6 = 30
+```
+
+Vi testar och ser hur Python beräknar `3 + 2 * 6`.
+
+``` python
+>>> 3+2*6
+15
+```
+
+Python följer reglerna och multiplikationen `2 * 6` utförs först. 
+
+Python följer de vanliga reglerna för operatorprioritet från matematiken. Är du
+osäker på hur något kommer beräknas kan du alltid lägga till parenteser för att
+göra det tydligare. 
+
+``` python
+>>> 3+(2*6)
+15
+```
+
+
+
+
+
+[operatorprioritet]: https://sv.wikipedia.org/wiki/Operatorprioritet
+
 ## Variabler
 
 Värdet av en beräkning kan lagras i en variabel. I exemplet nedan lagras värdet
