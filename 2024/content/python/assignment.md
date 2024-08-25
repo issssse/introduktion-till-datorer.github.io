@@ -14,7 +14,7 @@ I titeln på diagrammet skall du byta ut `abcd1234` mot namnet på ditt
 
 ## Skapa ett nytt program
 
-Öppna en ny fil i VS Code och ge filen namnet `curves.py`.
+Öppna en ny fil i Spyder ch ge filen namnet `curves.py`.
 
 ## Ett första försök
 

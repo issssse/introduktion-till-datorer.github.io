@@ -101,33 +101,12 @@ Read more
 [here](https://gohugo.io/hugo-modules/use-modules/#make-and-test-changes-in-a-module)
 about how to update a specific module and more options. 
 
-## Multiple Hugo sites
-
-All material specific to a year is found inside the directory with name of the year. 
-
-For each year there is one swedish Hugo site and one english Hugo site. For example, for
-the year 2024, the swedish site is in the `2024` directory and the english site in
-the `2024/eng` directory. 
-
-Each site has its own `hugo.toml` configuration. To build a specific site, use
-`hugo` with
-the 
-`--config` option to select the site configuration. 
-
-For example, this is how to
-build the swedish 2024 site. 
+## Build subsites
 
 ```
-hugo server --config=2024/hugo.toml
+hugo server --config=year/2024/hugo.toml
 ```
 
-And this is how you build the 2024 english site. 
-
 ```
-hugo server --config=2024/eng/hugo.toml
+hugo server --config=year/2024-eng/hugo.toml
 ```
-
-## Deploy to GitHub pages
-
-
-Configuration file: `.github/workflows/hugo.yaml`
