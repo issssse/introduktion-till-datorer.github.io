@@ -111,12 +111,19 @@ array([1, 3, 7])
 ## Multiplicera tal med array 
 
 Det går att multiplicera ett tal med en array. Detta gör så att alla värden i
-array multipliceras med talet. 
+arrayen multipliceras med talet. I följande exempel multipliceras arrayen `a`
+med talet `3`.
 
 ```python
 >>> a = np.array([1, 3, 7])
 >>> 3*a
 array([ 3,  9, 21])
+```
+
+I följande exempel multipliceras arrayen `a`
+med talet `100`.
+
+``` python
 >>> 100*a
 array([100, 300, 700])
 >>> 
