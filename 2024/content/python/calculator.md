@@ -251,7 +251,7 @@ Några exempel till.
 >>> 
 ```
 
-Kan du klura ut vad beräknas med hjälp av operatorn `%`? 
+Kan du klura ut vad som beräknas med hjälp av operatorn `%`? 
 
 ## Mer matematik
 
