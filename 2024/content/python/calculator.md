@@ -127,6 +127,8 @@ vissa uttryck, exempelvis `1 + 2 * 3` har olika värden beroende på om man för
 adderar `1 + 2` (då uttrycket har värdet `9`) eller först multiplicerar `2 * 3` (då
 uttrycket har värdet `7`).
 
+[operatorprioritet]: https://sv.wikipedia.org/wiki/Operatorprioritet
+
 De prioriteringsregler som används i matematik kan sammanfattas med följande:
 
 - Först beräknas parenteser.
@@ -138,13 +140,13 @@ Reglerna ovan kan leda till tvetydighet. Därför är ordningen för addition oc
 subtraktion liksom för multiplikation och division att operationerna i allmänhet
 utförs från vänster till höger. 
 
-Hur beräknas `5 - 2 + 3`? Reglerna innebär att subtraktionen skall utföras först.
+Hur beräknas `5 - 2 + 3`? Reglerna innebär att subtraktionen `5 - 2` skall utföras först.
 
 ``` text 
 5 - 2 + 3 = (5 - 2) + 3 = 6
 ````
 
-Enligt reglerna är det fel att beräkna additionen först.
+Enligt reglerna är det fel att beräkna additionen `2 + 3` först.
 
 ``` text
 5 - 2 + 3 = 5 - (2 + 3) = 0
@@ -166,7 +168,7 @@ utföras först.
 3 + 2 * 6 = 3 + (2 * 6) = 3 + 12 = 15
 ```
 
-Enligt reglerna är det fel att beräkna additionen först. 
+Enligt reglerna är det fel att beräkna additionen `3 + 2` först. 
 
 ``` text
 3 + 2 * 6 = (3 + 2) * 6 = 5 * 6 = 30
@@ -189,12 +191,6 @@ göra det tydligare.
 >>> 3+(2*6)
 15
 ```
-
-
-
-
-
-[operatorprioritet]: https://sv.wikipedia.org/wiki/Operatorprioritet
 
 ## Variabler
 
