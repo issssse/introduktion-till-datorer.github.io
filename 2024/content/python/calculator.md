@@ -143,13 +143,13 @@ utförs från vänster till höger.
 Hur beräknas `5 - 2 + 3`? Reglerna innebär att subtraktionen `5 - 2` skall utföras först.
 
 ``` text 
-5 - 2 + 3 = (5 - 2) + 3 = 6
+5 - 2 + 3 = (5 - 2) + 3 =  3 + 3 = 6
 ````
 
 Enligt reglerna är det fel att beräkna additionen `2 + 3` först.
 
 ``` text
-5 - 2 + 3 = 5 - (2 + 3) = 0
+5 - 2 + 3 = 5 - (2 + 3) = 5 - 5 = 0
 ```
 
 Vi testar och ser hur Python beräknar `5 - 2 + 3`.
