@@ -78,8 +78,6 @@ Leta reda på Spyder och tryck på **Launch**.
 
 Så här ser Spyder ut första gången du startar programmet. 
 
-![](/images/python/spyder/spyder-first-launch.png)
-
 ![](/images/python/spyder/first-look.png)
 
 ## Python Console och prompten
