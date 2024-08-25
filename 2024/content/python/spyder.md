@@ -80,6 +80,8 @@ Så här ser Spyder ut första gången du startar programmet.
 
 ![](/images/python/spyder/spyder-first-launch.png)
 
+![](/images/python/spyder/spyder-first-launch.png)
+
 ## Python Console och prompten
 
 Nere till höger i Spyder hittar du **Python Console** vilket är ett Python REPL. 
