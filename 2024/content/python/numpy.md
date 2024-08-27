@@ -118,6 +118,7 @@ med talet `3`.
 >>> a = np.array([1, 3, 7])
 >>> 3*a
 array([ 3,  9, 21])
+>>>
 ```
 
 I följande exempel multipliceras arrayen `a`
