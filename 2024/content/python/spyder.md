@@ -33,30 +33,8 @@ Skriv in `anaconda` i sökrutan i aktivitetsfältet (1).
 
 ![](/images/python/spyder/search-anaconda-navigator.png)
 
-Om Anaconda Navigator finns installerat dyker **Anaconda Navigator App** upp 
-bland resultaten (2) och du kan nu starta detta program. 
-
-## Software Center (ZENworks)
-
-Om det inte går att starta Spyder från sökrutan i aktivitetsfältet behöver du
-installera Anaconda med hjälp av Software Center (ZenWorks). 
-
-Någonstans på skrivbordet hittar du **Software center (Zenworks)**.
-
-
-![](/images/linux/software-center-icon.png)
-
-Dubbelklicka på ikonen för **Software center (Zenworks)**. Nu öppnas ett nytt
-fönster med tillgänglig mjukvara. 
-
-![](/images/linux/software-center.png)
-
-Den mjukvara som du hittar här kan redan vara installerad på den dator du
-sitter vid. Om ett program inte redan är installerad kommer det att installeras första gången du
-försöker använda programmet. 
-
-Leta reda på Anaconda och dubbelklicka på ikonen för att installera programmet. 
-
+Högst upp bland resultaten skall du nu se  **Anaconda Navigator** (2) och
+kan nu starta detta program. 
 
 ## Anaconda Navigator
 
