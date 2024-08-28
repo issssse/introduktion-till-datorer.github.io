@@ -20,7 +20,7 @@ Rättning av kompletteringar kommer ske under följande omgångar:
 | 4      | 2025 | TBA       | TBA       |
 
 
-**TBA:** Exakta datum för omgång 4 är ännu inte fastställda. 
+**TBA:** Exakt datum ännu inte fastställt. 
 
 
 Om du lämnar in en komplettering i början av en kompletteringsomgång kan du
