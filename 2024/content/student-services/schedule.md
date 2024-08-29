@@ -1,6 +1,6 @@
 ---
 title: Schema 
-weight: 7
+weight: 9
 ---
 
 Du hittar enklast ditt schema genom att logga in på studium, gå in på en av din kurser, vilken som helst, och

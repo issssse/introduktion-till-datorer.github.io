@@ -1,6 +1,6 @@
 ---
 title: Studium
-weight: 5
+weight: 8
 ---
 
 [Studium][studium] är den lärplattform som används vid Uppsala universitet.
