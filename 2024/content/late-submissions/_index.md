@@ -3,8 +3,11 @@ title: Komplettering efter kursens slut
 weight: 90
 ---
 
-Rättning av kompletteringar inlämnade efter kursens slut kommer att ske i fyra
-omgångar.
+Rättning av kompletteringar inlämnade efter kursens slut kommer att ske i 
+samband med följande fyra [omtentaperioder][perioder]. 
+
+[perioder]:
+    https://www.uu.se/student/fakultet/teknisk-naturvetenskapliga/lasarsperioder-och-tentamen
 
 ## Omgångar med rättning av kompletteringar
 
