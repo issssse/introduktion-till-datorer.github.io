@@ -8,6 +8,16 @@ använda dig av OneDrive. Med OneDrive kan du lagra personliga filer på ett
 ställe, dela dem med andra och nå dem från alla enheter som är anslutna till
 Internet.
 
+## Utforskaren
+
+Bland ikonerna i aktivitetsfältet hittar **utforskaren**. 
+
+![](/images/studenttjanster/windows/taskbar-explorer.png)
+
+När du klickar på ikonen för utforskaren öppnas ett nytt fönster. 
+
+![](/images/studenttjanster/windows/file-explorer-1.png)
+
 ## Aktivera OneDrive
 
 Klicka på **OneDrive** i utforskaren. 
