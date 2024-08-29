@@ -3,14 +3,14 @@ title: OneDrive
 weight: 5
 ---
 
-Istället för att lagra dina filer lokalt på en specifik dator bör du alltid
-använda dig av OneDrive. Med OneDrive kan du lagra personliga filer på ett
-ställe, dela dem med andra och nå dem från alla enheter som är anslutna till
-Internet.
+Istället för att lagra dina filer lokalt på en av universitetets 
+datorer bör du alltid använda dig av OneDrive. Med OneDrive kan du lagra
+personliga filer på ett ställe, dela dem med andra och nå dem från alla enheter
+som är anslutna till Internet.
 
 ## Utforskaren
 
-Bland ikonerna i aktivitetsfältet hittar **utforskaren**. 
+Bland ikonerna i aktivitetsfältet hittar du **utforskaren**. 
 
 ![](/images/studenttjanster/windows/taskbar-explorer.png)
 
@@ -29,20 +29,20 @@ Du kommer nu behöva ange din e-postadress på formen
 
 ![](/images/studenttjanster/windows/onedrive-setup.png)
 
-Tryck sedan på **Sign in**. Nu dyker följande fönster upp. 
+Tryck sedan på **Sign in**. Innan du kan använda OneDrive måste du logga in med
+hjälp av ditt [Studentkonto](preparation/#studentkonto) och
+[MFA](microsoft/#aktivera-multifaktorautentisering-mfa) på din mobiltelefon.
+
+När du loggat in första gången dyker följande fönster upp. 
 
 ![](/images/studenttjanster/windows/onedrive-setup-2.png)
 
 Du kan trycka **Next** några gånger för att lära dig mer om OneDrive eller så
 kan stänga detta fönster. 
 
-Innan du kan använda OneDrive måste du logga in med hjälp av ditt
-[Studentkonto](preparation/#studentkonto) och
-[MFA](microsoft/#aktivera-multifaktorautentisering-mfa) på din mobiltelefon.
-
 ## Testa att använda OneDrive
 
-Tryck på **Windowstangentet** och sök efter **Notepad** för att starta detta
+Tryck på **Windowstangenten** och sök efter **Notepad** för att starta detta
 program och skriv in lite text. 
 
 ![](/images/studenttjanster/windows/my-first-file-1.png?width=600px)
@@ -58,12 +58,14 @@ folder** för att skapa en ny mapp i OneDrive.
 
 Ge den nya mappen ett namn, till exempel **Min första mapp**. I fältet **File
 name** anger du sedan namnet på den nya filen, till exempel **min-nya-fil.txt**.
-Klicka på **Open**. 
 
 ![](/images/studenttjanster/windows/my-first-file-4.png)
 
-Klicka på namnet på den nya mappen och sedan på **Save**. Nu har du sparat filen
-i den nya mappen på OneDrive. 
+Klicka på **Open**. 
+
+![](/images/studenttjanster/windows/my-first-file-5.png)
+
+Klicka på **Save**. Nu har du sparat filen i den nya mappen på OneDrive. 
 
 ![](/images/studenttjanster/windows/my-first-file-6.png)
 
