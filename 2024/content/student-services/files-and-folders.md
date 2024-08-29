@@ -24,7 +24,7 @@ I mappen **djur** (7) ligger filerna **katt** (8) och **apa** (9).
 
 Utan trädstrukturen skulle alla filer behöva ha ett unikt namn. Med hjälp av
 trädstrukturen kan vi använda samma namn på olika filer så länge de ligger i
-olika mappar. Filen **bosse** (1) som ligger i mappen **roten** (1) har samma
+olika mappar. Filen **bosse** (2) som ligger i mappen **roten** (1) har samma
 namn som filen **bosse** (6) som ligger i mappen **kompisar** (4). Filerna har
 samma namn men är separata filer. På samma sätt har filen **apa** (3) som ligger
 i mappen **roten** (1) samma namn som filen **apa** (9) som ligger i mappen
