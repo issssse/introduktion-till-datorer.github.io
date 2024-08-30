@@ -8,7 +8,7 @@ datorer bör du alltid använda dig av OneDrive. Med OneDrive kan du lagra
 personliga filer på ett ställe, dela dem med andra och nå dem från alla enheter
 som är anslutna till Internet.
 
-Med OneDrive can du arbeta på en av universitetets dator, spara en fil i
+Med OneDrive kan du arbeta på en av universitetets dator, spara en fil i
 OneDrive och senare komma åt den i OneDrive från din privata dator. 
 
 ## Utforskaren
@@ -78,7 +78,7 @@ exempel din privata dator med Windows.
 
 ## Kom åt OneDrive från webbläsaren
 
-Förutom att aktivera OneDrive på en dator med Windows i utforskaren kan du komma
+Förutom att aktivera OneDrive i utforskaren på en dator med Windows kan du komma
 åt dina filer i OneDrive direkt i en webbläsare genom att logga in i OneDrive [här][live].
 
 [live]: https://onedrive.live.com/login/

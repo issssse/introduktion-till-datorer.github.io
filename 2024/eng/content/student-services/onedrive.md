@@ -8,7 +8,6 @@ computers, you should always use OneDrive. With OneDrive you can store
 your files in one place, share them with others and access them from any device
 connected to the Internet.
 
-
 With OneDrive you can work on one of the university's computers, save a file in
 OneDrive and later access the file in OneDrive from your private computer.
 
