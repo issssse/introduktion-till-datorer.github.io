@@ -10,6 +10,9 @@ foo = "Bar"
 
 publishDir = 'public/2024/eng'
 
+# https://stackoverflow.com/questions/61574702/images-from-hugo-not-displayed-on-github-pages
+canonifyURLs = true
+
 [params]
 
     title = "Introduction to IT systems"

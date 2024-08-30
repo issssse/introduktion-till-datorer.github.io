@@ -3,7 +3,7 @@ title: Microsoft 365 Education
 weight: 2
 ---
 
-Som student vid Uppsala får du ett Microsoft 365 Education-konto. Microsoft 365
+Som student vid Uppsala Universitet får du ett Microsoft 365 Education-konto. Microsoft 365
 Education är en samling av verktyg och tjänster på nätet för studenter. Exempel på vad som ingår i  Microsoft 365 Education. 
 
 - Microsoft Office Desktop till din dator. 
