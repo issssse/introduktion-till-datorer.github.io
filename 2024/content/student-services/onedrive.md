@@ -8,6 +8,9 @@ datorer bör du alltid använda dig av OneDrive. Med OneDrive kan du lagra
 personliga filer på ett ställe, dela dem med andra och nå dem från alla enheter
 som är anslutna till Internet.
 
+Med OneDrive can du arbeta på en av universitetets dator, spara en fil i
+OneDrive och senare komma åt den i OneDrive från din privata dator. 
+
 ## Utforskaren
 
 Bland ikonerna i aktivitetsfältet hittar du **utforskaren**. 
@@ -70,7 +73,15 @@ Klicka på **Save**. Nu har du sparat filen i den nya mappen på OneDrive.
 ![](/images/studenttjanster/windows/my-first-file-6.png)
 
 Den nya filen lagras nu i mappen **Min första mapp** i **OneDrive** och du
-kommer komma åt den via OneDrive på alla datorer som är anslutna till internet. 
+kommer åt den via OneDrive på alla datorer som är anslutna till internet, till
+exempel din privata dator med Windows. 
+
+## Kom åt OneDrive från webbläsaren
+
+Förutom att aktivera OneDrive på en dator med Windows i utforskaren kan du komma
+åt dina filer i OneDrive direkt i en webbläsare genom att logga in i OneDrive [här][live].
+
+[live]: https://onedrive.live.com/login/
 
 ## Lär dig mer om OneDrive
 

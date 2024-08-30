@@ -58,3 +58,6 @@ publishDir = 'public/2024/eng'
     [[module.mounts]]
         source = "2024/static/images"
         target = "static/images"
+    [[module.mounts]]
+        source = "2024/eng/static/images"
+        target = "static/images"

@@ -8,7 +8,7 @@ I [datorsalar](computer-rooms) på [Campus Ångströmlaboratoriet][ångström] o
 
 [ångström]: https://www.uu.se/campus/angstromlaboratoriet
 
-[gotland]: https://www.uu.se/campus/gotlan
+[gotland]: https://www.uu.se/campus/gotland
 
 {{< figure 
     width="555px" 
