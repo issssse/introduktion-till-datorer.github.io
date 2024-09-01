@@ -73,11 +73,19 @@ The new file is now stored in the **My First Folder** folder in **OneDrive** and
 can access it via OneDrive on any computer connected to the internet, for
 example your private Windows computer.
 
+## OneDrive on your platform
+
+If you are using Windows 10 or Windows 11, OneDrive is already installed. OneDrive is not only available on computers with Windows. You can also [download] OneDrive for macOS,
+iOS and Android. 
+
+[download]: https://www.microsoft.com/en-us/microsoft-365/onedrive/download
+
 ## Access OneDrive in the web browser
 
 An alternative to activate OneDrive in the file explorer on a computer with Windows is to access OneDrive directly in a web browser by signing in to OneDrive [here][live].
 
 [live]: https://onedrive.live.com/login/
+
 
 ## Learn more
 

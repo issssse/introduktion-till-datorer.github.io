@@ -76,10 +76,18 @@ Den nya filen lagras nu i mappen **Min första mapp** i **OneDrive** och du
 kommer åt den via OneDrive på alla datorer som är anslutna till internet, till
 exempel din privata dator med Windows. 
 
+## OneDrive på din plattform
+
+Om du använder Windows 10 eller Windows 11 finns OneDrive redan installerat. Förutom att OneDrive funkar i Windows kan du [ladda hem][download] OneDrive till macOS, iOS
+och Android.  
+
+[download]: https://www.microsoft.com/sv-se/microsoft-365/onedrive/download
+
 ## Kom åt OneDrive från webbläsaren
 
 Förutom att aktivera OneDrive i utforskaren på en dator med Windows kan du komma
-åt dina filer i OneDrive direkt i en webbläsare genom att logga in i OneDrive [här][live].
+åt dina filer i OneDrive direkt i en webbläsare genom att logga in i OneDrive
+[här][live].
 
 [live]: https://onedrive.live.com/login/
 
