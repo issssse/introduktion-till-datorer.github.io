@@ -9,7 +9,7 @@ repo.
 ## Skapa en ny katalog
 
 För att skapa ett nytt repo navigerar du i terminalen till den katalog du
-vill göra till ett repo. Sedan uttför du kommandot `git init`. I följande
+vill göra till ett repo. Sedan utför du kommandot `git init`. I följande
 exempel skapas först katalogen `git-init-test` med kommandot `mkdir`.
 
 ``` shell
@@ -125,7 +125,7 @@ katalogen `.git` som ett träd.
 
 Det är med hjälp av innehållet i den dolda katalogen `.git` som Git håller reda
 på staging area och historiken för repot. Ett Git repo är en helt vanligt
-katalog och det som gör det till ett Git repo är allt innehåll i den dålda
+katalog och det som gör det till ett Git repo är allt innehåll i den dolda
 mappen `.git`. 
 Av innehållet i den dolda katalogen `.git` kan vi lägga på minnet att det finns
 en underkatalog som heter `branches` (grenar).

@@ -11,7 +11,7 @@ av samling av filer.
 
 ## Detta behöver du
 
-För att lösa uppfiten kommer varje student att behöva:
+För att lösa uppgiften kommer varje student att behöva:
 
 - En webbläsare
 - En terminal
@@ -89,7 +89,7 @@ själv.
 
 - Användarnamn på GitHub.
 - Namn.
-- Epost-address vid Uppsala universitet. 
+- Epost-adress vid Uppsala universitet. 
 
 Det skall se ut ungefär så här.
 
@@ -109,7 +109,7 @@ token och inte sitt lösenord. Instruktioner för hur man skapar dessa finns på
 
 Person B gör `git pull` för att få den senaste uppdateringen från person
 A. Person B lägger sedan på egen hand till sina användarnamn, för- och efternamn och
-epost-addresser till `members.txt`. Gör commit och pushar upp till repot på
+epost-adresser till `members.txt`. Gör commit och pushar upp till repot på
 GitHub. 
 
 ## Lägg till person C till members.txt (C)
@@ -330,7 +330,7 @@ Glöm inte att committa ändringen och pusha till repot på GitHub.
 ## Inlämning
 
 En av er kan kopiera adressen till repot ni skapat på GitHub och lämna in
-addressen på angiven plats nedan. 
+adressen på angiven plats nedan. 
 
 | Program    | Inlämning                       |
 | :--------: | :--------:                      |

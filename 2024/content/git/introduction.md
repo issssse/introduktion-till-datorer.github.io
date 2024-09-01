@@ -90,7 +90,7 @@ brukar man kalla en samling av filer och
 mappar som Git håller koll på- och hanterar ändringar i för ett Git repository,
 eller kort och gott för Git repo, eller ännu kortare bara repo.
 
-Ett repo är en vanlig mapp på din dator. I denna mapp kommer Git att skapa dålda
+Ett repo är en vanlig mapp på din dator. I denna mapp kommer Git att skapa dolda
 mappar och filer för att hålla reda på historiken. Ett förenklat sätt att tänka
 på ett Git repo är att det består de tre delarna: working directory, staging area
 och commit historik.
@@ -168,13 +168,13 @@ till staging area och sedan göra ytterligare en commit.
 
 ## Skapa ett nytt repo
 
-Ett repo är en helt vanlig katalog med särskilt innehåll (dålda mappar
+Ett repo är en helt vanlig katalog med särskilt innehåll (dolda mappar
 och filer) som Git lagt dit för att hålla reda på dina vanliga filer och mappar.
 
 För att skapa ett nytt repo navigerar du i terminalen till den katalog du vill
-göra till ett repo. Sedan uttför du kommandot `git init`. Git kommer nu lägga
-till dålda kataloger och filer som sedan används av Git för att hålla reda på
-historiken. Där är med hjälp av dessa dålda mappar och filer som Git hanterar
+göra till ett repo. Sedan utför du kommandot `git init`. Git kommer nu lägga
+till dolda kataloger och filer som sedan används av Git för att hålla reda på
+historiken. Där är med hjälp av dessa dolda mappar och filer som Git hanterar
 bland annat staging area och historiken (repository).
 
 ## Arbetsordning
@@ -205,7 +205,7 @@ För att hålla ett lokalt repo och ett remote repo i synk används push och pul
 ![](/images/git/local-repo-network-gihub-remote.png?width=555px)
 
 Med push skickar du upp din senaste commit till ett remote repo för att det
-skall hamna i synk med dit lokala repo. Kommandot som används för att göra en
+skall hamna i synk med ditt lokala repo. Kommandot som används för att göra en
 push är `git push`.
 
 Med pull kollar du om det finns några ändringar gjorda av andra i remote repo
@@ -236,6 +236,6 @@ Kommandot som används för att klona ett remote repo är `git clone`.
 ## Återställ ett förlorat repo
 
 Om du av något anledning blivit av med ditt lokala repo men har ett backup repo
-på GitHub kan du alltå enkelt återställa ditt lokala repo med genom att klona
+på GitHub kan du alltså enkelt återställa ditt lokala repo med genom att klona
 repot från GitHub. 
 

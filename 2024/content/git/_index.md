@@ -9,7 +9,7 @@ upp över förändringar vilket bland annat gör det möjligt att gå tillbaka t
 tidigare versioner.
 
 Git gör det även möjligt
-för flera programmerare att på ett strukturerat sätt samarbete tillsammans utan
+för flera programmerare att på ett strukturerat sätt samarbeta tillsammans utan
 att deras förändringar krockar med varandra.
 
 GitHub är en webbaserad och

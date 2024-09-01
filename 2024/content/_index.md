@@ -51,7 +51,7 @@ och naturvetenskap][teknat] vid [Uppsala universitet][uu].
     href="https://angstrom.uu.se/">Ångströmlaboratiet</a>, <a target="_blank"
     class="highlight" href="https://www.slu.se/">SLU</a></td>
         <td><a target="_blank" class="highlight" href="https://www.uu.se/utbildning/utbildningar/selma/program/?pKod=TES2Y">Civilingenjörsprogrammet i energisystem</a></td>
-        <td>TN0353</td>
+        <td>TN0367</td>
         <td>Introduktion till energisystem</td>
     </tr>
     <tr>
@@ -192,7 +192,7 @@ Högst upp på varje sida hittar du verktygsfältet med följande knappar.
    {{% icon chevron-right %}}
   </td>
   <td>
-    Navigera till föregående sida i hiarkin. 
+    Navigera till föregående sida i hierarkin. 
   </td>
 </tr>
 </table>
@@ -201,7 +201,7 @@ Högst upp på varje sida hittar du verktygsfältet med följande knappar.
 ## Meny
 
 Till vänster på varje sida hittar du menyn. Om menyn är dåld kan du trycka på {{%
-icon bars %}} i verktygsfältet högst på sidan för att visa meny. Följnade
+icon bars %}} i verktygsfältet högst på sidan för att visa meny. Följande
 symboler används i menyn. 
 
 

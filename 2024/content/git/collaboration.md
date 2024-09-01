@@ -75,7 +75,7 @@ resultat. Du måste göra minst en commit i ditt repo för att den första branc
 ## Skapa en ny branch
 
 För att skapa en ny branch används kommandot `git checkout -b`. För att till
-exempel skapa en ny branch men namnet `experiments` gör du så här. 
+exempel skapa en ny branch med namnet `experiments` gör du så här. 
 
 ``` shell
 $> git checkout -b experiments
@@ -105,7 +105,7 @@ befinner dig på med  `*`.
 
 ## Hoppa mellan branches 
 
-För att hoppa mellan befintliga branches används kommandot `gich checkout`,
+För att hoppa mellan befintliga branches används kommandot `git checkout`,
 denna gång utan flaggan `-b` som endast används när vi skapar en ny branch. För
 att hoppa tillbaka till branchen `master` gör du så här. 
 

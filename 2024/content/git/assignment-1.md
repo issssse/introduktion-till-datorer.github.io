@@ -22,7 +22,7 @@ vidare men se till att du själv lär dig och förstår vad du gör.
 
 ## Detta behöver du
 
-För att lösa uppfiten kommer varje student att behöva:
+För att lösa uppgiften kommer varje student att behöva:
 
 - En webbläsare
 - En terminal
@@ -85,7 +85,7 @@ som du nu befinner dig i.
 $> pwd
 ```
 
-Resultatet ser troligen ut något liknade detta.
+Resultatet ser troligen ut något liknande detta.
 
 ``` shell
 /home/abcd1234
@@ -160,7 +160,7 @@ byter ut `brown` mot namnet på din favoritfärg.
 My favorite color is brown.
 ```
 
-Spara filen men namn `color.txt`.
+Spara filen med namn `color.txt`.
 
 ## Kontrollera att filen skapats
 
@@ -281,7 +281,7 @@ endast till dessa commits du kommer kunna gå tillbaka senare om du skulle ångr
 några ändringar.
 
 I meddelandet från `git status` ovan ser vi att filen `color.txt` finns listad
-under `Changes to be commited`. När du gör en commit kommer alla filer som
+under `Changes to be committed`. När du gör en commit kommer alla filer som
 listas under denna rubrik att tas med när du gör commit. Vid en commit måste du
 även ange ett kort meddelande som beskriver vad du ändrat eller lagt till. För
 att ange detta meddelande används flaggan `-m` följt av meddelandet inom
@@ -391,7 +391,7 @@ Kontrollera status igen.
 $> git status
 ```
 
-Nu bör du se något liknade detta.
+Nu bör du se något liknande detta.
 
 ``` shell
 On branch master
@@ -401,7 +401,7 @@ Changes to be committed:
         modified:   color.txt
 ```
 
-Återigen finns filen `color.txt` med under rubriken `Changes to be commited`. Nu
+Återigen finns filen `color.txt` med under rubriken `Changes to be committed`. Nu
 kan du göra en commit av denna nya version.
 
 ``` shell
@@ -458,7 +458,7 @@ Kontrollera status igen.
 $> git status
 ```
 
-Nu bör du se något liknade detta.
+Nu bör du se något liknande detta.
 
 ``` shell
 On branch master
@@ -542,7 +542,7 @@ Kontrollera status igen.
 $> git status
 ```
 
-Nu bör du se något liknade detta.
+Nu bör du se något liknande detta.
 
 ``` shell
 On branch master
@@ -586,7 +586,7 @@ detta id tillsammans med `git checkout`.
 $> git checkout c7762ffaa1d9cb6d32b0e33340542c63efc2fed0 color.txt
 ```
 
-Om det går bra bör du nu se något liknade detta i terminalen.
+Om det går bra bör du nu se något liknande detta i terminalen.
 
 ``` shell
 Updated 1 path from f3d8575
@@ -612,7 +612,7 @@ Kontrollera status igen.
 $> git status
 ```
 
-Nu bör du se något liknade detta.
+Nu bör du se något liknande detta.
 
 ``` shell
 On branch master
@@ -777,7 +777,7 @@ Nu skall du ge repot ett namn.
 ![](/images/git/github-create-new-repo.png)
 
 I fältet **Repository name** (2) skriver du `abcd1234-git-test` där du ersätter
-`abcd1234` med användarnamnet på ditt studenkonto vid Uppsala universitet.
+`abcd1234` med användarnamnet på ditt studentkonto vid Uppsala universitet.
 Kontrollera sedan att repot är publikt.
 
 Kontrollera att repot är publikt (3).
@@ -870,7 +870,7 @@ To https://github.com/kamar535/abcd1234-git-test.git
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 ```
 
-Ladda om websidan på GitHub. Det skall nu set ut ungefär så här. 
+Ladda om webbsidan på GitHub. Det skall nu se ut ungefär så här. 
 
 ![](/images/git/github-after-inital-push.png)
 
@@ -903,11 +903,11 @@ Klicka sedan på **Code** (10).
 
 ![](/images/git/github-code-button.png?width=600px)
 
-Kopiera addressen till repot (11). 
+Kopiera adressen till repot (11). 
 
 ![](/images/git/github-clone-url.png?width=600px)
 
-Lämna in den kopierade addressen till repot på angiven plats nedan. 
+Lämna in den kopierade adressen till repot på angiven plats nedan. 
 
 | Program    | Inlämning                       |
 | :--------: | :--------:                      |
