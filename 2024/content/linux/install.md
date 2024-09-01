@@ -5,7 +5,7 @@ weight: 40
 ---
 
 Här kan du som är intresserad av att installera Linux på din egen dator eller
-använda Windows Subsysem for Linux (WSL) läsa mer om just detta. 
+använda Windows Subsystem for Linux (WSL) läsa mer om just detta. 
 
 
 ## POSIX och Linux
@@ -16,7 +16,7 @@ i senare kurser inom IT/KandDV. Det är därför en fördel om du som student fi
 så du kan använda ett Posix-system på någon av dina privata datorer. 
 
 Windows-användare bör åtminstone känna till hur man installerar Linux eller
-något annat Posix-kompatiblet på en dator. Linux är dessutom kul och lätt att
+något annat Posix-kompatibelt på en dator. Linux är dessutom kul och lätt att
 komma igång med på en vanlig hemdator.
 
 ## Installation på en virtuell maskin
@@ -46,10 +46,10 @@ standard, och har varit i ett par år, på PC kan man behöva slå på det i BIO
 Leta då efter *VT-X* om du har Intel processor eller *SVM* om du har AMD
 processor.
 
-En sak notera är att med hypervisors som du installerar som program (typ 2) går
+En sak att notera är att med hypervisors som du installerar som program (typ 2) går
 det inte att komma åt specialiserad hårdvara som GPU:er eller liknande från
 virtuella maskiner. Kräver din applikation detta borde du titta på en annan
-metod för att köra linux eller typ 1 hypervisors. Typ 1 hypervisors är
+metod för att köra Linux eller typ 1 hypervisors. Typ 1 hypervisors är
 definitivt utanför denna kurs men kan vara spännande att prova för den som är
 intresserad.
 
@@ -57,7 +57,7 @@ intresserad.
 ## WSL
 
 
-Windows subsystem for Linux (WSL) är ett projekt utvecklat av Microsoft för att
+Windows Subsystem for Linux (WSL) är ett projekt utvecklat av Microsoft för att
 ge enklare tillgång till Linux utvecklingsverktyg på Windows. Det finns
 tillgängligt i Windows 10 (från version 1607). Det är relativt enkelt att komma
 igång med, Microsoft har en
@@ -104,7 +104,6 @@ igång.
 
 
 ## Bare-metal
-
 
 Du kan även installera Linux på en systemdisk i datorn, s.k. bare-metal
 installation. Det går både att ha det som enda operativsystem, eller sida vid
@@ -156,34 +155,34 @@ Nedan följer en lista av vanliga Linux-distributioner för skrivbordsbruk. Den 
     + Eftersom det har så många användare, finns många guider och program tillgängliga.
     - Gränssnittet är ganska resurskrävande och fungerar mindre bra på svagare laptops.
     - Har varit med om vissa skandaler gällande personlig data och programkompatibilitet
-+ **Ubuntu deriverade distributioner** bygger direkt på ubuntu och (de flesta) följer samma uppdaterings schema. Delar också många av för- och nackdelarna som Ubuntu har.
++ **Ubuntu deriverade distributioner** bygger direkt på Ubuntu och (de flesta) följer samma uppdaterings schema. Delar också många av för- och nackdelarna som Ubuntu har.
     + [Elementary OS](https://elementary.io/) bygger på mycket av den designfilosofi som ligger bakom Mac OS.
         + Gränssnittet är enhetligt, lätt att använda, är *mycket* stiligt och samtidigt resurssnålt.
         + Helt gratis, om du väljer att inte donera.
         + Bygger på Ubuntu och har samtliga av dess fördelar.
-        - Det har dock samma kärna och är lite omständligt på nya datorer.
+        - Det har dock samma kernel och är lite omständligt på nya datorer.
     + [Pop!_OS](https://pop.system76.com/) Anpassat för att vara ett bra insteg till Linux och ge en bekant men förbättrad användarupplevelse.
-        + Gratis
-        + Utvecklas av en datortillverkare som
+        + Gratis.
+        + Utvecklas av en datortillverkare som specialiserar sig på hårdvara med
+          stöd för Linux.
         + Har strömsparfunktioner för laptops förinbyggda, till exempel ges möjligheten att styra vilken grafikprocessor som används. 
         + Finns en variant med Nvidias drivrutiner förinstallerade.
 + [Linux Mint](https://www.linuxmint.com/) väldigt populär distribution som bygger på Ubuntu.
     + Är helt öppet och anpassat för användarvänlighet i första hand.
     + Du kan välja gränssnitt, där skrivbordsmiljön Xfce är det mest lättviktiga, men även Cinnamon fungerar bra på äldre datorer.
     + Bygger i grunden på Ubuntu och har därmed samtliga av dess fördelar.
-    - Det har dock samma kärna och är lite omständligt på nya datorer.
+    - Det har dock samma kernel och är lite omständligt på nya datorer.
 + [Debian](https://www.debian.org/distrib/) var grunden till Ubuntu och åtskilliga andra distributioner
     + Känt för sin stabilitet
     + Fungerar på nästan allt
     - Eftersom fokus ligger på stabilitet finns inte alltid tillgång till de nyaste programmen
-+ **RHEL-baserade distributioner** och RHEL (Red Hat Enterprise Linux) i ordning av hur tidigt de updateras. Red Hat släpper uppdateringar i steg och ger möjlighet att välja distribution efter hur tidigt man vill få uppdateringar, och hur stor vikt man lägger vid stabilitet. Även om detta innnebär att de skiljer sig en del så står de på samma grund och brukar därför grupperas.
++ **RHEL-baserade distributioner** och RHEL (Red Hat Enterprise Linux) i ordning av hur tidigt de uppdateras. Red Hat släpper uppdateringar i steg och ger möjlighet att välja distribution efter hur tidigt man vill få uppdateringar, och hur stor vikt man lägger vid stabilitet. Även om detta innebär att de skiljer sig en del så står de på samma grund och brukar därför grupperas.
     + [Fedora](https://getfedora.org/) Utvecklas av Red Hat för de som vill ha/behöver tillgång till nya funktioner tidigt.
-        + Utvecklas av Red Hat.
         + Får nya funktioner tidigt.
         + Tidigt uppdaterad kernel gör Fedora till ett enkelt val för väldigt ny hårdvara, drivrutiner kommer tidigt.
         + Nya versioner släpps ungefär var sjätte månad, varje version får uppdateringar i 12 månader. 
     + [RHEL](https://www.redhat.com/en/store/red-hat-enterprise-linux-workstation) Red Hats huvudprodukt
-        + Kostar pengar
+        + Kostar pengar.
         + Känt för sin stabilitet och supporttjänst.
         + Används antagligen främst i servrar på stora organisationer men används också på arbetsstationer.
     + [Alma Linux](https://almalinux.org/) / [Rocky Linux](https://rockylinux.org/) båda tänkta ersättare till CentOS som Red Hat lägger ner i slutet på 2021.

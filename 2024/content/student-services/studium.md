@@ -97,17 +97,17 @@ med alla medlemmarna i en grupp direkt från Studium.
 
 ### Samarbeten
 
-Funktionen **Sammarbeten** låter dig skapa och dela dokument inom en grupp. 
-Du skapar ett nytt sammarbete för första gången genom att först koppla ditt
+Funktionen **samarbeten** låter dig skapa och dela dokument inom en grupp. 
+Du skapar ett nytt samarbete för första gången genom att först koppla ditt
 Studium med ditt privata Google-konto. Sedan väljer du vilka i gruppen du vill dela dokumentet med
 genom att klicka på deras namn i rutan längst ner till vänster. Alla som ligger på höger sida
 kommer att få ett mail till deras studentmail (och med fördel till deras privata mail om de har satt upp vidarebefordring)
-att ett nytt sammarbete i gruppen har skapats.
+att ett nytt samarbete i gruppen har skapats.
 
 ![](/images/studenttjanster/studium/groups_collaborate.png)
 
-Såhär ser det sedan ut när det finns sammarbeten att välja mellan
-och du kan ha flera sammarbeten samtidigt.
+Såhär ser det sedan ut när det finns samarbeten att välja mellan
+och du kan ha flera samarbeten samtidigt.
 
 ![](/images/studenttjanster/studium/groups_collaborate_list.png)
 

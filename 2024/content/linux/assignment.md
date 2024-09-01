@@ -7,7 +7,7 @@ assignment: mandatory
 ## Mål
 
 Målet i denna uppgift är att visa att du från en dator med Windows
-på campus Ångströmlaboratoriet lyckats logga in få upp skrivbordsmiljön på
+på campus Ångströmlaboratoriet lyckats logga in och få upp skrivbordsmiljön på
 Universitetets Linux-system. Som bonus får du även lära dig hur du kan se
 mängden använt utrymme i din hemkatalog på Linux-systemet!
 
@@ -109,7 +109,7 @@ att skriva `https://login.studium.uu.se` i addressfältet.
 
 ## Lämna in
 
-I Studium navigerar du nu till kursen **1DT051 HT2022** och lämna in bilden du sparat tidigare
+I Studium navigerar du nu till kursen **1DT051 HT2024** och lämna in bilden du sparat tidigare
 Linux-systemet under modulen **[M1] Introduktion till datorer** och uppgiften
 **[M1] Linux**.
 

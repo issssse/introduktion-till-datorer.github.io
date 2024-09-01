@@ -21,7 +21,7 @@ aktiverat ditt studentkonto kan du göra det
 
 Vid Uppsala universitet används lärplattformen [Studium][studium]. I Studium
 hittar du information och kursmaterial för de kurser du läser just nu och det är
-också där du lämnar in uppgifter. Mer informatio om hur du lämnar in uppgifter
+också där du lämnar in uppgifter. Mer information om hur du lämnar in uppgifter
 Studium hittar du på sidan [Inlämning och deadlines](/submission-and-deadlines).
 
 ## Canvas (ES)

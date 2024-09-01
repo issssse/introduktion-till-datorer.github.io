@@ -10,9 +10,21 @@ publishDir = 'public/2024'
 # https://stackoverflow.com/questions/61574702/images-from-hugo-not-displayed-on-github-pages
 canonifyURLs = true
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.extensions]
+            [markup.goldmark.extensions.passthrough]
+                enable = true
+                [markup.goldmark.extensions.passthrough.delimiters]
+                    block = [['\[', '\]'], ['$$', '$$']]
+                    inline = [['\(', '\)']]
+
 [params]
     title = "Introduktion till datorer"
     year = 2024
+
+    # math = true
+    disableMathJax = false
 
     # The URL prefix to edit a page.
     # Default: not set

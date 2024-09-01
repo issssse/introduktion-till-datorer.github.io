@@ -19,7 +19,7 @@ I [datorsalar](computer-rooms) på [Campus Ångströmlaboratoriet][ångström] o
 ## Logga in 
 
 Om datorn är på lyser power-knappen nere i skärmens högra hörn. Väck upp datorn
-genom att röra på mussen eller trycka på någon av tangenterna på tangentbordet.
+genom att röra på musen eller trycka på någon av tangenterna på tangentbordet.
 
 ![](/images/computer-rooms/power-button.png)
 
@@ -44,12 +44,12 @@ aktivitetsfältet.
 
 ![](/images/studenttjanster/windows/windows-symbol.png)
 
-Tryck sedan på **Sing out** (2) för att logga ut. 
+Tryck sedan på **Sign out** (2) för att logga ut. 
 
 ![](/images/studenttjanster/windows/sign-out.png?width=300px)
 
 
-## Lokal filer
+## Lokala filer
 
 Filer du lagrar lokalt på av universitetets datorer lagras just lokalt på just
 den dator du är inloggad på. Om du lagrar en fil på dator A kommer du alltså

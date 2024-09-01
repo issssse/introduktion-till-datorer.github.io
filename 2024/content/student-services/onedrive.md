@@ -41,7 +41,7 @@ När du loggat in första gången dyker följande fönster upp.
 ![](/images/studenttjanster/windows/onedrive-setup-2.png)
 
 Du kan trycka **Next** några gånger för att lära dig mer om OneDrive eller så
-kan stänga detta fönster. 
+kan du stänga detta fönster. 
 
 ## Testa att använda OneDrive
 

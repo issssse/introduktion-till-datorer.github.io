@@ -6,9 +6,12 @@ weight: 20
 
 ## Celler
 
-Kalkylprogram använder sig av rutnät, där vardera ruta kallas för *cell*, för
-att lägga in tal eller annan data och göra beräkningar med dessa. Rutnätet delas
-upp i **kolumner** (anges med bokstäver) och **rader** (anges med siffror).
+Kalkylprogram använder sig av rutnät där rutorna kallas för celler. I cellerna
+skriver du in tal eller annan typ av data. En cell kan också innehålla en
+beräkning som i sin tur refererar till en eller flera andra celler med data och
+cellen kommer då visa resultatet av denna beräkning. 
+
+Rutnätet delas upp i **kolumner** (anges med bokstäver) och **rader** (anges med siffror).
 
 [wp-siffra]: https://sv.wikipedia.org/wiki/Siffra
 
@@ -158,12 +161,10 @@ vilken grafisk presentation (graf) vi vill ha.
 
 {{< figure src="/images/excel/chart.gif" title="Enklare graf." >}}
 
-
 ### Redigering
 
 Klicka på grafen och välj *Chart*, högst upp. Du kan nu byta typ av graf och ställa in
 exempelvis titel och hur etiketter representeras.
-
 
 ### Trendlinjer och regressionsanalys
 
@@ -176,12 +177,12 @@ När du klickat på en lämplig graf dyker verktygen *chart tools* upp i övre r
 {{< figure src="/images/excel/trendline-1.PNG" title="Menyalternativet trendlinje syns längst upp till höger." >}}
 
 Valet *more options* låter dig ställa in avancerade alternativ för trendlinjer.
-Det låter dig exempelvis ställa in hur den ska beräknas, visa  \\(R^2\\)-värdet, byta format, etc.
-Du kan även nå detta fönster genom att högerklicka på redan befintliga trendlinjer och välja *format trendline* **(verifiera detta!)**.
+Det låter dig exempelvis ställa in hur trendlinjen ska beräknas, visa  \\(R^2\\)-värdet, byta format, etc.
+Du kan även nå detta fönster genom att högerklicka på redan befintliga trendlinjer och välja *format trendline*.
 
 {{< figure src="/images/excel/trendline-2.PNG" title="Inställningar för trendlinjer." >}}
 
-Tänk på att det viktigaste med grafer är att göra de som tydliga som möjligt!
+Tänk på att det viktigaste med grafer är att göra de så tydliga som möjligt!
 Genom att använda färger och andra inställningar kan du förtydliga linjerna och deras förhållande till datan de representerar.
 
 {{< figure src="/images/excel/trendline-3.PNG" title="Exempel på trendlinjer." >}}

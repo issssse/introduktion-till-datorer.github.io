@@ -54,7 +54,7 @@ fönster med tillgänglig mjukvara.
 ![](/images/linux/software-center.png)
 
 Den mjukvara som du hittar här kan redan vara installerad på den dator du
-sitter. Om ett program inte redan är installerad kommer det att installeras första gången du
+sitter vid. Om ett program inte redan är installerad kommer det att installeras första gången du
 försöker använda programmet. 
 
 ## Starta ThinLinc client
@@ -69,7 +69,7 @@ installerat redan kommer det först installeras och sedan startas.
 
 ## Windows taskbar
 
-När ThinLinc client starartat dyker ikonen för ThinLinc client upp nere i
+När ThinLinc client startat dyker ikonen för ThinLinc client upp nere i
 **taskbar** i Windows.
 
 ![](/images/linux/windows-taskbar-thinlinc-client.png)
@@ -82,7 +82,7 @@ ruta för inloggning mot Linux-systemet.
 - I fältet **Server** skall det stå `thinlinc.student.it.uu.se`.
 - I fältet **Username** skriver du användarnamnet för ditt **studentkonto** på
 formen `abcd1234`.
-- I fältet **Password*** skriver du ditt **Lösenord A**.
+- I fältet **Password** skriver du ditt **Lösenord A**.
 
 
 ![](/images/linux/thinlinc-login.png?width=500px)

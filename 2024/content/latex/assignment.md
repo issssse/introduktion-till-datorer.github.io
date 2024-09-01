@@ -29,7 +29,7 @@ annan metod behöver du:
 + tillgång till paketen *babel*, *fontenc*, *inputenc*, *bibtex*.
     + De flesta kompletta LaTeX-distributioner har dessa inbyggda.
 
-Inlämning för alla uppgifter sker via Studentportalen. För detta krävs ett studentkonto.
+Inlämning för alla uppgifter sker i Studium. För detta krävs ett studentkonto.
 
 ## Uppgift
 
@@ -132,6 +132,7 @@ Ladda paketet `hyperref` om du vill att referensen ska vara klickbar!
 {{% /notice %}}
 
 ### Del 8: Citat och källreferens
+
 1. Hitta ett citat från en valfri artikel som du placerar under rubriken *Citat*. **Kom ihåg att sätta ut citattecken.**
 
 2. Referera till citatet genom att skriva `\cite{referens}` där du byter "referens" mot ett valfritt passande namn till din referens.

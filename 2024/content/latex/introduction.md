@@ -26,7 +26,7 @@ LaTeX och andra snarlika system är något av en standard inom många tekniska o
 vetenskapliga områden vid framställande av tidningsartiklar, vetenskapliga
 avhandlingar och rapporter.
 
-Latex kan också hantera referenser på ett bra sätt och det är lätt att få ett snyggt och enhetligt utseende på det slutliga dokumentet.
+LaTeX kan också hantera referenser på ett bra sätt och det är lätt att få ett snyggt och enhetligt utseende på det slutliga dokumentet.
 
 
 ## Skaffa LaTeX
@@ -56,7 +56,7 @@ För att installera ett TeX-system lokalt beror det på vilket operativsystem du
 
 + Windows-användare kan välja mellan dessa:
     - [TeX Live](https://www.tug.org/texlive/windows.html) är den "officiella" versionen som även har större fokus på säkerhet.
-    - [MikTeX](http://www.miktex.org/2.9/setup) är mer anpassad för Windows specifikt, vilket innebär att det *känns* mer som ett Windows-program (på gott och ont).
+    - [MikTeX](https://miktex.org/download) är mer anpassad för Windows specifikt, vilket innebär att det *känns* mer som ett Windows-program (på gott och ont).
 + Mac OS-användare rekommenderas använda [MacTeX](https://tug.org/mactex/).
 + För Linux beror det lite på vilken distribution du använder:
     - Ubuntu-baserade distributioner kan följa denna [guide](https://help.ubuntu.com/community/LaTeX)
@@ -154,9 +154,7 @@ Språkvalet ställer in också automatiskt genererade ord, som "Innehåll" i inn
 
 ### Dokumentmiljön
 
-Efter preamble kan du börja skriva själva innehållet i miljön `document` .
-
-Ett komplett exempel följer nedan:
+Efter preamble kan du börja skriva själva innehållet i miljön `document` . Ett komplett exempel följer nedan:
 
 ```latex
 \documentclass[12pt, a4paper]{article}
@@ -168,6 +166,7 @@ Ett komplett exempel följer nedan:
 Dokumentets innehåll står här!
 \end{document}
 ```
+
 När du har detta bör du kunna kompilera och se saker dyka upp i förhandsvisningen av det färdiga dokumentet (höger sida på Overleaf)!
 
 ## Skriva ett LaTeX-dokument
@@ -184,6 +183,8 @@ Du använder kommandona `\section{rubrik}`, `\subsection{underrubrik}` och `\sub
 För att strukturera upp brödtexten skapas olika stycken antingen genom att helt enkelt lämna en blankrad mellan styckena eller sätta ut `\par` för att börja ett nytt stycke. Val mellan indrag för nya stycken, blankrad och anpassning av dessas storlek görs i preamble. I koden används dock alltid blankrad eller `\par` likt i exemplet nedan. (Irrelevanta delar av preamble står inte med i exemplet) 
 
 ```latex
+\documentclass[12pt, a4paper]{article}
+
 % Styckesindelning (Detta är en kommentar förresten)
 
 \setlength{\parskip}{1em} % Lämna en blankrad
@@ -209,6 +210,9 @@ Detta är ett väldigt kort stycke. \par Detta är ett annat stycke.
 
 \end{document}
 ```
+
+
+{{< figure src="/images/latex/sections.png" title="Exempel på styckesindelning i LaTeX" >}}
 
 ### Skapa en titel
 
@@ -327,13 +331,11 @@ i preamble.
 
 I princip all tänkbar formatering som är relevant för matematik går att formatera i LaTeX. Faktum är att det var ett av skälen till att det skapades.
 
-
-
 #### Grundläggande matematisk syntax
 
 Du använder samma tecken som i de flesta datorprogram, dvs `+ - / ^` för att skriva formler, med undantag för uppställda bråk och multiplikation:
 
-+ Uppställda bråk görs med `\frac{täljare}{nämnare}`. Exempelvis generar du \\(\frac{a}{b}\\) genom att skriva `\frac{a}{b}`
++ Uppställda bråk görs med `\frac{täljare}{nämnare}`. Exempelvis genererar du \(\frac{a}{b}\) genom att skriva `\frac{a}{b}`
 + För multiplikationstecken är det snyggast att använda `\cdot`, t.ex. `2 \cdot 3` för att skriva \\(2 \cdot 3\\).
 + Parenteser skrivs som vanligt, men måsvingar och hakparenteser kräver särskild formatering (`\` framför).
 + Grekiska tecken skrivs ut med `\` framför precis som de flesta kommandon i LaTeX. Exempelvis ger `\alpha` tecknet \\(\alpha\\). För versaler inleds kommandot med versal: `\Gamma` ger tecknet \\(\Gamma\\).
@@ -477,9 +479,13 @@ Detta syns i det färdiga dokumentet!
 
 - En bra hemsida som man kan använda av för att översätta matematiska uttryck direkt till LaTEX-kod är [MathPix](https://www.mathpix.com/). Fördelen med denna hemsida är att konverteringen tar mindre än en minut.  
 
-- En annan bra hemsida är [Tables Generator](https://www.tablesgenerator.com/), den gör det väldigt enkelt att skapa tabeller för Latex och gör det möjligt att klistra in tabelldata direkt från tex Excel eller Matlab.
+- En annan bra hemsida är [Tables Generator](https://www.tablesgenerator.com/), den gör det väldigt enkelt att skapa tabeller för LaTeX och gör det möjligt att klistra in tabelldata direkt från tex Excel eller Matlab.
 
-- Om man har som avsikt att skriva ett längre arbete eller rapporter på LaTEX så finns det färdiga mallar som man kan använda sig av. Det enda som behöver göras är att ladda ner en valfri mall och fylla den med valfri innehåll. Det kan dock vara en bra idé att skapa sin egen mall, det är väldigt bra träning och man lär sig mycket på vägen.
+- Om man har som avsikt att skriva ett längre arbete eller rapporter med hjälp
+  av LaTeX så finns det färdiga mallar som man kan använda sig av. Det enda
+  som behöver göras är att ladda ner en valfri mall och fylla den med valfri
+  innehåll. Det kan dock vara en bra idé att skapa sin egen mall, det är väldigt
+  bra träning och man lär sig mycket på vägen.
 
 - För grupparbeten i Overleaf när flera ska jobba i samma dokument går det att skapa en delbar länk i "share"-menyn som man kan skicka till sin grupp. Att bjuda in andra kräver ett premium konto men det är gratis att dela en redigerbar länk.
 
