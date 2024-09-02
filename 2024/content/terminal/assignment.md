@@ -97,7 +97,7 @@ Katalogstrukturen ska nu se ut så här:
 
 ### Del 3: Använda omdirigering
 
-1. Ladda ner filen [jobbig_textfil.txt](jobbig_textfil.txt)
+1. Ladda ner filen [jobbig_textfil.txt](/terminal/assignment/jobbig_textfil.txt)
 och lägg den i mappen
    `deluppgift_2`
     + Du kan använda kommandot `curl` för att göra detta
