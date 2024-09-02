@@ -61,7 +61,7 @@ smeknamn på dina kurser (2).
 Du ser också högst upp till höger (3) vad som behöver göras i samtliga kurser,
 samt se den senaste återkopplingen.
 
-![](/images/studenttjanster/studium/dashboard_studium_20210811.png"/>
+![](/images/studenttjanster/studium/dashboard_studium_20210811.png)
 
 För att snabbt navigera mellan alla kurser kan du trycka på **Kurser**.
 

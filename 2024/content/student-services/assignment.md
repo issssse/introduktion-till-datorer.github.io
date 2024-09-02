@@ -122,7 +122,7 @@ textdokument.
 
 ### Del 2: Prenumerera på schemat
 
-På TimeEdit kan du hitta ditt schema som innehåller samtilga kurser du är
+I TimeEdit kan du hitta ditt schema som innehåller samtliga kurser du är
 registrerad på. I detta steg ska du skapa en URL med vilken du kan prenumerera på ditt schema.
 Information om detta hittar du under [Schema](../studium/#schema) under [Studium](../studium).
 
@@ -130,12 +130,12 @@ Kopiera den URL som genereras
 (se bild nedan vilken URL som menas) och klistra in efter `schema:` i
 textdokumentet.
 
-![](/images/studenttjanster/assignment/del2.png">
+![](/images/studenttjanster/assignment/del2.png)
 
 ### Del 3: Trådlöst internet (Wi-Fi)
 
 Uppsala universitet tillhandahåller gratis trådlös internetuppkoppling. Det
-finns två olika trådläsa nätverk. Dessa trådläsa nät finns förutom i
+finns två olika trådlösa nätverk. Dessa trådlösa nät finns förutom i
 anslutning till de flesta av universitets lokaler även även på de flesta (om
 inte alla) studentnationer här i Uppsala.
 

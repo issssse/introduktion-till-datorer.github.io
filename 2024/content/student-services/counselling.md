@@ -4,11 +4,16 @@ weight: 60
 ---
 
 Studenter vid Uppsala universitet har tillgång till vägledning gällande studier
-och arbetsmöjligheter. Exempelvis kan du boka en tid med studievägledare, för
+och arbetsmöjligheter. Exempelvis kan du träffa en studievägledare för
 att få rekommendationer på lämpliga kurser för den karriär du hoppas på eller
 hjälp att prioritera om du kommit efter i dina studier.
 Du som har en varaktig funktionsnedsättning kan vara berättigad till någon av
 de stödinsatser och anpassningar universitetet i sådana fall har att erbjuda.
+
+{{% notice style="tip" title="Drop in på Campus Ångström" %}}
+Studievägledningen på Campus Ångström erbjuder drop-in 10:30 - 12:00, måndag - onsdag. Andra tider
+kan du boka tider för ett möte. 
+{{% /notice%}}
 
 I tabellen nedan hittar du länkar till information om studievägledning och andra
 typer av stödinsatser vid [Campus Ångströmlaboratoriet][ångström] och [Campus

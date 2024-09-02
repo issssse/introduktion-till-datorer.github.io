@@ -71,7 +71,7 @@ till schemasystemet [TimeEdit][TimeEdit].
 
 [TimeEdit]: https://cloud.timeedit.net/uu/web/schema/
 
-![](/images/studenttjanster/schedule/time-edit-search-schedule.png" style="width:444px">
+![](/images/studenttjanster/schedule/time-edit-search-schedule.png?width=444px)
 
 Klicka på [Schema][TimeEditSearch] (7) för att söka ut ett schema. Du får nu upp
 en sökruta där du kan söka upp det schema du är intresserad av.

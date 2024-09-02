@@ -7,7 +7,7 @@ weight: 10
 gränssnitt styrs via kommandon du skriver in.
 
 + Terminalen är, jämfört med grafiska gränssnitt, enkel. Terminalen kräver mycket
-lite av hårdvaran för att fungera samt är relativt okomplicerad att
+lite av hårdvaran för att fungera och är lättare att 
 skapa gränssnitt för.
 
 + Terminalen gör det möjligt att använda och kontrollera 

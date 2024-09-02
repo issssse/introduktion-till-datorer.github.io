@@ -69,7 +69,7 @@ denna output när du står i mappen ovanför `terminal_uppgift_abcd1234`.
 
 ### Del 2: Skapa, kopiera och döp om en textfil
 
-1. Skapa filen `textfil.txt` med raden `En textfil` som enda innehåll.
+1. Skapa filen `textfil.txt` med texten `En textfil` som enda innehåll.
     + Du kan exempelvis använda `nano`, men vilken editor som helst ska fungera
         för detta.
     + Du kan även dubbelkolla att den skapade textfilen blev rätt med kommandot
@@ -104,7 +104,7 @@ och lägg den i mappen
         direkt i terminalen: `curl -o  <filnamn att spara till> <url-länk>` laddar ner filen i den angivna länken och sparar som det angivna filnamnet.
     + De flesta terminalemulatorer låter dig klistra in text med
         `<Ctrl>+<Shift>+V`, `<Shift>+<Insert>` eller klick med musens
-        mittenknapp.
+        mittenknapp. I vissa terminaler används `<Alt>+v` för att klistra in.
 2. Använd pipes ( `|` ) och `grep` för att få fram raden (eller raderna) som innehåller `Hitta mig`, givet kommandot `cat jobbig_textfil.txt`
     + Använd `grep` med citattecken för att enkelt få med mellanslag.
     + Kom ihåg att kolla efter stora och små bokstäver.
@@ -144,7 +144,7 @@ och tryck enter.
 ## Inlämning
 
 Kontrollera att arkivet heter `abcd1234_terminal.tar.gz`, där `abcd1234` ersätts med
-användarnamnet för ditt Studentkonto. Lämna sedan upp arkivet  på
+användarnamnet för ditt Studentkonto. Lämna sedan in arkivet  på
 anvisad plats i Studium.
 
 ## Lämna in från ThinLinc
@@ -161,20 +161,19 @@ någon av webbläsarna **Firefox** eller **Google Chrome**.
 <img src="/images/linux/applications-internet-menu.png" style="width:666px"/>
 
 Du har nu startat en webbläsare som körs på Linux-systemet. 
-När du laddar upp filer från webläsaren du startat på Linux-systemet kommer du
-komma åt all filer som finns sparade på ditt Linux-konto.
+När du laddar upp filer från webbläsaren du startat på Linux-systemet kommer du åt alla filer som finns sparade på ditt Linux-konto.
 
 ### Logga in i Studium
 
-Från webbläsaren du startade på Linux-systemet loggar du nu in i Studium i genom
+Från webbläsaren du startade på Linux-systemet loggar du nu in i Studium genom
 att skriva `https://login.studium.uu.se` i addressfältet. 
 
 <img src="/images/linux/linux-studium-login.png" style="width:666px"/>
 
 ### Lämna in
 
-I Studium navigerar du nu till kursen **1DT051 HT2022** och lämna in bilden du sparat tidigare
-Linux-systemet under modulen **[M1] Introduktion till datorer** och uppgiften
+I Studium navigerar du nu till kursen **1DT051 HT2024** och lämnar in bilden du
+sparat tidigare. I Studium hittar du inlämningen i modulen **[M1] Introduktion till datorer** och uppgiften
 **[M1] Terminalen**.
 
 - Filen du skall ladda upp skall ha namnet `abcd1243_terminal.tar.gz`, där
