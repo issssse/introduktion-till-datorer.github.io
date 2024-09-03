@@ -17,6 +17,7 @@ På campus Ångströmlaboratoriet finns följande datorsalar med Windows.
 | [6K1101][6K1101]        | 30            |
 | [6K1107][6K1107]        | 32            |
 | [6K1113][6K1113]        | 25            |
+| [6K1123][6K1123]      | 25            |
 | [10K1121][10K1121]      | 20            |
 | [10K1125][10K1125]      | 14            |
 | [10K1201][10K1201]      | 26            |
@@ -43,6 +44,9 @@ På campus Ångströmlaboratoriet finns följande datorsalar med Windows.
 
 [6K1113]:
     https://use.mazemap.com/#v=1&config=uu&campusid=49&zlevel=-1&center=17.647972,59.838256&zoom=18&sharepoitype=poi&sharepoi=391810
+
+[6K1123]:
+     https://use.mazemap.com/#v=1&config=uu&campusid=49&zlevel=-1&center=17.648234,59.838285&zoom=18&sharepoitype=poi&sharepoi=391812
 
 [10K1201]:
     https://use.mazemap.com/#v=1&config=uu&zlevel=-1&center=17.646815,59.839653&zoom=18&campusid=49&sharepoitype=poi&sharepoi=1000824213
