@@ -26,20 +26,24 @@ introduktionskurs sida i Studium.
 - [Kurssida för F][f-studium]
 - [Kurssida för I][i-studium]
 - [Kurssida för IT/KandDv][it-dv-studium]
-- [Kurssida för Q][q-studium]
 - [Kurssida för W][w-submsission]
+- [Kurssida för LKF (distans) + Paket LKF A (distans)][lkf-distans]
+- [Kurssida för HUI][hui]
 
-[eei-studium]: https://uppsala.instructure.com/courses/48541
+[eei-studium]:
+    https://uppsala.instructure.com/courses/96501?invitation=TynDeyTy3iHQZRUbXprcKezQFaWwQJrg6zmxsPDf
 
-[f-studium]: https://uppsala.instructure.com/courses/48542
+[f-studium]: https://uppsala.instructure.com/courses/96494
 
 [i-studium]: https://uppsala.instructure.com/courses/98114
 
-[it-dv-studium]: https://uppsala.instructure.com/courses/48011
+[it-dv-studium]: https://uppsala.instructure.com/courses/97979
 
-[q-studium]: https://uppsala.instructure.com/courses/48096
+[w-submsission]: https://uppsala.instructure.com/courses/90973
 
-[w-submsission]: https://uppsala.instructure.com/courses/33883
+[lkf-distans]: https://uppsala.instructure.com/courses/93598
+
+[hui]: https://uppsala.instructure.com/courses/98431
 
 När du är inne på din kurs klickar du sedan på **Moduler** i menyn. 
 
@@ -50,7 +54,7 @@ Skrolla sedan ned tills du hittar modulen **Introduktion till datorer**. För
 
 ![](/images/studenttjanster/studium/example-module.png)
 
-För **E/EI**, **I**, **IT**, **KandDv**, **Q** och **W** kan det
+För **E/EI**, **I**, **IT**, **KandDv** och **W** kan det
 skilja vilka uppgifter ([moduler](/modules)) som ingår. Klicka på den uppgift du
 vill lämna in, till exempel **Studenttjänster**. Du kommer nu till en sida som
 bör se ut ungefär så här. 
@@ -70,7 +74,7 @@ för att lämna in din uppgift.
 På [kursens sida i Canvas][canvas] finns
 ett avsnitt som heter Introduktion till datorer, UU. 
 
-[canvas]: https://slu-se.instructure.com/courses/4613
+[canvas]: https://slu-se.instructure.com/courses/12163
 
 ![](/images/submission-and-deadlines/canvas-uppgifter.png?width=555px)
 
