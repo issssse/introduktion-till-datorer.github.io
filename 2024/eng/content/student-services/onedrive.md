@@ -28,7 +28,7 @@ Click on **OneDrive** in the file explorer.
 ![](/images/studenttjanster/windows/explorer-onedrive.png)
 
 You must now provide your email address on the form
-`firstname.lastname@student.uu.se`.
+`firstname.lastname.1234@student.uu.se`.
 
 ![](/images/studenttjanster/windows/onedrive-setup.png)
 

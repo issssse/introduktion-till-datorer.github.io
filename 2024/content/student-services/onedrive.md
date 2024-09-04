@@ -28,7 +28,7 @@ Klicka på **OneDrive** i utforskaren.
 ![](/images/studenttjanster/windows/explorer-onedrive.png)
 
 Du kommer nu behöva ange din e-postadress på formen
-`fornamn.efternamn@student.uu.se`. 
+`fornamn.efternamn.1234@student.uu.se`. 
 
 ![](/images/studenttjanster/windows/onedrive-setup.png)
 
