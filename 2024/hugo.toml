@@ -64,5 +64,5 @@ canonifyURLs = true
         source = "2024/static/images"
         target = "static/images"
     [[module.mounts]]
-        source = "2024/static/terminalen"
-        target = "static/terminalen"
+        source = "2024/static/terminal"
+        target = "static/terminal"
