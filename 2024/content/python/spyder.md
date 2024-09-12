@@ -59,6 +59,20 @@ Så här ser Spyder ut första gången du startar programmet.
 
 ![](/images/python/spyder/first-look.png)
 
+## Känt problem med Spyder på Mac
+
+Om du installerat Anaconda och Spyder på Mac kan det hända att du får ett felmeddelande om
+**Segmentation fault 11** liknande detta när du försöker starta Spyder.
+
+![](/images/python/spyder/segmentation-fault-11.png?width=300px)
+
+I så fall, klicka på kugghjulet upp i högra hörnet. 
+
+![](/images/python/spyder/launch-settings.png?width=300px)
+
+Välj sedan **Install specific version** och byt till Spyder version **5.4.3**.
+Förhoppningsvis kan du nu starta Spyder. 
+
 ## Python Console och prompten
 
 Nere till höger i Spyder hittar du **Python Console** vilket är ett Python REPL. 
