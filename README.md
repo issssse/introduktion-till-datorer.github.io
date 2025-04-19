@@ -21,7 +21,7 @@ The latest versions of dependencies verified to be able to build this site are:
 
 [tweaks-6.0.0]: https://github.com/kamar535/hugo-theme-relearn-tweaks/releases/tag/v6.x
 
-## Sub sites
+## Subsites
 
 Each year subsites are added for the Swedish and English verisons of the site. 
 
