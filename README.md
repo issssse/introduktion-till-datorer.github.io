@@ -32,13 +32,13 @@ To build a specific subsite, use `hugo` from the root directory togheter with th
 For example, to build the Swedish 2024 site: 
 
 ```
-hugo server --config=year/2024/hugo.toml
+hugo server --config=2024/hugo.toml
 ```
 
 For example, to build the English 2024 site: 
 
 ```
-hugo server --config=year/2024-eng/hugo.toml
+hugo server --config=2024-eng/hugo.toml
 ```
 
 ## GitHub pages 
