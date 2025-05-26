@@ -25,6 +25,24 @@ The latest versions of dependencies verified to be able to build this site are:
 
 Each year subsites are added for the Swedish and English verisons of the site. 
 
+## Common configuration
+
+Configuration common to all sites are kept in the `hugo.toml` in the `github.com/kamar535/hugo-theme-relearn-tweaks` module. 
+
+## Site specific configuration
+
+Each subsite has its own `hugo.toml` with subsite specific configuration. 
+
+## Combining multiple configuration files
+
+Two or more configuration files can be combined with left-to-right precedence:
+
+```
+hugo --config a.toml, b.toml, c.toml
+```
+
+In the above example settings in `a.toml` as the highest precedence and will override settings in `b.toml` and `c.toml`.
+
 ## Build specific subsites
 
 To build a specific subsite, use `hugo` from the root directory togheter with the config for the site. 
@@ -32,14 +50,15 @@ To build a specific subsite, use `hugo` from the root directory togheter with th
 For example, to build the Swedish 2024 site: 
 
 ```
-hugo server --config=2024/hugo.toml
+hugo server --config=2024/hugo.toml hugo.toml
 ```
 
 For example, to build the English 2024 site: 
 
 ```
-hugo server --config=2024-eng/hugo.toml
+hugo server --config=2024-eng/hugo.toml hugo.toml
 ```
+
 
 ## GitHub pages 
 

@@ -244,18 +244,18 @@ Längst ner i meny hittar du följande två knappar.
 <table class="icon-list">
 <tr>
   <td>
- {{% icon icon="tint" %}}
-  </td>
-  <td>
-    Växlar mellan mörkt och ljust tema. 
-  </td>
-</tr>
-<tr>
-  <td>
    {{% icon icon="history" %}}
   </td>
   <td>
   Rena historiken ({{% icon check %}}) i menyn  över vilka sidor du redan besökt. 
+  </td>
+</tr>
+<tr>
+  <td>
+ {{% icon icon="paint-brush" %}}
+  </td>
+  <td>
+    Växlar mellan mörkt och ljust tema. 
   </td>
 </tr>
 </table>
