@@ -9,6 +9,4 @@ require (
 	github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250419101513-21155f7060da // indirect
 )
 
-// replace github.com/kamar535/hugo-theme-relearn-tweaks  => /Users/karl/git/relearn-karl-tweaks
-
-replace github.com/kamar535/hugo-theme-relearn-tweaks  => /Users/karl/git/hugo-theme-relearn-tweaks
+// replace github.com/kamar535/hugo-theme-relearn-tweaks  => /Users/karl/git/hugo-theme-relearn-tweaks
