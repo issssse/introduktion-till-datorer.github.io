@@ -3,6 +3,8 @@ baseURL = 'https://introduktion-till-datorer.github.io/2024/'
 # languageCode = 'en-us'
 title = 'Introduktion till datorer 2024'
 
+publishDir = 'public/2024/'
+
 # Do not set theme here when using modules. 
 
 # theme = 'hugo-theme-relearn'
