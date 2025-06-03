@@ -6,6 +6,8 @@ title: Introduction to IT systems 2024
 menuTitle: English version
 ---
 
+![](images/uu-full-logo-dark.png?classes=uu-full-logo&lightbox=false)
+
 Introduction to IT systems is part of the following courses. 
 
 

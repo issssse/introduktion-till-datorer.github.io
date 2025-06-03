@@ -4,6 +4,8 @@ github.com/McShelby/hugo-theme-relearn v0.0.0-20240813165109-82a5e9876c67 h1:7/G
 github.com/McShelby/hugo-theme-relearn v0.0.0-20240813165109-82a5e9876c67/go.mod h1:mKQQdxZNIlLvAj8X3tMq+RzntIJSr9z7XdzuMomt0IM=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20250410194211-fd809dc52362 h1:M8/THnG3hToIzRnyff8aPFqdwVIytH54V40+MzwKGx0=
 github.com/McShelby/hugo-theme-relearn v0.0.0-20250410194211-fd809dc52362/go.mod h1:mKQQdxZNIlLvAj8X3tMq+RzntIJSr9z7XdzuMomt0IM=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20250601093205-4407b4364ab6 h1:ASmbykNXuR8lWEKRAs1KZCOqy7OoTeGfKn/02KRTyEY=
+github.com/McShelby/hugo-theme-relearn v0.0.0-20250601093205-4407b4364ab6/go.mod h1:mKQQdxZNIlLvAj8X3tMq+RzntIJSr9z7XdzuMomt0IM=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20250414174424-149f12cea7da h1:v2FaJ1sA4Rt3p3T2zu8qXfapgxEXTZKzIdvf5I9ogr4=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20250414174424-149f12cea7da/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
 github.com/halogenica/beautifulhugo v0.0.0-20241117162719-7b8953f455a4 h1:N7FQM+5KHUO5Kz65TU841CqSM/P/lOMbbPyjqKYnBQU=
@@ -28,5 +30,7 @@ github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20240816155031-ebc04a643c2d
 github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20240816155031-ebc04a643c2d/go.mod h1:ifDlxi0QeMsKiUF4FNQRX2RFR0QwyyXlwQ5Bz9xMOg8=
 github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250419101513-21155f7060da h1:TUqTeore5i5N9AduGUYfuzOpKn/prGU5yGOUtsXw29I=
 github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250419101513-21155f7060da/go.mod h1:ifDlxi0QeMsKiUF4FNQRX2RFR0QwyyXlwQ5Bz9xMOg8=
+github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250603132222-1a0635c9eea5 h1:Q6dUE/kclSPmns62G8agEXz7jywa3xfhgmacgkkh3X8=
+github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250603132222-1a0635c9eea5/go.mod h1:ifDlxi0QeMsKiUF4FNQRX2RFR0QwyyXlwQ5Bz9xMOg8=
 github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.0 h1:AF1mLNANYQYC9QaFnXh9iZagUj32ImnZIxREP8XeAS0=
 github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.0/go.mod h1:+a6uqEsCq0+rqHWY5W5QA3P9DNnxcbyCw+CVEB+Uveg=

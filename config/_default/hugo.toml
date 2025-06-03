@@ -5,12 +5,6 @@
 
 # Do not set theme here when using modules. 
 
-# theme = 'hugo-theme-relearn'
-
-# theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
-
-# theme = "PaperMod"
-
 # Modules on the bottom will get loaded first, so keep anything you don’t want
 # overridden higher up in the module chain. All conflicting files during module
 # import will use the last file loaded. 
@@ -20,8 +14,3 @@
         path = "github.com/kamar535/hugo-theme-relearn-tweaks"
     [[module.imports]]
         path = "github.com/McShelby/hugo-theme-relearn"
-
- #   [[module.imports]]
- #       path = "github.com/adityatelange/hugo-PaperMod"
-
-

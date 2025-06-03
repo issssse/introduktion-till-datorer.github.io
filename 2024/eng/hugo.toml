@@ -4,7 +4,7 @@
 
 baseURL = 'https://introduktion-till-datorer.github.io/2024/eng'
 
-title = "Introduction to IT systems 2024"
+title = "Introduction to IT systems 2024 !!!"
 
 foo = "Bar"
 
@@ -28,8 +28,8 @@ canonifyURLs = true
 
     editURL = "https://github.com/introduktion-till-datorer/edit/main/subsiteyear/2023-eng/content/"
 
-    # Symlinks are not allowed in the file system. 
 
+    # Symlinks are not allowed in the file system. 
     # https://discourse.gohugo.io/t/symbolic-links-not-supported/590
 
     # Instead of using symlinks to share files and folders the Hugo Module 
@@ -52,12 +52,6 @@ canonifyURLs = true
     [[module.mounts]]
         source = "2024/eng/content"
         target = "content"
-    [[module.mounts]]
-        source = "static"
-        target = "static"
-    [[module.mounts]]
-        source = "static/css"
-        target = "static/css"
     [[module.mounts]]
         source = "2024/static/images"
         target = "static/images"
