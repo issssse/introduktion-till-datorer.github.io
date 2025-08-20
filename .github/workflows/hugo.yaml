@@ -56,24 +56,10 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
-          hugo mod get -u  \
-          && \
           hugo \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            && \
-            hugo \
-            --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/2024" \
-            --config=2024/hugo.toml \
-            && \
-            hugo \
-            --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/2024/eng" \
-            --config=2024/eng/hugo.toml \
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -1,77 +1,72 @@
-The public website for [Introduktion till datorer](https://introduktion-till-datorer.github.io/) at the [Faculty of Science and Technology](https://www.uu.se/en/students/faculty/science-and-technology) at [Uppsala university](https://www.uu.se/en) uses the static site generator [Hugo](https://gohugo.io/) and is hosted on [GitHub pages](https://pages.github.com/).
+The public [website][idt] for [Introduction to IT Systems (Introduktion till datorer)](https://introduktion-till-datorer.github.io/) at the [Faculty of Science and Technology](https://www.uu.se/en/students/faculty/science-and-technology) at [Uppsala university](https://www.uu.se/en) uses the static site generator [Hugo][hugo] and is hosted on [GitHub pages](https://pages.github.com/).
+
+[idt]: https://introduktion-till-datorer.github.io/
+
+[hugo]: https://gohugo.io/
 
 ## Dependencies 
 
 The latest versions of dependencies verified to be able to build this site are:
 
 - [Go][go] version 1.24.1
-- [Hugo v0.135.0][v0.135.0]
-- Hugo Relearn theme [version 6][relearn-6], specifically the [82a5e9876c67] commit. 
-- [Hugo theme Relearn tweaks v6.0.0][tweaks-6.0.0]. 
+- [Hugo][hugo] version [0.146.5]
+- Hugo Relearn theme [version 8][relearn-8], specifically the [d73f769] commit. 
+- [Hugo theme Relearn tweaks][tweaks] version  [v8.0.0][tweaks-8.0.0]. 
+
+[tweaks]: https://github.com/kamar535/hugo-theme-relearn-tweaks
 
 [go]: https://go.dev/
 
-[v0.135.0]: https://github.com/gohugoio/hugo/releases/tag/v0.135.0
+[0.146.5]: https://github.com/gohugoio/hugo/releases/tag/v0.146.5
 
 [82a5e9876c67]: https://github.com/McShelby/hugo-theme-relearn/commit/82a5e9876c67
 
-[relearn-6]: https://mcshelby.github.io/hugo-theme-relearn/introduction/changelog/6/index.html
+[relearn-8]: https://mcshelby.github.io/hugo-theme-relearn/introduction/releasenotes/8/
 
-[ebc04a643c2]: https://github.com/kamar535/hugo-theme-relearn-tweaks/commit/ebc04a643c2d
+[d73f769]: https://github.com/McShelby/hugo-theme-relearn/commit/d73f7699a6011c72b0f783ecabd06d4fbe425426#diff-9bfed1ff76f1e65e5624165a48bd1e1b065699da5d93934cc10eca4e39541576
 
-[tweaks-6.0.0]: https://github.com/kamar535/hugo-theme-relearn-tweaks/releases/tag/v6.x
+[tweaks-8.0.0]: https://github.com/kamar535/hugo-theme-relearn-tweaks/releases/tag/v8.x
 
-## Subsites
-
-Each year subsites are added for the Swedish and English verisons of the site. 
-
-## Common configuration
-
-Configuration common to all sites are kept in the `hugo.toml` in the `github.com/kamar535/hugo-theme-relearn-tweaks` module. 
-
-## Site specific configuration
-
-Each subsite has its own `hugo.toml` with subsite specific configuration. 
-
-## Combining multiple configuration files
-
-Two or more configuration files can be combined with left-to-right precedence:
+## go.mod
+Specific versions know to work (2025-08-20) in `go.mod`.
 
 ```
-hugo --config a.toml, b.toml, c.toml
+
+require (
+	github.com/McShelby/hugo-theme-relearn v0.0.0-20250716233834-d73f7699a601 // indirect
+	github.com/kamar535/hugo-theme-relearn-tweaks v0.0.0-20250820131617-2f806183b3ef // indirect
+)
+
+````
+
+## Content structure
+
+The sites used the [multilingual] features of Hugo. 
+In the `content` directory, the content for the the swedish version is in the `swedish` subdirectory and the content for the english version is in the `english` subdirectory. 
+
+Inside each language subdirectory, each year has its own subdirectory. 
+
+[multilingual]: https://gohugo.io/content-management/multilingual/
+
+## Development server
+
+To start a development Hugo server, navigate to the `introduktion-till-datorer.github.io` directory and run the following command from the terminal. 
+
+``` 
+hugo server
 ```
 
-In the above example settings in `a.toml` as the highest precedence and will override settings in `b.toml` and `c.toml`.
+## Deploy to GitHub pages 
 
-## Build specific subsites
+Every time you push to the `main` branch the GitHub workflow `.github/workflows/hugo.yaml` is run by GitHub to build and deploy the site on the following URL. 
 
-To build a specific subsite, use `hugo` from the root directory togheter with the config for the site. 
+- https://introduktion-till-datorer.github.io/
 
-For example, to build the Swedish 2024 site: 
-
-```
-hugo server --config=2024/hugo.toml hugo.toml
-```
-
-For example, to build the English 2024 site: 
-
-```
-hugo server --config=2024-eng/hugo.toml hugo.toml
-```
-
-
-## GitHub pages 
-
-The site is hosted on [GitHub pages](https://pages.github.com/). When a new subiste is added you must add build rules in `.github/workflows/hugo.yaml`. Read more here:
-
-- https://gohugo.io/host-and-deploy/host-on-github-pages/
 
 ## Hugo Go Modules
 
 One way to share parts of a Hugo sites between different projects is using [Hugo
-modules](https://gohugo.io/hugo-modules/). 
-
-Read more: 
+modules](https://gohugo.io/hugo-modules/). Read more: 
 
 - [Using Hugo Modules Instead of Git Submodules](https://www.adamormsby.com/posts/012-hugo-modules/)
 
@@ -131,13 +126,13 @@ you will get an error.
 
 **Note:** Only do this when you want to update the site to use the latest versions of the imported modules. 
 
-To get references to the latest version of each module and save these in 'go.mod':
+To get references to the latest version of each module and save these in `go.mod`:
 
 ```
 hugo mod get
 ```
 
-Keep in mind that the stored module references in `go.mod`` are references to a
+Keep in mind that the stored module references in `go.mod` are references to a
 specific commit on a github repo, not a branch. 
 
 ## Make and test changes in a module
