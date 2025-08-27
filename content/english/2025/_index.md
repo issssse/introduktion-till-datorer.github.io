@@ -1,12 +1,12 @@
 +++
-title = "Introduction to IT systems 2024"
+title = "Introduction to IT systems 2025"
 
 [[cascade]]
   [cascade.params]
-      year = "2024"
+      year = "2025"
     [[cascade.params.sidebarmenus]]
-      identifier = '2024'
-      pageRef = '/2024'
+      identifier = '2025'
+      pageRef = '/2025'
       type = 'page'
 
     [[cascade.params.sidebarmenus]]

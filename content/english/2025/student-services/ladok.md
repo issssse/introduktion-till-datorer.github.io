@@ -28,7 +28,7 @@ up to date and update if necessary.
 
 ## Register for courses
 
-In Ladok you register for courses that you applied for from 
+In Ladok you register for courses that you applied for 
 through https://www.universityadmissions.se. It is
 very important that you register for the courses after you have been accepted,
 otherwise you will not be able to access the course material in Studium. 

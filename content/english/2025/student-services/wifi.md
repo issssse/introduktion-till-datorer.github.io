@@ -18,9 +18,10 @@ to the UU-Guest network.
 [eduroam-wp]: https://en.wikipedia.org/wiki/Eduroam
 
 [where]: https://eduroam.org/where/
+
 ### Student account
 
-To access Eduroam you must have [an activated student
+To access Eduroam you must have an **activated** [student
 account](../../preparation#student-account).
 
 ### Create password B

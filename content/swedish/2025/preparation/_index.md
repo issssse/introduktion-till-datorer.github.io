@@ -128,11 +128,11 @@ giltig ID-handling.
 
 Läs mer om campuskortet vid Uppsala universitet [här][campuskort]. Vid tekniska
 problem vid inpassering med hjälp av ditt campuskort besöker du enklast
-receptionen eller kontaktar [studentservice][studentservice].
+receptionen.
  
 ## Zoom 
     
-Vid Uppsala universtet är ett viktigt verktyg för undervisning, samarbete och examination på distans
+Vid Uppsala universitet är ett viktigt verktyg för undervisning, samarbete och examination på distans
 [Zoom][zoom]. På vissa kurser används Zoom även för vissa former av löpande
 examination, även när det inte är pandemi.
 

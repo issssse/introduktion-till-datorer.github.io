@@ -13,7 +13,7 @@ Files and folders form a tree structure. The tree starts at the **root** and eac
 folder forms its own branch in the tree. The tree is usually depicted upside down with the root
 at the top as in this example with the **root** (1) at the top.
 
-![](/images/2024/student-services/files-and-folders/file-tree-example.png?width=300px)
+![](/images/en/2025/student-services/file-tree-example.png?width=300px)
 
 In the folder **root** (1) you find the  files **jacob** (2) and **monkey** (3) and the folders
 **buddies** (4) and **animals** (7).
@@ -34,29 +34,31 @@ in the folder **root** (1) the same name as the file **monkey** (9) located in t
 
 ## Path
 
-Each file has a unique **path** in the tree structure. The path starts at the
-root and for each folder (branch) the symbol `\` is added. The folder
+Each file has a unique **path** in the tree structure. In Windows, the root is represented by the name of the hard drive followed by `:` and `\`, for example `C:\`. 
+
+The path starts at the
+root and for each folder (branch) the symbol `\` is added. If the hard drive is named `C`, The folder
 **animals** (7) has the following path.
 
 ``` text
-root\animals
+C:\animals
 ```
 
 The fill **emily** (5) has the following path. 
 
 ``` text
-root\buddies\emily
+C:\buddies\emily
 ```
 
 The file **jacob** (2) has the same name as the file **jacob** (6), but the
 files has unique paths. The file **jacob** (2) has the following path.
 
 ``` text
-root\jacob
+C:\jacob
 ```
 
 The file **jacob** (6) has the following path. 
 
 ``` text
-root\buddies\jacob
+C:\buddies\jacob
 ```

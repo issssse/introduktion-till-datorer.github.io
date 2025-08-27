@@ -64,8 +64,7 @@ upcoming assignments and what needs to be done in your courses.
 
 ## Learn more about Studium
 
-You can learn more about Studium in the
-[Studium resources for students][studentresurs].
+Learn more about Studium [here][learn-more].
 
-[studentresurs]: https://uppsala.instructure.com/courses/16241/pages/home/
+[learn-more]: https://www.uu.se/en/students/it-for-students/services-for-students/studium
 

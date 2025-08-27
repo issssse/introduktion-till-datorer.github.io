@@ -10,7 +10,6 @@ things you should fix as soon as possible.
 
 ## Campus Gotland
 
-
 [Campus Gotland][campus-gotland] is located between the beach and the ring wall in Visby's inner
 harbour. The address is [Cramérgatan 3][google-maps]. On the map below you can see the various buildings that make up Campus
 Gotland. You will find the [reception][campus-gotland-reception] at the main entrance.
@@ -59,32 +58,8 @@ Password B
 
 You can activate your student account at the earliest a couple of days after
 you, as a new student, receive the second, final admission notice. If you have
-not already done so, you must [activate your Student
-Account](https://konto.weblogin.uu.se/index-en.html). A one-time code (which you
-should have been sent to you) is required to do this. When your student account
-is activated, you can log in to [Studium][studium] and see the courses to which you have
-been accepted.
-
-
-### Onetime passcode
-
-If you have not received a one-time code sent to you or have lost it, you can
-get a new one-time code by visiting [the reception at campus
-Gotland][campus-gotland-reception].
-
-
-
-{{% notice style="warning" title="Bring valid ID" %}}
-
-In order to be able to retrieve a onetime passcode, you must be able to present a
-valid ID document.
-
-{{% /notice %}}
-
-If you do not have the opportunity to physically visit the university to collect
-the onetime passcode, you can contact [student services ][studentservice] for help.
-
-[studentservice]: https://www2.uu.se/en/students/contact
+not already done so, you must [activate] your Student
+Account. 
 
 
 ## Register on the course
@@ -94,7 +69,7 @@ first Introduction to IT systems session. If you are not registered, you will
 not be able to submit the mandatory assignments in Studium. If you are not
 already registered, please contact your supervisor for assistance.
 
-[register]: https://www2.uu.se/en/students/admission-and-registration/register
+[register]: https://www.uu.se/en/students/admission-and-registration/register
 
 ## Campus card
 
@@ -102,19 +77,15 @@ To enter computer rooms, seminar rooms and lecture halls, you need a Campus
 card. The campus card and are issued at [the Campus Gotland
 reception][campus-gotland-reception].
 
+[campuskort]: https://www.uu.se/en/students/your-rights/campus-card
 
-[campuskort]: https://www2.uu.se/en/students/your-rights/campus-card
+You can request a new Campus card [online][obtain-campus-card], including uploading a photo of yourself. Once your Campus card is ready you can pick it up at the Campus Gotland reception. Make sure to bring a valid ID when you pick up your new Campus card. 
 
-{{% notice style="warning" title="Bring valid ID" %}}
+Read more about the campus card at Uppsala University [here][campuskort].
 
-In order to collect your campus card, you must be able to present a valid ID
-document.
-
-{{% /notice %}}
-
-Read more about the campus card at Uppsala University [here][campuskort]. In case of technical
+In case of technical
 problems when entering using your campus card, the easiest way is to visit
-[the reception][campus-gotland-reception] or contact [student services][studentservice].
+the [reception][campus-gotland-reception].
 
 ## Zoom 
 
@@ -127,8 +98,7 @@ divided into smaller groups. It is also possible to record a Zoom meeting.
 
 ### Activate your Zoom account
 
-Before you start using Zoom at Uppsala University, you must [activate your Zoom
-account][activate-zoom], which is linked to your [Student account](#student-account).
+Before you start using Zoom at Uppsala University, you must [activate][activate-zoom] your Zoom account, which is linked to your [Student account](#student-account).
 
 [uu-zoom]: https://www.uu.se/en/students/it-for-students/software/zoom
 

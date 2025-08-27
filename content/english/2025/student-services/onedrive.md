@@ -15,7 +15,7 @@ OneDrive and later access the file in OneDrive from your private computer.
 
 Among the icons in the taskbar you find the **file explorer**. 
 
-![](/images/2024/student-services/windows/taskbar-explorer.png)
+![](/images/en/2025/student-services/windows-taskbar-explorer.png)
 
 When you click on the file explorer icon, a new window opens. 
 

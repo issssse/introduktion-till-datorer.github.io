@@ -33,11 +33,9 @@ Before you start with the assignment, you should make the following preparations
 
 To the left of this page you see the following menu. 
 
-<img src="/images/2024/studenttjanster/eng_studenttjanster_index.png" style="width: 333px"/>
+![](/images/en/2025/student-services/homepage-menu.png?width=533px)
 
-Open the [Student services](../student-services) main page in a new browser window or in
-a new tab. If you haven't done so already, read all but the last page (this very
-page) marked with {{% assignmentIcon mandatory %}}. Consult these pages when you work on the assignment. 
+Start by reading through the initial information pages.  Consult these pages when you work on the assignment. 
 
 ### Prepare document for submission
 

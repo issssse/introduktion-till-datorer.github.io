@@ -6,6 +6,7 @@ weight: 90
 Late submissions after the courses ends will be marked during the re-exam
 periods. 
 
+<!--
 <p class="small-table"></p>
 
 | Retake period | Year | Week | Star date | End date |
@@ -17,6 +18,8 @@ periods.
 
 
 **TBA:** These dates are yet not decided and will be announced later. 
+-->
+
 
 If you hand in a supplement at the beginning of a retake period there will be
 time for you to get it marked and if necessary resubmit it again within the same
@@ -27,6 +30,5 @@ marked again.
 ## Question about late submissions
 
 All questions about late submissions should be sent to 
-Har du frågor rörande kompletteringar ska dessa skickas till
 [komplettera-introduktion-till-datorer@it.uu.se](mailto:komplettera-introduktion-till-datorer@it.uu.se).
 

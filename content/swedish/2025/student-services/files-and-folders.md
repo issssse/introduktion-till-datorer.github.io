@@ -34,7 +34,7 @@ i mappen **roten** (1) samma namn som filen **apa** (9) som ligger i mappen
 
 Windows och Linux använder sig av olika symboler för roten i filsystemet. 
 
-- På Windows används anges namnet på hårdisken följt av symbolen `\` för att beteckna roten i filsystemet, till exempel `C:\`. 
+- På Windows används anges namnet på hårdisken följt av `:` och `\` för att beteckna roten i filsystemet, till exempel `C:\`. 
 
 - På Linux används symbolen `/` för att beteckna roten i filsysmet.
 

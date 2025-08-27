@@ -21,6 +21,6 @@ making a credit card payment. Scanning documents is free of charge.
 
 ## Get started with eduPrint
 
-Read more how to [get started with eduPrint][get-started]. 
+Read more [here][read-more] on how to get started with eduPrint.
 
-[get-started]: https://www2.uu.se/en/students/it-for-students/copy-print-and-scan
+[read-more]: https://www.uu.se/en/students/it-for-students/copy-print-and-scan

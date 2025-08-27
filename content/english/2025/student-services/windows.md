@@ -6,8 +6,7 @@ weight: 4
 In the computer room [B36][B36] at [Campus Gotland][gotland] you find computers with
 Windows. 
 
-[B36]:
-    https://use.mazemap.com/#v=1&campusid=100&zlevel=3&center=18.288615,57.639342&zoom=18&sharepoitype=poi&sharepoi=293398
+[B36]: https://use.mazemap.com/#v=1&campusid=100&zlevel=3&center=18.288615,57.639342&zoom=18&sharepoitype=poi&sharepoi=293398
 
 [gotland]: https://www.uu.se/en/campus/gotland
 
@@ -22,7 +21,7 @@ Windows.
 If the computer is on, the power button lights up in the bottom right corner of the screen. Wake up the computer
 by moving the mouse or pressing any of the keys on the keyboard.
 
-![](/images/2024/computer-rooms/power-button.png)
+![](/images/en/2025/student-services/windows-power-button.png)
 
 If the power button is not lit, you need to press the power button too
 to turn on the computer.
@@ -62,7 +61,7 @@ computer A.
 
 Among the icons in the taskbar you find the **file explorer**. 
 
-![](/images/2024/student-services/windows/taskbar-explorer.png)
+![](/images/en/2025/student-services/windows-taskbar-explorer.png)
 
 When you click on the file explorer icon, a new window opens. 
 
