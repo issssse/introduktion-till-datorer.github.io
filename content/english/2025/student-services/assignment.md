@@ -39,7 +39,7 @@ Start by reading through the initial information pages.  Consult these pages whe
 
 ### Prepare document for submission
 
-Create a pure text document named `abcd1234_studen_services.txt`, where you
+Create a pure text document named `abcd1234_student_services.txt`, where you
 replace `abcd1234` with your student account username.
 
 {{% notice style="warning" title="A pure text file" %}}
