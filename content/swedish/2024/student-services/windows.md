@@ -3,7 +3,7 @@ title: Windows
 weight: 4
 ---
 
-I [datorsalar](computer-rooms) på [Campus Ångströmlaboratoriet][ångström] och
+I [datorsalar](../computer-rooms) på [Campus Ångströmlaboratoriet][ångström] och
 [Campus Gotland][gotland] finns datorer med Windows. 
 
 [ångström]: https://www.uu.se/campus/angstromlaboratoriet

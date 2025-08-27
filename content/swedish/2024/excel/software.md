@@ -45,4 +45,4 @@ det verktyg som kommer användas i denna modul.
 
 På campus Ångströmlaboratoriet finns Excel installerat på datorer i alla [datorsalar][salar]. 
 
-[salar]: computer-rooms
+[salar]: ../computer-rooms

@@ -1,4 +1,4 @@
-The public [website][idt] for [Introduction to IT Systems (Introduktion till datorer)](https://introduktion-till-datorer.github.io/) at the [Faculty of Science and Technology](https://www.uu.se/en/students/faculty/science-and-technology) at [Uppsala university](https://www.uu.se/en) uses the static site generator [Hugo][hugo] and is hosted on [GitHub pages](https://pages.github.com/).
+The public [website][idt] for Introduction to IT Systems (Introduktion till datorer) at the [Faculty of Science and Technology](https://www.uu.se/en/students/faculty/science-and-technology) at [Uppsala university](https://www.uu.se/en) uses the static site generator [Hugo][hugo] and is hosted on [GitHub pages](https://pages.github.com/).
 
 [idt]: https://introduktion-till-datorer.github.io/
 
@@ -10,6 +10,12 @@ The latest versions of dependencies verified to be able to build this site are:
 
 - [Go][go] version 1.24.1
 - [Hugo][hugo] version [0.146.5]
+
+## Hugo Relearn Theme
+
+The site uses the Hugo [Relearn Theme][relearn].
+
+[relearn]: https://mcshelby.github.io/hugo-theme-relearn/index.html
 - Hugo Relearn theme [version 8][relearn-8], specifically the [d73f769] commit. 
 - [Hugo theme Relearn tweaks][tweaks] version  [v8.0.0][tweaks-8.0.0]. 
 

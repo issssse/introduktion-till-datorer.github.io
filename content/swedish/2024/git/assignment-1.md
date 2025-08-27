@@ -9,7 +9,7 @@ Med hjälp av denna uppgift kommer du få testa på grunderna vid arbete med Git
 {{% notice style="warning" title="Viss terminalvana erfordras" %}}
 
 Det är starkt rekommenderat att du löst uppgifterna i modulen
-[Terminalen](terminal) innan du påbörjar den här uppgiften.
+[Terminalen](../terminal) innan du påbörjar den här uppgiften.
 
 {{% /notice %}}
 
@@ -27,7 +27,7 @@ För att lösa uppgiften kommer varje student att behöva:
 - En webbläsare
 - En terminal
 - Programmet `git`
-- En [texteditor](/editors)
+- En [texteditor](../editors)
 
 Uppgiften är testad på och går att utföra på Uppsala universitets Linuxsystem,
 men även på egen dator om det som krävs finns installerat.

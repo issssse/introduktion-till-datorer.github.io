@@ -15,7 +15,7 @@ i datorsal på Campus Ångström. Om du installerar och kör Anaconda på din eg
 dator bör du kunna följa alla instruktioner utom de som rör hur du startar
 Anaconda och Spyder.
 
-[computer-rooms]: computer-rooms/#campus-ångströmlaboratoriet
+[computer-rooms]: ../computer-rooms/#campus-ångströmlaboratoriet
 [ångström]: https://angstrom.uu.se/
 [anaconda]: https://www.anaconda.com/
 [spyder]: https://www.spyder-ide.org/
@@ -25,7 +25,7 @@ Anaconda och Spyder.
 
 [Logga in][login] på en dator i en datorsal på Campus Ångström. 
 
-[login]: computer-rooms/#logga-in-p%C3%A5-dator-i-datorsal-p%C3%A5-campus-%C3%A5ngstr%C3%B6m
+[login]: ../computer-rooms/#logga-in-p%C3%A5-dator-i-datorsal-p%C3%A5-campus-%C3%A5ngstr%C3%B6m
 
 ## Starta Anaconda Navigator
 
