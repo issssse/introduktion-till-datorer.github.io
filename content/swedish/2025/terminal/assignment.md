@@ -2,7 +2,6 @@
 title: Uppgift
 weight: 20
 assignment: mandatory
-draft: true
 ---
 
 ## Mål
@@ -24,7 +23,7 @@ Om du väljer att utföra uppgiften på något annat sätt, till exempel på en 
 dator med Linux, behöver du tillgång till följande:
 
 + En POSIX-kompatibel terminal.
-    + Information om terminalen i Windows finns på [introduktionssidan för Terminalen](../#öppna-en-terminalemulator).
+    + Information om terminalen i Windows finns på [introduktionssidan för Terminalen](../introduction/#öppna-en-terminalemulator).
     + Uppgifterna går alltså även att lösa med *zsh*
 + Programmen `tar`, `grep`, `cp`, `curl` samt en texteditor, t ex
     `nano`. 
@@ -33,7 +32,7 @@ dator med Linux, behöver du tillgång till följande:
 
 ## Uppgift
 
-Materialet som tas upp i uppgiften diskuteras på [introduktionssidan för Terminalen](../).
+Materialet som tas upp i uppgiften diskuteras på [introduktionssidan för Terminalen](../introduction).
 
 {{% notice style="info" title="Kom ihåg!" %}}
 
@@ -41,7 +40,7 @@ Genom att trycka på uppåtpilen ( `↑` ) på tangentbordet återfås tidigare 
 
 {{% /notice %}}
 
-### Del 1: Skapa mappar
+## Skapa mappar
 
 1. Använd `mkdir` för att skapa en mapp med namnet `terminal_uppgift_abcd1234`,
    där `abcd1234` ska ersättas med användarnamnet för ditt studentkonto.
@@ -68,7 +67,7 @@ denna output när du står i mappen ovanför `terminal_uppgift_abcd1234`.
 
 {{% /notice %}}
 
-### Del 2: Skapa, kopiera och döp om en textfil
+## Skapa, kopiera och döp om en textfil
 
 1. Skapa filen `textfil.txt` med texten `En textfil` som enda innehåll.
     + Du kan exempelvis använda `nano`, men vilken editor som helst ska fungera
@@ -94,19 +93,21 @@ Katalogstrukturen ska nu se ut så här:
     └── deluppgift_2
         └── hittad_rad.txt
 ```
+## Ladda ner fil
+
+Ladda ner filen [jobbig_textfil.txt][jobbig] och lägg den i mappen `deluppgift_2`. Du kan ladda hem filen genom att högerklicka på länken [jobbig_textfil.txt][jobbig] och ladda ner filen. 
+
+Ett alternativt sätt att ladda hem filen är att använda kommandot `curl` direkt från terminalen. Om du utför kommandot nedan i terminalen kommer filen `jobbig_textfil.txt` att laddas ner till aktuell katalog. 
+
+[jobbig]: /terminal/assignment/jobbig_textfil.txt
+
+``` text
+curl -O  https://introduktion-till-datorer.github.io/2025/terminal/assignment/jobbig_textfil.txt
+```
 
 
-### Del 3: Använda omdirigering
+## Använda omdirigering (pipes)
 
-<!-- 
-1. Ladda ner filen [jobbig_textfil.txt](/terminalen/assignment/jobbig_textfil.txt) -->
-och lägg den i mappen
-   `deluppgift_2`
-    + Du kan använda kommandot `curl` för att göra detta
-        direkt i terminalen: `curl -o  <filnamn att spara till> <url-länk>` laddar ner filen i den angivna länken och sparar som det angivna filnamnet.
-    + De flesta terminalemulatorer låter dig klistra in text med
-        `<Ctrl>+<Shift>+V`, `<Shift>+<Insert>` eller klick med musens
-        mittenknapp. I vissa terminaler används `<Alt>+v` för att klistra in.
 2. Använd pipes ( `|` ) och `grep` för att få fram raden (eller raderna) som innehåller `Hitta mig`, givet kommandot `cat jobbig_textfil.txt`
     + Använd `grep` med citattecken för att enkelt få med mellanslag.
     + Kom ihåg att kolla efter stora och små bokstäver.
@@ -122,7 +123,7 @@ Hitta mig! (denna text ska se annorlunda ut)
 ```
 
 
-### Del 4: Komprimera mappen med tar
+## Komprimera mappen med tar
 
 1. Byt katalog till den ovanför `terminal_uppgift_abcd1234`.
 2. Använd `tar` för att komprimera katalogen `terminal_uppgift_abcd1234` till filen
@@ -174,9 +175,7 @@ att skriva `https://login.studium.uu.se` i addressfältet.
 
 ### Lämna in
 
-I Studium navigerar du nu till kursen **1DT051 HT2024** och lämnar in bilden du
-sparat tidigare. I Studium hittar du inlämningen i modulen **[M1] Introduktion till datorer** och uppgiften
-**[M1] Terminalen**.
+Lämna in det komprimerade filarkivet i Studium. 
 
 - Filen du skall ladda upp skall ha namnet `abcd1243_terminal.tar.gz`, där
 `abcd1234` ersätts med användarnamnet för ditt Studentkonto. 

@@ -107,11 +107,9 @@ att skriva `https://login.studium.uu.se` i addressfältet.
 
 ![](/images/2024/linux/linux-studium-login.png)
 
-## Lämna in
+## Lämna in i Studium
 
-I Studium navigerar du nu till kursen **1DT051 HT2024** och lämna in bilden du sparat tidigare
-Linux-systemet under modulen **[M1] Introduktion till datorer** och uppgiften
-**[M1] Linux**.
+Lämna in bilden du sparat [tidigare](#spara-bilden) i Studium. 
 
 - Bilden du skall ladda upp skall ha namnet `abcd1243_linux.png`, där
 `abcd1234` ersätts med användarnamnet för ditt Studentkonto. 
