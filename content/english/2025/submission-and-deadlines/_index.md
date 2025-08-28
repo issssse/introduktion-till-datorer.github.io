@@ -22,14 +22,9 @@ deadline.
 
 You hand in your assignments from the course page in Studium: 
 
-<!-- 
+- [LKF (campus) - 1TG284][1tg284-campus]
 
-[LKF (campus) - 1TG284][1tg284-campus]
-
-
-[1TG284-campus]: https://uppsala.instructure.com/courses/68960
-
--->
+[1TG284-campus]: https://uppsala.instructure.com/courses/111241
 
 From the Studium course page, click on **Modules** (1). 
 
