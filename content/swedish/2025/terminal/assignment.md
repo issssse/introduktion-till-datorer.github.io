@@ -99,7 +99,7 @@ Ladda ner filen [jobbig_textfil.txt][jobbig] och lägg den i mappen `deluppgift_
 
 Ett alternativt sätt att ladda hem filen är att använda kommandot `curl` direkt från terminalen. Om du utför kommandot nedan i terminalen kommer filen `jobbig_textfil.txt` att laddas ner till aktuell katalog. 
 
-[jobbig]: /terminal/assignment/jobbig_textfil.txt
+[jobbig]: /2025/terminal/assignment/jobbig_textfil.txt
 
 ``` text
 curl -O  https://introduktion-till-datorer.github.io/2025/terminal/assignment/jobbig_textfil.txt
