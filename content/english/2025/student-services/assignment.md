@@ -74,9 +74,6 @@ Quiz:
     C)
 
     D)
-
-Survey:
-
 ```
 
 When working with the assignment, you will append your answers to the above
@@ -159,20 +156,6 @@ text document.
 
 
 </ol>
-
-### Part 5: Survey 
-
-Open the [New student - Survey 2024][survey-1]. The survey consist of a number of
-sections. The first section is named **1. Personal data**.
-
-- Take the survey. 
-- Append the name of the last section of the survey after `Survey: ` in your
-  text document. 
-
-[survey-1]: https://doit.medfarm.uu.se/bin/kurt3/kurt/8870465
-
-It is voluntary to submit the survey, but it is important for the university
-that that as many new students as possible participate. 
 
 <!-- 
 

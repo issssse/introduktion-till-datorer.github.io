@@ -80,9 +80,6 @@ Quiz:
     C)
 
     D)
-
-Enkät:
-
 ```
 
 Denna lista kommer du använda för att fylla i svaren på deluppgifterna nedan, och
@@ -175,27 +172,6 @@ bokstav i ditt textdokument:
 
 </ol>
 
-### Del 5: Nybörjarenkäten
-
-
-{{% notice style="warning" title="KandLedarskap (distans)" %}}
-
-Om du läser KandLedarskap (distans) så ska du hoppa över denna fråga.
-
-{{% /notice %}}
- 
-Öppna [nybörjarenkäten](https://doit.medfarm.uu.se/bin/kurt3/kurt/8870464).
-
-- Enkäten är uppdelad i olika avsnitt.
-- Det första avsnittet heter **1. Personuppgifter**.
-- Fyll i enkäten och skriv **namnet** på det **sista avsnittet**, avsnitt 6 (sex) efter `Enkät:` i textdokumentet.
-
-{{% notice title="Enkäten är frivillig" %}}
-
-Notera att det är frivilligt att fylla i och lämna in enkäten. Att du deltar och
-lämnar in enkäten är dock till stor hjälp för Uppsala universitet.
-
-{{% /notice %}}
 
 <!--
 ### Del 6: En enkät till 
