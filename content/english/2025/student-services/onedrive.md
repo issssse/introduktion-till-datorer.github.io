@@ -31,11 +31,6 @@ If you don't find **OneDrive** in the File explorer, search for **One Drive** in
 
 ![](/images/2025/windows/one-drive-from-taskbar.png?width=555px)
 
-
-Click on **OneDrive** in the file explorer. 
-
-![](/images/2024/studenttjanster/windows/explorer-onedrive.png)
-
 You must now provide your email address on the form
 `firstname.lastname.1234@student.uu.se`.
 
