@@ -23,9 +23,13 @@ När du klickar på ikonen för utforskaren öppnas ett nytt fönster.
 
 ## Aktivera OneDrive
 
-Klicka på **OneDrive** i utforskaren. 
+Om du hittar **OneDrive** i utforskaren klickar du på **OneDrive**. 
 
 ![](/images/2024/studenttjanster/windows/explorer-onedrive.png)
+
+Om du inte hittar **OneDrive** i utforskaren, sök efter **One Drive** i **taskbar** (1) och klicka på **OneDrive App** (2).
+
+![](/images/2025/windows/one-drive-from-taskbar.png?width=555px)
 
 Du kommer nu behöva ange din e-postadress på formen
 `fornamn.efternamn.1234@student.uu.se`. 

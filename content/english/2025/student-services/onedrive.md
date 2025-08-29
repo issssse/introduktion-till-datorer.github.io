@@ -23,6 +23,15 @@ When you click on the file explorer icon, a new window opens.
 
 ## Activate OneDrive
 
+If you find **OneDrive** in the File explorer, click on **OneDrive**. 
+
+![](/images/2024/studenttjanster/windows/explorer-onedrive.png)
+
+If you don't find **OneDrive** in the File explorer, search for **One Drive** in the  **taskbar** (1) and click on **OneDrive App** (2).
+
+![](/images/2025/windows/one-drive-from-taskbar.png?width=555px)
+
+
 Click on **OneDrive** in the file explorer. 
 
 ![](/images/2024/studenttjanster/windows/explorer-onedrive.png)
