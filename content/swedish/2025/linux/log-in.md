@@ -14,7 +14,7 @@ med Windows.
 
 {{< figure 
     width="555px" 
-    src="/images/2024/linux/hus-10-pc.jpg" 
+    src="/images/2025/windows/student-pc.jpg" 
     title="Arbetsplats med dator som kör Windows." 
 >}}
 
@@ -35,49 +35,31 @@ Windows använda ThinLinc Client för att logga in mot en Linux-server.
 
 ## Logga in i Windows
 
-
 För att logga in i Windows anger du användarnamnet för ditt **studentkonto** på
 formen `abcd1234` och **Lösenord A**.
 
-![](/images/2024/linux/windows-10-login.jpg?width=444px)
+![](/images/2025/windows/login.jpg?width=444px)
 
-## Software Center (ZENworks)
+## Skrivbordet (Windows)
 
-Någonstans på skrivbordet hittar du **Software center (Zenworks)**.
+När du loggat in i Windows ser du **Skrivbordet**. 
+
+![](/images/2025/windows/desktop.png)
 
 
-![](/images/2024/linux/software-center-icon.png)
+## Aktivitetsfältet (taskbar)
 
-Dubbelklicka på ikonen för **Software center (Zenworks)**. Nu öppnas ett nytt
-fönster med tillgänglig mjukvara. 
+Längst ner på skrivbordet hittar du **Aktivitetsfältet (taskbar)**. 
 
-![](/images/2024/linux/software-center.png)
+![](/images/2025/windows/taskbar.png)
 
-Den mjukvara som du hittar här kan redan vara installerad på den dator du
-sitter vid. Om ett program inte redan är installerad kommer det att installeras första gången du
-försöker använda programmet. 
+## Starta ThinLinc
 
-## Starta ThinLinc client
+I **Aktivitetsfältet** hittar du en sökruta. Skriv in **ThinLinc** i sökrutan (1). 
 
-Från **Software Center** letar du nu reda på **ThinLinc client**.
+![](/images/2025/linux/start-thinlinc.png?width=500px)
 
-![](images/linux/software-center-thinlinc-client-icon.png)
-
-Dubbelklicka på **ThinLinc Client**. Om ThinLinc Client redan finns installerat
-på dator du arbetar vid kommer det gå fort att starta. Om det inte finns
-installerat redan kommer det först installeras och sedan startas. 
-
-## Windows taskbar
-
-När ThinLinc client startat dyker ikonen för ThinLinc client upp nere i
-**taskbar** i Windows.
-
-![](/images/2024/linux/windows-taskbar-thinlinc-client.png)
-
-## Logga in med ThinLinc Client
-
-Klicka på ikonen för **Thinlinc Client** nere i **taskbar**. Nu skall du se en
-ruta för inloggning mot Linux-systemet. 
+Bland sökresultaten skall du nu hitta **ThinLinc Client** (2). När du klickar på **ThinLinc Client** (2) dyker ett fönster upp där du kan logga in i Linux-systemet. 
 
 - I fältet **Server** skall det stå `thinlinc.student.it.uu.se`.
 - I fältet **Username** skriver du användarnamnet för ditt **studentkonto** på
@@ -94,7 +76,7 @@ följande meddelande.
 
 Om du ser meddelandet ovan, klicka på **Continue**. 
 
-## Skrivbordet 
+## Skrivbordet (Linux)
 
 Om du lyckas logga in öppnas ett nytt fönster med skrivbordsmiljön för Linux.
 Detta fönster kan du maximera eller ändra storlek på, precis som för vilket

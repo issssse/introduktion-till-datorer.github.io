@@ -13,3 +13,24 @@ klicka på ikonen med en dator längst upp till höger och sedan välja **Log Ou
 Efter att du loggat ut stängs fönstret med Linux. Om du loggat ut av misstag
 måste du återigen starta ThinLinc Client och [logga in](../log-in) igen för att
 fortsätta arbeta med Linux.
+
+Efter att du loggat ut från Linux (ThinLinc) är du tillbaka i Windows. 
+
+## Logga ut från Windows
+
+Längst ner på skrivbordet Windows hittar du **Aktivitetsfältet (taskbar)**. 
+
+![](/images/2025/windows/taskbar.png?width=500px)
+
+Klicka på **Start-knappen** (1).
+
+![](/images/2025/windows/sign-out-1.png?width=500px)
+
+Klicka på ditt namn (2).
+
+![](/images/2025/windows/sign-out-2.png?width=500px)
+
+Klicka på **Sign out** (3).
+
+![](/images/2025/windows/sign-out-3.png?width=500px)
+

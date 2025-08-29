@@ -12,7 +12,7 @@ Windows.
 
 {{< figure 
     width="555px" 
-    src="/images/2024/computer-rooms/hus-10-pc.jpg" 
+    src="/images/2025/windows/student-pc.jpg" 
     title="Computer with Windows" 
 >}}
 
@@ -21,7 +21,7 @@ Windows.
 If the computer is on, the power button lights up in the bottom right corner of the screen. Wake up the computer
 by moving the mouse or pressing any of the keys on the keyboard.
 
-![](/images/en/2025/student-services/windows-power-button.png)
+![](/images/en/2025/windows/power-button.png)
 
 If the power button is not lit, you need to press the power button too
 to turn on the computer.
@@ -31,23 +31,14 @@ To log in to Windows, enter the username of your
 
 [student-account]: ../preparation/#student-account
 
-![](/images/2024/linux/windows-10-login.jpg?width=444px)
+![](/images/2025/windows/login.jpg?width=444px)
 
 It may take a little while to log in, but after a while the **desktop** will
 appear.
 
-![](/images/2024/studenttjanster/windows/desktop.png)
+![](/images/2025/windows/desktop.png)
 
-## Log out
 
-To log out, press the **Windows symbol** (1) at the bottom left of the
-taskbar.
-
-![](/images/2024/studenttjanster/windows/windows-symbol.png)
-
-Press **Sing out** (2) to log out.
-
-![](/images/2024/studenttjanster/windows/sign-out.png?width=300px)
 
 ## Local files
 
@@ -61,10 +52,28 @@ computer A.
 
 Among the icons in the taskbar you find the **file explorer**. 
 
-![](/images/en/2025/student-services/windows-taskbar-explorer.png)
+![](/images/en/2025/windows/taskbar-file-explorer.png?width=555px)
 
 When you click on the file explorer icon, a new window opens. 
 
 ![](/images/2024/studenttjanster/windows/file-explorer-1.png)
 
 In the file explorer you can se all local files and folders. 
+
+## Log out
+
+At the bottom of the desktop you find the taskbar. 
+
+![](/images/2025/windows/taskbar.png?width=555px)
+
+To log out, cllick on **Windows symbol** (1) in the taskbar. 
+
+![](/images/2025/windows/sign-out-1.png?width=555px)
+
+Click on your name (2).
+
+![](/images/2025/windows/sign-out-2.png?width=555px)
+
+Click on **Sign out** (3).
+
+![](/images/2025/windows/sign-out-3.png?width=555px)

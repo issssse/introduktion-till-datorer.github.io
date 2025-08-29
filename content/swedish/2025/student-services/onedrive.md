@@ -15,7 +15,7 @@ OneDrive och senare komma åt den i OneDrive från din privata dator.
 
 Bland ikonerna i aktivitetsfältet hittar du **utforskaren**. 
 
-![](/images/2024/studenttjanster/windows/taskbar-explorer.png)
+![](/images/2025/windows/taskbar-file-explorer.png?width=555px)
 
 När du klickar på ikonen för utforskaren öppnas ett nytt fönster. 
 
