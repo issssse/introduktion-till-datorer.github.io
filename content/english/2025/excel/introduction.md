@@ -49,7 +49,11 @@ In the below example, the range `A1:C3` has been selected.
 ## Get started
 
 Microsoft excel should be installed on the computers in the computer rooms at
-the university. You may also use your free [Microsoft Live][live] account to run
+the university. To start Excel from a Windows computer in one of the University computer rooms, search for **Excel** in the taskbar (1) and click on **Excel** (2).
+
+![](/images/2025/excel/taskbar-excel.png?width=555px)
+
+You may also use your free [Microsoft Live][live] account to run
 excel in your web browser. Note that the online version of Excel does not
 support trendlines in graphs.
 
