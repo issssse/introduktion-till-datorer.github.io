@@ -103,7 +103,7 @@ funktionen samt eventuella argument vilka anges inom parenteser.
 I detta exempel väljer vi att placera summan i rutan `A12`. Klicka på den och
 skriv följande, efter vilket du trycker `<Enter>`:
 
-```
+``` text
 =SUM(A1:B11)
 ```
 
