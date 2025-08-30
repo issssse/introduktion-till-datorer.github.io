@@ -1,5 +1,5 @@
 ---
-title: Anaconda och Spyder
+title: Spyder
 weight: 10
 ---
 
@@ -27,33 +27,11 @@ Anaconda och Spyder.
 
 [login]: ../computer-rooms/#logga-in-p%C3%A5-dator-i-datorsal-p%C3%A5-campus-%C3%A5ngstr%C3%B6m
 
-## Starta Anaconda Navigator
-
-Skriv in `anaconda` i sökrutan i aktivitetsfältet (1).
-
-![](/images/2024/python/spyder/search-anaconda-navigator.png)
-
-Högst upp bland resultaten skall du nu se  **Anaconda Navigator** (2) och
-kan nu starta detta program. 
-
-## Anaconda Navigator
-
-Första gången du startar Anaconda Navigator möts du av följande ruta där du får
-valet att skapa ett Anaconda Cloud account. 
-
-![](/images/2024/python/spyder/cloud-login.png)
-
-Om du inte vill skapa ett Anaconda Cloud account stänger du helt enkelt denna
-ruta. Efter att du stängt denna får du se en lista med program som finns
-tillgängliga i Anaconda Navigator. 
-
-![](/images/2024/python/spyder/navigator.png)
-
 ## Starta Spyder
 
-Leta reda på Spyder och tryck på **Launch**. 
+Sök efter **Spyder** i aktivitetsfältet (1) och klicka på **Spynder** (2).
 
-![](/images/2024/python/spyder/launch-spyder.png)
+![](/images/2025/python/taskbar-spyder.png?width=555px)
 
 Så här ser Spyder ut första gången du startar programmet. 
 

@@ -47,7 +47,9 @@ motstående hörn i rektangeln separerade av tecknet `:` (kolon). I exemplet ned
 
 Om du är i en av Uppsala universitets datasalar med Windows bör det finnas en
 version av Excel installerad. Du kan då starta den som vanligt, efter att ha
-loggat in med ditt studentkonto.
+loggat in med ditt studentkonto. Sök efter **Excel** i aktivitetsfältet (1) och klicka på **Excel** (2).
+
+![](/images/2025/excel/taskbar-excel.png?width=555px)
 
 Du kan även använda ett Microsoft Live-konto för att använda Excel i din
 webbläsare. Notera att denna version saknar stöd för trendlinjer.
