@@ -131,6 +131,16 @@ I sidofältet längst till vänster finns de filer du jobbar med. I den vänstra
 
 Instruktionerna som följer utgår från ett helt tomt dokument utan några kommandon, så du kan ta bort allt som står i den vänstra rutan. 
 
+### Svensk rättstavning
+
+För att ställa in svensk rättstavning klickar du först på **Menu** upp till vänster (1). 
+
+![](/images/2025/latex/overleaf-menu.png?width=322px)
+
+Välj sedan **Swedish** som språkk för **Spell Check** (2).
+
+![](/images/2025/latex/overleaf-spell-check-language.png?width=555px)
+
 ### Grundläggande kommandon
 
 Vi kommer nu att ha en noggrann genomgång av vad alla nödvändiga kommandon gör. Det kommer finnas ett kopierbart exempel i slutet av detta avsnitt som du kan använda.
