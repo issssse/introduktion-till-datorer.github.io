@@ -24,6 +24,9 @@ Utgå från följande program.
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Add title
+plt.title('abcd1234', fontweight="bold", size = 20, pad=10)
+
 # x values
 x = np.linspace(-10, 10, 100)
 
