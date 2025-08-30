@@ -32,6 +32,7 @@ disableLanguages = []
     # https://mcshelby.github.io/hugo-theme-relearn/configuration/content/linking/index.html#url-management
     disableExplicitIndexURLs = true
 
+    math = true
 
     # year = 2024
 
@@ -89,6 +90,18 @@ disableLanguages = []
 
             #        [markup.goldmark.renderHooks.link]
             #           enableDefault = true
+
+
+            math = true
+
+
+        [markup.goldmark.extensions]
+            [markup.goldmark.extensions.passthrough]
+                enable = true
+                [markup.goldmark.extensions.passthrough.delimiters]
+                    block = [['\[', '\]'], ['$$', '$$']]
+                    inline = [['\(', '\)']]
+
 
 #  https://gohugo.io/host-and-deploy/host-on-github-pages/#step-5
 [caches]
