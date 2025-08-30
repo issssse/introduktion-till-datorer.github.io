@@ -13,9 +13,9 @@ programmeringsspråket [Python][wp-python]. I denna modul kommer du få testa p�
 [wp-python]: https://sv.wikipedia.org/wiki/Python_(programspr%C3%A5k)
 
 
-## Anaconda och Spyder
+## Spyder och Anaconda
 
-Vi kommer använda oss av [Anaconda][anaconda] och [Spyder][spyder] för att testa på Python. 
+Vi kommer använda oss av [Spyder][spyder] och [Anaconda][anaconda] för att testa på Python. 
 
 - På universitetets datorer finns Anaconda och Spyder tillgängliga.
 - För att vara förberedd inför kommande kurser är det starkt rekommenderat
