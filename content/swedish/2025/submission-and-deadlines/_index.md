@@ -8,8 +8,7 @@ och få dina uppgifter godkända.
 
 ## Deadlines
 
-Deadlines för **inlämning** av uppgifter till en modul är **en vecka efter
-handledningstillfället för respektive modul**.
+Deadlines för alla uppgifter är satt till en vecka efter sista passet med handledning av uppgiften på respektive kurs. Detta innebär att om det finns flera klasser på en kurs är det passet för klassen som har passet sist som bestämmer deadline. Deadlines utifrån denna princip finns inlagda på alla uppgifter i Studium. 
 
 ## Komplettering
 
