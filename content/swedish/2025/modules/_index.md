@@ -60,8 +60,7 @@ just din utbildning framgår av tabellen nedan.
 <td><i class="fas fa-check"></i></td>
 <td/>
 <td><i class="fas fa-check"></i></td>
-<td><i class="fas fa-check"></i></td>
-
+<td/>
 <td/>
 <td><i class="fas fa-check"></i></td>
 </tr>
@@ -93,7 +92,7 @@ just din utbildning framgår av tabellen nedan.
 <td/>
 <td><i class="fas fa-check"></i></td>
 <td/>
-<td></td>
+<td><i class="fas fa-check"></i></td>
 <td/>
 <td/>
 </tr>
