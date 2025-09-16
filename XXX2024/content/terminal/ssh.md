@@ -69,7 +69,7 @@ ssh -p 212 oliver@emu
 ### PuTTY
 
 På äldre versioner av Windows så finns inte OpenSSH, du kan då
-använda dig av andra klienter. Ett populärt alternativ är [PuTTY](http://www.putty.org/).
+använda dig av andra klienter. Ett populärt alternativ är [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
 När du öppnar PuTTY så får du upp detta fönster:
 
 {{< figure 
