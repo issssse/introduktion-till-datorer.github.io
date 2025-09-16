@@ -68,7 +68,7 @@ På Ubuntu-versionen som används i universitets datorer kan du trycka `<Ctrl>+<
 
 + På Mac OS öppnar du den enklast genom att söka efter `terminal` i Spotlight.
 + För Windows finns det i dagsläget ingen inbyggd UNIX-terminal:
-    - [PuTTY](http://www.putty.org/) låter dig ansluta till en UNIX-server via [SSH](#fjärråtkomst-via-ssh) -- du kan då helt enkelt logga in på en av universitets Linux-servrar med samma uppgifter som Studentportalen.
+    - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) låter dig ansluta till en UNIX-server via [SSH](#fjärråtkomst-via-ssh) -- du kan då helt enkelt logga in på en av universitets Linux-servrar med samma uppgifter som Studentportalen.
     - [Cygwin](https://www.cygwin.com/) låter dig installera ett stort antal program som ingår i de flesta Linux-installationer.
     - Microsoft har tillsammans med Canonical (som ligger bakom Ubuntu) introducerat *bash* för Windows 10. En installationsguide finns [här](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide).
     - Du kan även installera ett helt Linux-system med minimal ansträngning på en Windows-dator. Mer om detta står i Linux-modulen.
